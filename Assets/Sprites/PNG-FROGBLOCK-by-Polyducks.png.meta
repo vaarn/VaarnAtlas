@@ -1,0 +1,6264 @@
+fileFormatVersion: 2
+guid: 8196bc47d8fe24742b7ace55c741251b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 368656682726844321
+    second: PNG-FROGBLOCK-by-Polyducks_0
+  - first:
+      213: 7411820403981470878
+    second: PNG-FROGBLOCK-by-Polyducks_1
+  - first:
+      213: 725803561880352125
+    second: PNG-FROGBLOCK-by-Polyducks_2
+  - first:
+      213: -7757815508178790838
+    second: PNG-FROGBLOCK-by-Polyducks_3
+  - first:
+      213: 492707355960377294
+    second: PNG-FROGBLOCK-by-Polyducks_4
+  - first:
+      213: -3054294924445682708
+    second: PNG-FROGBLOCK-by-Polyducks_5
+  - first:
+      213: 8507084668307996066
+    second: PNG-FROGBLOCK-by-Polyducks_6
+  - first:
+      213: -8729516688743152580
+    second: PNG-FROGBLOCK-by-Polyducks_7
+  - first:
+      213: -7961889967689307519
+    second: PNG-FROGBLOCK-by-Polyducks_8
+  - first:
+      213: -2173479867721744929
+    second: PNG-FROGBLOCK-by-Polyducks_9
+  - first:
+      213: 7661022235022452833
+    second: PNG-FROGBLOCK-by-Polyducks_10
+  - first:
+      213: -7497959124446648842
+    second: PNG-FROGBLOCK-by-Polyducks_11
+  - first:
+      213: 6395227535578040816
+    second: PNG-FROGBLOCK-by-Polyducks_12
+  - first:
+      213: 4888013119387209075
+    second: PNG-FROGBLOCK-by-Polyducks_13
+  - first:
+      213: -5930282659385169921
+    second: PNG-FROGBLOCK-by-Polyducks_14
+  - first:
+      213: 4468986208823368541
+    second: PNG-FROGBLOCK-by-Polyducks_15
+  - first:
+      213: -2528345220550849241
+    second: PNG-FROGBLOCK-by-Polyducks_16
+  - first:
+      213: -7940920457833324352
+    second: PNG-FROGBLOCK-by-Polyducks_17
+  - first:
+      213: 1883366890084457164
+    second: PNG-FROGBLOCK-by-Polyducks_18
+  - first:
+      213: 8343505663443456016
+    second: PNG-FROGBLOCK-by-Polyducks_19
+  - first:
+      213: 4389518003403152327
+    second: PNG-FROGBLOCK-by-Polyducks_20
+  - first:
+      213: -3809113469215614593
+    second: PNG-FROGBLOCK-by-Polyducks_21
+  - first:
+      213: 5496206592800222602
+    second: PNG-FROGBLOCK-by-Polyducks_22
+  - first:
+      213: -3991572164481800405
+    second: PNG-FROGBLOCK-by-Polyducks_23
+  - first:
+      213: -4068500173821701791
+    second: PNG-FROGBLOCK-by-Polyducks_24
+  - first:
+      213: 2560059912754846784
+    second: PNG-FROGBLOCK-by-Polyducks_25
+  - first:
+      213: -296600958218568187
+    second: PNG-FROGBLOCK-by-Polyducks_26
+  - first:
+      213: -4811192123912482941
+    second: PNG-FROGBLOCK-by-Polyducks_27
+  - first:
+      213: -5131160259714503323
+    second: PNG-FROGBLOCK-by-Polyducks_28
+  - first:
+      213: 9091034445931188334
+    second: PNG-FROGBLOCK-by-Polyducks_29
+  - first:
+      213: 3044190151347540953
+    second: PNG-FROGBLOCK-by-Polyducks_30
+  - first:
+      213: -4778430084772103008
+    second: PNG-FROGBLOCK-by-Polyducks_31
+  - first:
+      213: -4348088097933676157
+    second: PNG-FROGBLOCK-by-Polyducks_32
+  - first:
+      213: 6191661146319999829
+    second: PNG-FROGBLOCK-by-Polyducks_33
+  - first:
+      213: -5978380084094611237
+    second: PNG-FROGBLOCK-by-Polyducks_34
+  - first:
+      213: 8503375821125618410
+    second: PNG-FROGBLOCK-by-Polyducks_35
+  - first:
+      213: -1623976743494225710
+    second: PNG-FROGBLOCK-by-Polyducks_36
+  - first:
+      213: -2303959930788564995
+    second: PNG-FROGBLOCK-by-Polyducks_37
+  - first:
+      213: -1824081014788798657
+    second: PNG-FROGBLOCK-by-Polyducks_38
+  - first:
+      213: 6774097349295655050
+    second: PNG-FROGBLOCK-by-Polyducks_39
+  - first:
+      213: -8156367082497317179
+    second: PNG-FROGBLOCK-by-Polyducks_40
+  - first:
+      213: -2043378511923467026
+    second: PNG-FROGBLOCK-by-Polyducks_41
+  - first:
+      213: 5778903387192712947
+    second: PNG-FROGBLOCK-by-Polyducks_42
+  - first:
+      213: 7092569527794513421
+    second: PNG-FROGBLOCK-by-Polyducks_43
+  - first:
+      213: -6445153069348763927
+    second: PNG-FROGBLOCK-by-Polyducks_44
+  - first:
+      213: -1695940792395360704
+    second: PNG-FROGBLOCK-by-Polyducks_45
+  - first:
+      213: -3435443306215054470
+    second: PNG-FROGBLOCK-by-Polyducks_46
+  - first:
+      213: 5000551228251078467
+    second: PNG-FROGBLOCK-by-Polyducks_47
+  - first:
+      213: 585614230654398570
+    second: PNG-FROGBLOCK-by-Polyducks_48
+  - first:
+      213: -8371424409493583593
+    second: PNG-FROGBLOCK-by-Polyducks_49
+  - first:
+      213: -4780608063673543148
+    second: PNG-FROGBLOCK-by-Polyducks_50
+  - first:
+      213: -788856502442986215
+    second: PNG-FROGBLOCK-by-Polyducks_51
+  - first:
+      213: -2919920775763108330
+    second: PNG-FROGBLOCK-by-Polyducks_52
+  - first:
+      213: -7875007720998251665
+    second: PNG-FROGBLOCK-by-Polyducks_53
+  - first:
+      213: -661370128334126665
+    second: PNG-FROGBLOCK-by-Polyducks_54
+  - first:
+      213: -3757994282923773657
+    second: PNG-FROGBLOCK-by-Polyducks_55
+  - first:
+      213: 3960935988607881379
+    second: PNG-FROGBLOCK-by-Polyducks_56
+  - first:
+      213: -331670384533150628
+    second: PNG-FROGBLOCK-by-Polyducks_57
+  - first:
+      213: 8029865618715527369
+    second: PNG-FROGBLOCK-by-Polyducks_58
+  - first:
+      213: -3978465155365358264
+    second: PNG-FROGBLOCK-by-Polyducks_59
+  - first:
+      213: -3853198195939803546
+    second: PNG-FROGBLOCK-by-Polyducks_60
+  - first:
+      213: 8491410832827523722
+    second: PNG-FROGBLOCK-by-Polyducks_61
+  - first:
+      213: -3683927365437085859
+    second: PNG-FROGBLOCK-by-Polyducks_62
+  - first:
+      213: -240914347578933882
+    second: PNG-FROGBLOCK-by-Polyducks_63
+  - first:
+      213: 1249762252356878535
+    second: PNG-FROGBLOCK-by-Polyducks_64
+  - first:
+      213: -6580487377151590249
+    second: PNG-FROGBLOCK-by-Polyducks_65
+  - first:
+      213: 8341078899601760588
+    second: PNG-FROGBLOCK-by-Polyducks_66
+  - first:
+      213: 48670072257526267
+    second: PNG-FROGBLOCK-by-Polyducks_67
+  - first:
+      213: -8941792616337582723
+    second: PNG-FROGBLOCK-by-Polyducks_68
+  - first:
+      213: 7745231203678548712
+    second: PNG-FROGBLOCK-by-Polyducks_69
+  - first:
+      213: -566008111644929762
+    second: PNG-FROGBLOCK-by-Polyducks_70
+  - first:
+      213: 174273100184812746
+    second: PNG-FROGBLOCK-by-Polyducks_71
+  - first:
+      213: 6794561575624639702
+    second: PNG-FROGBLOCK-by-Polyducks_72
+  - first:
+      213: 9124437971505553500
+    second: PNG-FROGBLOCK-by-Polyducks_73
+  - first:
+      213: 9213544638038850548
+    second: PNG-FROGBLOCK-by-Polyducks_74
+  - first:
+      213: 197955894138854565
+    second: PNG-FROGBLOCK-by-Polyducks_75
+  - first:
+      213: -8692702941289885595
+    second: PNG-FROGBLOCK-by-Polyducks_76
+  - first:
+      213: -5853397382876189915
+    second: PNG-FROGBLOCK-by-Polyducks_77
+  - first:
+      213: 6607928334138362034
+    second: PNG-FROGBLOCK-by-Polyducks_78
+  - first:
+      213: 366520717220642573
+    second: PNG-FROGBLOCK-by-Polyducks_79
+  - first:
+      213: -3233101804486090119
+    second: PNG-FROGBLOCK-by-Polyducks_80
+  - first:
+      213: -668867385849738615
+    second: PNG-FROGBLOCK-by-Polyducks_81
+  - first:
+      213: -119933076436245034
+    second: PNG-FROGBLOCK-by-Polyducks_82
+  - first:
+      213: -4349331606873915338
+    second: PNG-FROGBLOCK-by-Polyducks_83
+  - first:
+      213: 9108358853430836811
+    second: PNG-FROGBLOCK-by-Polyducks_84
+  - first:
+      213: -9023768207665561244
+    second: PNG-FROGBLOCK-by-Polyducks_85
+  - first:
+      213: -8367282216347698075
+    second: PNG-FROGBLOCK-by-Polyducks_86
+  - first:
+      213: 1958160613356928851
+    second: PNG-FROGBLOCK-by-Polyducks_87
+  - first:
+      213: -3283422166207962187
+    second: PNG-FROGBLOCK-by-Polyducks_88
+  - first:
+      213: 6649364608206749434
+    second: PNG-FROGBLOCK-by-Polyducks_89
+  - first:
+      213: 6775297461531062702
+    second: PNG-FROGBLOCK-by-Polyducks_90
+  - first:
+      213: 1752935550497247990
+    second: PNG-FROGBLOCK-by-Polyducks_91
+  - first:
+      213: 6850052581504718540
+    second: PNG-FROGBLOCK-by-Polyducks_92
+  - first:
+      213: -2526000090087054219
+    second: PNG-FROGBLOCK-by-Polyducks_93
+  - first:
+      213: -5693769944468486342
+    second: PNG-FROGBLOCK-by-Polyducks_94
+  - first:
+      213: 3893130250056280652
+    second: PNG-FROGBLOCK-by-Polyducks_95
+  - first:
+      213: -2645623360899735209
+    second: PNG-FROGBLOCK-by-Polyducks_96
+  - first:
+      213: -6245176392668337647
+    second: PNG-FROGBLOCK-by-Polyducks_97
+  - first:
+      213: 4786764164672358270
+    second: PNG-FROGBLOCK-by-Polyducks_98
+  - first:
+      213: 4516097762906785834
+    second: PNG-FROGBLOCK-by-Polyducks_99
+  - first:
+      213: 7127857587424785582
+    second: PNG-FROGBLOCK-by-Polyducks_100
+  - first:
+      213: 4830710031884559908
+    second: PNG-FROGBLOCK-by-Polyducks_101
+  - first:
+      213: 2822970263194517939
+    second: PNG-FROGBLOCK-by-Polyducks_102
+  - first:
+      213: 6904628310121245335
+    second: PNG-FROGBLOCK-by-Polyducks_103
+  - first:
+      213: -3031105783983523704
+    second: PNG-FROGBLOCK-by-Polyducks_104
+  - first:
+      213: 1454107666353693564
+    second: PNG-FROGBLOCK-by-Polyducks_105
+  - first:
+      213: -6472457933157643351
+    second: PNG-FROGBLOCK-by-Polyducks_106
+  - first:
+      213: 3801475618626306516
+    second: PNG-FROGBLOCK-by-Polyducks_107
+  - first:
+      213: 8954231850604542252
+    second: PNG-FROGBLOCK-by-Polyducks_108
+  - first:
+      213: 2473176146965000437
+    second: PNG-FROGBLOCK-by-Polyducks_109
+  - first:
+      213: -8558773560716320384
+    second: PNG-FROGBLOCK-by-Polyducks_110
+  - first:
+      213: -1940644621031856999
+    second: PNG-FROGBLOCK-by-Polyducks_111
+  - first:
+      213: 7451767500751415494
+    second: PNG-FROGBLOCK-by-Polyducks_112
+  - first:
+      213: 4529023952854924244
+    second: PNG-FROGBLOCK-by-Polyducks_113
+  - first:
+      213: -1032636778547199758
+    second: PNG-FROGBLOCK-by-Polyducks_114
+  - first:
+      213: 788065237981822082
+    second: PNG-FROGBLOCK-by-Polyducks_115
+  - first:
+      213: 9106770296899149304
+    second: PNG-FROGBLOCK-by-Polyducks_116
+  - first:
+      213: 2793662758177393085
+    second: PNG-FROGBLOCK-by-Polyducks_117
+  - first:
+      213: 3341595156408807238
+    second: PNG-FROGBLOCK-by-Polyducks_118
+  - first:
+      213: 8403901885345745871
+    second: PNG-FROGBLOCK-by-Polyducks_119
+  - first:
+      213: 4853989571987032508
+    second: PNG-FROGBLOCK-by-Polyducks_120
+  - first:
+      213: 297527219258239509
+    second: PNG-FROGBLOCK-by-Polyducks_121
+  - first:
+      213: -5716691011354495235
+    second: PNG-FROGBLOCK-by-Polyducks_122
+  - first:
+      213: 261379193239107822
+    second: PNG-FROGBLOCK-by-Polyducks_123
+  - first:
+      213: -6168686728011966124
+    second: PNG-FROGBLOCK-by-Polyducks_124
+  - first:
+      213: -4135035319008930980
+    second: PNG-FROGBLOCK-by-Polyducks_125
+  - first:
+      213: -8256749014257619197
+    second: PNG-FROGBLOCK-by-Polyducks_126
+  - first:
+      213: 5579843704852456868
+    second: PNG-FROGBLOCK-by-Polyducks_127
+  - first:
+      213: 8186226507839765505
+    second: PNG-FROGBLOCK-by-Polyducks_128
+  - first:
+      213: -1117657338842146302
+    second: PNG-FROGBLOCK-by-Polyducks_129
+  - first:
+      213: -5405890296890335001
+    second: PNG-FROGBLOCK-by-Polyducks_130
+  - first:
+      213: 5807803638844343897
+    second: PNG-FROGBLOCK-by-Polyducks_131
+  - first:
+      213: -9096354629239247769
+    second: PNG-FROGBLOCK-by-Polyducks_132
+  - first:
+      213: 846652539562717782
+    second: PNG-FROGBLOCK-by-Polyducks_133
+  - first:
+      213: -3973193880011417400
+    second: PNG-FROGBLOCK-by-Polyducks_134
+  - first:
+      213: 8623431947743134959
+    second: PNG-FROGBLOCK-by-Polyducks_135
+  - first:
+      213: -3976915358475898422
+    second: PNG-FROGBLOCK-by-Polyducks_136
+  - first:
+      213: 6055099896733719042
+    second: PNG-FROGBLOCK-by-Polyducks_137
+  - first:
+      213: 7352743426268010382
+    second: PNG-FROGBLOCK-by-Polyducks_138
+  - first:
+      213: 62015559800041484
+    second: PNG-FROGBLOCK-by-Polyducks_139
+  - first:
+      213: -6895121842594386675
+    second: PNG-FROGBLOCK-by-Polyducks_140
+  - first:
+      213: -5871029810724253299
+    second: PNG-FROGBLOCK-by-Polyducks_141
+  - first:
+      213: 6220387820593528375
+    second: PNG-FROGBLOCK-by-Polyducks_142
+  - first:
+      213: 3512991601543027507
+    second: PNG-FROGBLOCK-by-Polyducks_143
+  - first:
+      213: -1722501398190492437
+    second: PNG-FROGBLOCK-by-Polyducks_144
+  - first:
+      213: 8774081558966651759
+    second: PNG-FROGBLOCK-by-Polyducks_145
+  - first:
+      213: -1178598020630106978
+    second: PNG-FROGBLOCK-by-Polyducks_146
+  - first:
+      213: -988177346780579838
+    second: PNG-FROGBLOCK-by-Polyducks_147
+  - first:
+      213: 8275186776262308267
+    second: PNG-FROGBLOCK-by-Polyducks_148
+  - first:
+      213: -8945249547450353370
+    second: PNG-FROGBLOCK-by-Polyducks_149
+  - first:
+      213: -1583069786630190610
+    second: PNG-FROGBLOCK-by-Polyducks_150
+  - first:
+      213: -264452334383129681
+    second: PNG-FROGBLOCK-by-Polyducks_151
+  - first:
+      213: -7244213203621616700
+    second: PNG-FROGBLOCK-by-Polyducks_152
+  - first:
+      213: -9023225788810802196
+    second: PNG-FROGBLOCK-by-Polyducks_153
+  - first:
+      213: 655943515578096331
+    second: PNG-FROGBLOCK-by-Polyducks_154
+  - first:
+      213: -621352626168717921
+    second: PNG-FROGBLOCK-by-Polyducks_155
+  - first:
+      213: 1424109067197499072
+    second: PNG-FROGBLOCK-by-Polyducks_156
+  - first:
+      213: -6518655994359142730
+    second: PNG-FROGBLOCK-by-Polyducks_157
+  - first:
+      213: -2340141620455424459
+    second: PNG-FROGBLOCK-by-Polyducks_158
+  - first:
+      213: 3807985147318269871
+    second: PNG-FROGBLOCK-by-Polyducks_159
+  - first:
+      213: 9101686345111841726
+    second: PNG-FROGBLOCK-by-Polyducks_160
+  - first:
+      213: 1841669462780457790
+    second: PNG-FROGBLOCK-by-Polyducks_161
+  - first:
+      213: 3498914300689770360
+    second: PNG-FROGBLOCK-by-Polyducks_162
+  - first:
+      213: -5551145923824746103
+    second: PNG-FROGBLOCK-by-Polyducks_163
+  - first:
+      213: 6615528676492041477
+    second: PNG-FROGBLOCK-by-Polyducks_164
+  - first:
+      213: -3827128171707085683
+    second: PNG-FROGBLOCK-by-Polyducks_165
+  - first:
+      213: 6150889957560153513
+    second: PNG-FROGBLOCK-by-Polyducks_166
+  - first:
+      213: 1076515948665831568
+    second: PNG-FROGBLOCK-by-Polyducks_167
+  - first:
+      213: 2110952068178560341
+    second: PNG-FROGBLOCK-by-Polyducks_168
+  - first:
+      213: 4380170517183426095
+    second: PNG-FROGBLOCK-by-Polyducks_169
+  - first:
+      213: 7295577088954833012
+    second: PNG-FROGBLOCK-by-Polyducks_170
+  - first:
+      213: -69634870847713989
+    second: PNG-FROGBLOCK-by-Polyducks_171
+  - first:
+      213: -2472239338693303769
+    second: PNG-FROGBLOCK-by-Polyducks_172
+  - first:
+      213: 4699864940051115082
+    second: PNG-FROGBLOCK-by-Polyducks_173
+  - first:
+      213: 4182950335729530448
+    second: PNG-FROGBLOCK-by-Polyducks_174
+  - first:
+      213: -4602625171527245613
+    second: PNG-FROGBLOCK-by-Polyducks_175
+  - first:
+      213: -3524435043839501773
+    second: PNG-FROGBLOCK-by-Polyducks_176
+  - first:
+      213: 5195484771408086671
+    second: PNG-FROGBLOCK-by-Polyducks_177
+  - first:
+      213: -5480864817541738506
+    second: PNG-FROGBLOCK-by-Polyducks_178
+  - first:
+      213: -5116847180190709898
+    second: PNG-FROGBLOCK-by-Polyducks_179
+  - first:
+      213: 5657605071199367318
+    second: PNG-FROGBLOCK-by-Polyducks_180
+  - first:
+      213: -8056664059613710439
+    second: PNG-FROGBLOCK-by-Polyducks_181
+  - first:
+      213: -8699889280067263299
+    second: PNG-FROGBLOCK-by-Polyducks_182
+  - first:
+      213: -3156900484116861717
+    second: PNG-FROGBLOCK-by-Polyducks_183
+  - first:
+      213: 4680859169313224256
+    second: PNG-FROGBLOCK-by-Polyducks_184
+  - first:
+      213: 5629121153307767318
+    second: PNG-FROGBLOCK-by-Polyducks_185
+  - first:
+      213: 6009682136557423847
+    second: PNG-FROGBLOCK-by-Polyducks_186
+  - first:
+      213: 3745617629391641446
+    second: PNG-FROGBLOCK-by-Polyducks_187
+  - first:
+      213: -8665310787637947772
+    second: PNG-FROGBLOCK-by-Polyducks_188
+  - first:
+      213: 6168554702110101646
+    second: PNG-FROGBLOCK-by-Polyducks_189
+  - first:
+      213: 4505855595644981129
+    second: PNG-FROGBLOCK-by-Polyducks_190
+  - first:
+      213: 9141426349028039451
+    second: PNG-FROGBLOCK-by-Polyducks_191
+  - first:
+      213: -7997334818007577146
+    second: PNG-FROGBLOCK-by-Polyducks_192
+  - first:
+      213: 8976925926707692823
+    second: PNG-FROGBLOCK-by-Polyducks_193
+  - first:
+      213: -5114508023929152785
+    second: PNG-FROGBLOCK-by-Polyducks_194
+  - first:
+      213: 503604757348474235
+    second: PNG-FROGBLOCK-by-Polyducks_195
+  - first:
+      213: 3518815253623130477
+    second: PNG-FROGBLOCK-by-Polyducks_196
+  - first:
+      213: -8069617022826486614
+    second: PNG-FROGBLOCK-by-Polyducks_197
+  - first:
+      213: -4104274432878516827
+    second: PNG-FROGBLOCK-by-Polyducks_198
+  - first:
+      213: 1652033729575913774
+    second: PNG-FROGBLOCK-by-Polyducks_199
+  - first:
+      213: -710045172931065111
+    second: PNG-FROGBLOCK-by-Polyducks_200
+  - first:
+      213: -7595774575948684179
+    second: PNG-FROGBLOCK-by-Polyducks_201
+  - first:
+      213: -1947649614726620308
+    second: PNG-FROGBLOCK-by-Polyducks_202
+  - first:
+      213: 7865223011040708970
+    second: PNG-FROGBLOCK-by-Polyducks_203
+  - first:
+      213: -6783010983790439857
+    second: PNG-FROGBLOCK-by-Polyducks_204
+  - first:
+      213: -8919867743014903448
+    second: PNG-FROGBLOCK-by-Polyducks_205
+  - first:
+      213: 1734667032621840843
+    second: PNG-FROGBLOCK-by-Polyducks_206
+  - first:
+      213: -1327652994509141489
+    second: PNG-FROGBLOCK-by-Polyducks_207
+  - first:
+      213: -5766098325889785351
+    second: PNG-FROGBLOCK-by-Polyducks_208
+  - first:
+      213: 4562953691072015974
+    second: PNG-FROGBLOCK-by-Polyducks_209
+  - first:
+      213: -5848264359202200851
+    second: PNG-FROGBLOCK-by-Polyducks_210
+  - first:
+      213: -9091161962370117670
+    second: PNG-FROGBLOCK-by-Polyducks_211
+  - first:
+      213: 8688189844003913228
+    second: PNG-FROGBLOCK-by-Polyducks_212
+  - first:
+      213: -573377752170716773
+    second: PNG-FROGBLOCK-by-Polyducks_213
+  - first:
+      213: -3434284501135617769
+    second: PNG-FROGBLOCK-by-Polyducks_214
+  - first:
+      213: -6900281321790323744
+    second: PNG-FROGBLOCK-by-Polyducks_215
+  - first:
+      213: -5657241069502484739
+    second: PNG-FROGBLOCK-by-Polyducks_216
+  - first:
+      213: -3534229445370035561
+    second: PNG-FROGBLOCK-by-Polyducks_217
+  - first:
+      213: 1045191546810427538
+    second: PNG-FROGBLOCK-by-Polyducks_218
+  - first:
+      213: 4819172685139123017
+    second: PNG-FROGBLOCK-by-Polyducks_219
+  - first:
+      213: 583659709740791104
+    second: PNG-FROGBLOCK-by-Polyducks_220
+  - first:
+      213: -236658077721911236
+    second: PNG-FROGBLOCK-by-Polyducks_221
+  - first:
+      213: 2618110767693197114
+    second: PNG-FROGBLOCK-by-Polyducks_222
+  - first:
+      213: -167389327956087545
+    second: PNG-FROGBLOCK-by-Polyducks_223
+  - first:
+      213: -4937545945952154551
+    second: PNG-FROGBLOCK-by-Polyducks_224
+  - first:
+      213: -7052489384528499192
+    second: PNG-FROGBLOCK-by-Polyducks_225
+  - first:
+      213: 6200626992759577023
+    second: PNG-FROGBLOCK-by-Polyducks_226
+  - first:
+      213: -1400426984288366077
+    second: PNG-FROGBLOCK-by-Polyducks_227
+  - first:
+      213: -5318895572246028856
+    second: PNG-FROGBLOCK-by-Polyducks_228
+  - first:
+      213: 8212307211797218592
+    second: PNG-FROGBLOCK-by-Polyducks_229
+  - first:
+      213: 4184988471180671432
+    second: PNG-FROGBLOCK-by-Polyducks_230
+  - first:
+      213: 977922613803367698
+    second: PNG-FROGBLOCK-by-Polyducks_231
+  - first:
+      213: 5686871841203355173
+    second: PNG-FROGBLOCK-by-Polyducks_232
+  - first:
+      213: -3125154961819870034
+    second: PNG-FROGBLOCK-by-Polyducks_233
+  - first:
+      213: -8863076510288206394
+    second: PNG-FROGBLOCK-by-Polyducks_234
+  - first:
+      213: -8467463610519697834
+    second: PNG-FROGBLOCK-by-Polyducks_235
+  - first:
+      213: 2386180472019481025
+    second: PNG-FROGBLOCK-by-Polyducks_236
+  - first:
+      213: 6322756061256260371
+    second: PNG-FROGBLOCK-by-Polyducks_237
+  - first:
+      213: 3688484631230344383
+    second: PNG-FROGBLOCK-by-Polyducks_238
+  - first:
+      213: -3948798301946058765
+    second: PNG-FROGBLOCK-by-Polyducks_239
+  - first:
+      213: -2964092492694733501
+    second: PNG-FROGBLOCK-by-Polyducks_240
+  - first:
+      213: -664269268389591348
+    second: PNG-FROGBLOCK-by-Polyducks_241
+  - first:
+      213: -6339438329318406733
+    second: PNG-FROGBLOCK-by-Polyducks_242
+  - first:
+      213: 3710744331497801749
+    second: PNG-FROGBLOCK-by-Polyducks_243
+  - first:
+      213: -1030798890779371274
+    second: PNG-FROGBLOCK-by-Polyducks_244
+  - first:
+      213: -902429538201829049
+    second: PNG-FROGBLOCK-by-Polyducks_245
+  - first:
+      213: -3219622403111508680
+    second: PNG-FROGBLOCK-by-Polyducks_246
+  - first:
+      213: -105158996660337165
+    second: PNG-FROGBLOCK-by-Polyducks_247
+  - first:
+      213: -8329237437300675694
+    second: PNG-FROGBLOCK-by-Polyducks_248
+  - first:
+      213: -6306766157627122578
+    second: PNG-FROGBLOCK-by-Polyducks_249
+  - first:
+      213: -4340804355210409636
+    second: PNG-FROGBLOCK-by-Polyducks_250
+  - first:
+      213: 2755975956190071397
+    second: PNG-FROGBLOCK-by-Polyducks_251
+  - first:
+      213: 5459155482205145996
+    second: PNG-FROGBLOCK-by-Polyducks_252
+  - first:
+      213: 8951519339110292664
+    second: PNG-FROGBLOCK-by-Polyducks_253
+  - first:
+      213: 7499675234940154059
+    second: PNG-FROGBLOCK-by-Polyducks_254
+  - first:
+      213: 5857562695944468055
+    second: PNG-FROGBLOCK-by-Polyducks_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e10abc4bbd1500800000000000000
+      internalID: 368656682726844321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cce4e43631cd660800000000000000
+      internalID: 7411820403981470878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75779a7e72921a00800000000000000
+      internalID: 725803561880352125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a469cf1e5e3b65490800000000000000
+      internalID: -7757815508178790838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf7d32dab276d600800000000000000
+      internalID: 492707355960377294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3f225d2f6fc95d0800000000000000
+      internalID: -3054294924445682708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad7ba0fe6c3f0670800000000000000
+      internalID: 8507084668307996066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34ce9292d68ad680800000000000000
+      internalID: -8729516688743152580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ae12f124fa18190800000000000000
+      internalID: -7961889967689307519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd7bfd639f36d1e0800000000000000
+      internalID: -2173479867721744929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168e1e6022b615a60800000000000000
+      internalID: 7661022235022452833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f565f6f6e5e1f790800000000000000
+      internalID: -7497959124446648842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f90deb6f8960c850800000000000000
+      internalID: 6395227535578040816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d0686c806b5d340800000000000000
+      internalID: 4888013119387209075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff720bd575763bda0800000000000000
+      internalID: -5930282659385169921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b590b7747050e30800000000000000
+      internalID: 4468986208823368541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d828bea6389ecd0800000000000000
+      internalID: -2528345220550849241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c066399aee2cc190800000000000000
+      internalID: -7940920457833324352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca57314530132a10800000000000000
+      internalID: 1883366890084457164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010d103f1361ac370800000000000000
+      internalID: 8343505663443456016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbd6001e53baec30800000000000000
+      internalID: 4389518003403152327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f795f363b7f432bc0800000000000000
+      internalID: -3809113469215614593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d6408a6c2764c40800000000000000
+      internalID: 5496206592800222602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27a9b0c3461b98c0800000000000000
+      internalID: -3991572164481800405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1611eb2d5a8c987c0800000000000000
+      internalID: -4068500173821701791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c58774de8278320800000000000000
+      internalID: 2560059912754846784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e775dfff242ebf0800000000000000
+      internalID: -296600958218568187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f0a0c01463b3db0800000000000000
+      internalID: -4811192123912482941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dad1a0ee47ac8b0800000000000000
+      internalID: -5131160259714503323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60919689a7d92e70800000000000000
+      internalID: 9091034445931188334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d310d750d22f3a20800000000000000
+      internalID: 3044190151347540953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac7e15b72b9fadb0800000000000000
+      internalID: -4778430084772103008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3813f8e79ec78a3c0800000000000000
+      internalID: -4348088097933676157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553ddfbf1033de550800000000000000
+      internalID: 6191661146319999829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd055430df6880da0800000000000000
+      internalID: -5978380084094611237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea86d9a14f020670800000000000000
+      internalID: 8503375821125618410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0f78881c97679e0800000000000000
+      internalID: -1623976743494225710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff2d9c56a0b600e0800000000000000
+      internalID: -2303959930788564995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37caff3bff8fa6e0800000000000000
+      internalID: -1824081014788798657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88cea206ad620e50800000000000000
+      internalID: 6774097349295655050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6ee0e4a53cece80800000000000000
+      internalID: -8156367082497317179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeca227d11674a3e0800000000000000
+      internalID: -2043378511923467026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe5ce0430ac23050800000000000000
+      internalID: 5778903387192712947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06b3f0586edd6260800000000000000
+      internalID: 7092569527794513421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6c27a6e673e86a0800000000000000
+      internalID: -6445153069348763927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0461e25b5dec678e0800000000000000
+      internalID: -1695940792395360704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73ee07c38ad250d0800000000000000
+      internalID: -3435443306215054470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f7c0919d6856540800000000000000
+      internalID: 5000551228251078467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60b1914a05802800800000000000000
+      internalID: 585614230654398570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719c9107ad9b2db80800000000000000
+      internalID: -8371424409493583593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416de5a7b4ed7adb0800000000000000
+      internalID: -4780608063673543148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915f029c03b6d05f0800000000000000
+      internalID: -788856502442986215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e5b5c568b5a77d0800000000000000
+      internalID: -2919920775763108330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63d07a833a56b290800000000000000
+      internalID: -7875007720998251665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b107935f5752d6f0800000000000000
+      internalID: -661370128334126665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72131624c1ce8dbc0800000000000000
+      internalID: -3757994282923773657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a09803bb4218f630800000000000000
+      internalID: 3960935988607881379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_57
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c546263ea8ba56bf0800000000000000
+      internalID: -331670384533150628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c849a57c30df6f60800000000000000
+      internalID: 8029865618715527369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_59
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845bd2f1507a9c8c0800000000000000
+      internalID: -3978465155365358264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ef4d9e7a0b68ac0800000000000000
+      internalID: -3853198195939803546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82a69cb92d87d570800000000000000
+      internalID: 8491410832827523722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5728c4549f00ecc0800000000000000
+      internalID: -3683927365437085859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_63
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d33436da918acf0800000000000000
+      internalID: -240914347578933882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c08c61a52c085110800000000000000
+      internalID: 1249762252356878535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79000fb68996da4a0800000000000000
+      internalID: -6580487377151590249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41e446f01771c370800000000000000
+      internalID: 8341078899601760588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_67
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf93a104c29eca000800000000000000
+      internalID: 48670072257526267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75dcf7bdfe58e380800000000000000
+      internalID: -8941792616337582723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_69
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2f7866eb69c7b60800000000000000
+      internalID: 7745231203678548712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e111a6d0f922528f0800000000000000
+      internalID: -566008111644929762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accfb6616742b6200800000000000000
+      internalID: 174273100184812746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d400aff0c12b4e50800000000000000
+      internalID: 6794561575624639702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50aca2edf380ae70800000000000000
+      internalID: 9124437971505553500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbb28868061ddf70800000000000000
+      internalID: 9213544638038850548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_75
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac575f36d74fb200800000000000000
+      internalID: 197955894138854565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5605c661bb05d5780800000000000000
+      internalID: -8692702941289885595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ba678c71e84cea0800000000000000
+      internalID: -5853397382876189915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b84e814fc314bb50800000000000000
+      internalID: 6607928334138362034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ff1c086a4261500800000000000000
+      internalID: 366520717220642573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972aeecd907b123d0800000000000000
+      internalID: -3233101804486090119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a059808a4b7b6f0800000000000000
+      internalID: -668867385849738615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5a23e9089e55ef0800000000000000
+      internalID: -119933076436245034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_83
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630c6e182f114a3c0800000000000000
+      internalID: -4349331606873915338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e77897e14676e70800000000000000
+      internalID: 9108358853430836811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46181a600a225c280800000000000000
+      internalID: -9023768207665561244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cf62fe72171eb80800000000000000
+      internalID: -8367282216347698075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_87
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ffc4cf3b8cc2b10800000000000000
+      internalID: 1958160613356928851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3e787afe0fe62d0800000000000000
+      internalID: -3283422166207962187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeb73e91e9474c50800000000000000
+      internalID: 6649364608206749434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea13a2ae421b60e50800000000000000
+      internalID: 6775297461531062702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_91
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2da81889da35810800000000000000
+      internalID: 1752935550497247990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6165d9786401f50800000000000000
+      internalID: 6850052581504718540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_93
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574a1c72d48d1fcd0800000000000000
+      internalID: -2526000090087054219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a370923076aabf0b0800000000000000
+      internalID: -5693769944468486342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aaee2f55d270630800000000000000
+      internalID: 3893130250056280652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751a814029bd84bd0800000000000000
+      internalID: -2645623360899735209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_97
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a2953c82da459a0800000000000000
+      internalID: -6245176392668337647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e778dda75a00e6240800000000000000
+      internalID: 4786764164672358270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_99
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28cef0fcf66cae30800000000000000
+      internalID: 4516097762906785834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4f604f5bc3be260800000000000000
+      internalID: 7127857587424785582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_101
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42625670e212a0340800000000000000
+      internalID: 4830710031884559908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b143356f743d2720800000000000000
+      internalID: 2822970263194517939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_103
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ae1e2adda22df50800000000000000
+      internalID: 6904628310121245335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888b70559595fe5d0800000000000000
+      internalID: -3031105783983523704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_105
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c732f26e7370e2410800000000000000
+      internalID: 1454107666353693564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abca766dc53d26a0800000000000000
+      internalID: -6472457933157643351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_107
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1878e1fed81c430800000000000000
+      internalID: 3801475618626306516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29b5c33d62d34c70800000000000000
+      internalID: 8954231850604542252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_109
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f071da2a9c725220800000000000000
+      internalID: 2473176146965000437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_110
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081af78fac0293980800000000000000
+      internalID: -8558773560716320384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_111
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994af18cff17115e0800000000000000
+      internalID: -1940644621031856999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8a61f8f0ff96760800000000000000
+      internalID: 7451767500751415494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_113
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db37211a435ade30800000000000000
+      internalID: 4529023952854924244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_114
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0c0b032565ba1f0800000000000000
+      internalID: -1032636778547199758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_115
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c7db99825cfea00800000000000000
+      internalID: 788065237981822082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd90c5d55fb16e70800000000000000
+      internalID: 9106770296899149304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_117
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9c6632a7515c620800000000000000
+      internalID: 2793662758177393085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_118
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fa9e8171bbf5e20800000000000000
+      internalID: 3341595156408807238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_119
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbc44b2d38a0a470800000000000000
+      internalID: 8403901885345745871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9ccb55cc5dc5340800000000000000
+      internalID: 4853989571987032508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_121
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aa5e6fd67012400800000000000000
+      internalID: 297527219258239509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6fb8140db3aa0b0800000000000000
+      internalID: -5716691011354495235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_123
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8f1bccdfa90a300800000000000000
+      internalID: 261379193239107822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4591e2e9a1c646aa0800000000000000
+      internalID: -6168686728011966124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_125
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5357c429476d96c0800000000000000
+      internalID: -4135035319008930980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_126
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f2e9584822a6d80800000000000000
+      internalID: -8256749014257619197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_127
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a52ee949469f6d40800000000000000
+      internalID: 5579843704852456868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cfcaae2a15b9170800000000000000
+      internalID: 8186226507839765505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_129
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a94b962984d70f0800000000000000
+      internalID: -1117657338842146302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_130
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0ee17aa6b6af4b0800000000000000
+      internalID: -5405890296890335001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_131
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956c98273a6799050800000000000000
+      internalID: 5807803638844343897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ce635c8a143c180800000000000000
+      internalID: -9096354629239247769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_133
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65271dcbff9efbb00800000000000000
+      internalID: 846652539562717782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8d92e87316cd8c0800000000000000
+      internalID: -3973193880011417400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_135
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe40cf5eaa59ca770800000000000000
+      internalID: 8623431947743134959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1bf345d882fc8c0800000000000000
+      internalID: -3976915358475898422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_137
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a51585649080450800000000000000
+      internalID: 6055099896733719042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e871b4f80313a0660800000000000000
+      internalID: 7352743426268010382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_139
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00bd64b2d25cd000800000000000000
+      internalID: 62015559800041484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_140
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0def11573b9f40a0800000000000000
+      internalID: -6895121842594386675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_141
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d815d024e79e58ea0800000000000000
+      internalID: -5871029810724253299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb4ab04c1435650800000000000000
+      internalID: 6220387820593528375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_143
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b17ecbf37a0c030800000000000000
+      internalID: 3512991601543027507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4fdb3ca127818e0800000000000000
+      internalID: -1722501398190492437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_145
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b4388d0bcc3c970800000000000000
+      internalID: 8774081558966651759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c2d5f3857c4afe0800000000000000
+      internalID: -1178598020630106978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_147
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2083e0e40f94942f0800000000000000
+      internalID: -988177346780579838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_148
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1ff19778e57d270800000000000000
+      internalID: 8275186776262308267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_149
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6297ff83ee61cd380800000000000000
+      internalID: -8945249547450353370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_150
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee90141aa6ec70ae0800000000000000
+      internalID: -1583069786630190610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_151
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab1215c00a745cf0800000000000000
+      internalID: -264452334383129681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c360f80972677b90800000000000000
+      internalID: -7244213203621616700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_153
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebc9c1c3ff07c280800000000000000
+      internalID: -9023225788810802196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_154
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcad0cee6216a1900800000000000000
+      internalID: 655943515578096331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_155
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d15fc14138067f0800000000000000
+      internalID: -621352626168717921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c648bfb6a373c310800000000000000
+      internalID: 1424109067197499072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_157
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6a04319e41985a0800000000000000
+      internalID: -6518655994359142730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_158
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eb5a44895268fd0800000000000000
+      internalID: -2340141620455424459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_159
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa77edfd05ea8d430800000000000000
+      internalID: 3807985147318269871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb2a61128faf4e70800000000000000
+      internalID: 9101686345111841726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_161
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33b6ba6e9cee8910800000000000000
+      internalID: 1841669462780457790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_162
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877e528b404ae8030800000000000000
+      internalID: 3498914300689770360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_163
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981811a813e56f2b0800000000000000
+      internalID: -5551145923824746103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dd7bbd7441fcb50800000000000000
+      internalID: 6615528676492041477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_165
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c428f643f43eac0800000000000000
+      internalID: -3827128171707085683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_166
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5f3ecd3d95c5550800000000000000
+      internalID: 6150889957560153513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_167
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090054b3d8d80fe00800000000000000
+      internalID: 1076515948665831568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_168
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555c8a1c8bb9b4d10800000000000000
+      internalID: 2110952068178560341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_169
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e6b54d0ed79cc30800000000000000
+      internalID: 4380170517183426095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_170
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47891a275b81f3560800000000000000
+      internalID: 7295577088954833012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_171
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d4423347b980ff0800000000000000
+      internalID: -69634870847713989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_172
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72260718b67d0bdd0800000000000000
+      internalID: -2472239338693303769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_173
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c2f041346493140800000000000000
+      internalID: 4699864940051115082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_174
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056724a0b23dc0a30800000000000000
+      internalID: 4182950335729530448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_175
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0e8d0dac03020c0800000000000000
+      internalID: -4602625171527245613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a120a3001b61fc0800000000000000
+      internalID: -3524435043839501773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_177
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f860bbb6fd11a1840800000000000000
+      internalID: 5195484771408086671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_178
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff0d70cc7e00f3b0800000000000000
+      internalID: -5480864817541738506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_179
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67706ce899e4df8b0800000000000000
+      internalID: -5116847180190709898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_180
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690794446d9d38e40800000000000000
+      internalID: 5657605071199367318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_181
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997711c49baf03090800000000000000
+      internalID: -8056664059613710439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_182
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4ac543bc8c34780800000000000000
+      internalID: -8699889280067263299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_183
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beca4f45cbf6034d0800000000000000
+      internalID: -3156900484116861717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0467b8e3d90c5f040800000000000000
+      internalID: 4680859169313224256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_185
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612fb845dd7ae1e40800000000000000
+      internalID: 5629121153307767318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_186
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec0482001ea66350800000000000000
+      internalID: 6009682136557423847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_187
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b5458836b1bf330800000000000000
+      internalID: 3745617629391641446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_188
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482da7adfb1aeb780800000000000000
+      internalID: -8665310787637947772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_189
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8096d4b1db1b9550800000000000000
+      internalID: 6168554702110101646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_190
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f00ab8ac3088e30800000000000000
+      internalID: 4505855595644981129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_191
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b5632c4dedcde70800000000000000
+      internalID: 9141426349028039451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd8bceca52c30190800000000000000
+      internalID: -7997334818007577146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_193
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715086c8192749c70800000000000000
+      internalID: 8976925926707692823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_194
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea51d0dc0e9509b0800000000000000
+      internalID: -5114508023929152785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_195
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd3fccbd92df600800000000000000
+      internalID: 503604757348474235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_196
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69ce6664d755d030800000000000000
+      internalID: 3518815253623130477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_197
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa46bf88216f20090800000000000000
+      internalID: -8069617022826486614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_198
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5ee8f0620ba07c0800000000000000
+      internalID: -4104274432878516827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_199
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2906589ce33de610800000000000000
+      internalID: 1652033729575913774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea86fc5da96526f0800000000000000
+      internalID: -710045172931065111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_201
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64a2ae6443669690800000000000000
+      internalID: -7595774575948684179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_202
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b1b479efe88f4e0800000000000000
+      internalID: -1947649614726620308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_203
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a694f4428a2e62d60800000000000000
+      internalID: 7865223011040708970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_204
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42199bb277edd1a0800000000000000
+      internalID: -6783010983790439857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_205
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861a1261c83463480800000000000000
+      internalID: -8919867743014903448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_206
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9710bb976c21810800000000000000
+      internalID: 1734667032621840843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_207
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a8c4db2aa339de0800000000000000
+      internalID: -1327652994509141489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f16d596f14baffa0800000000000000
+      internalID: -5766098325889785351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_209
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ea7ead43ed25f30800000000000000
+      internalID: 4562953691072015974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_210
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2ec2dfc8ac6dea0800000000000000
+      internalID: -5848264359202200851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_211
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfc26dbc54b5d180800000000000000
+      internalID: -9091161962370117670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_212
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e720191a6a29870800000000000000
+      internalID: 8688189844003913228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_213
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91a0c7e8f3fa08f0800000000000000
+      internalID: -573377752170716773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_214
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7119e2c1178f650d0800000000000000
+      internalID: -3434284501135617769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_215
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3cc6472b64d30a0800000000000000
+      internalID: -6900281321790323744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_216
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfead8b78317d71b0800000000000000
+      internalID: -5657241069502484739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_217
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7924ef96b05e3fec0800000000000000
+      internalID: -3534229445370035561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_218
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29860e59c24418e00800000000000000
+      internalID: 1045191546810427538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_219
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b9bf8260421e240800000000000000
+      internalID: 4819172685139123017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_220
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045bec4e963991800800000000000000
+      internalID: 583659709740791104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_221
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30a8207bb837bcf0800000000000000
+      internalID: -236658077721911236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_222
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f6af23fd5655420800000000000000
+      internalID: 2618110767693197114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_223
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d6cf70b405dadf0800000000000000
+      internalID: -167389327956087545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c0a555f105a7bb0800000000000000
+      internalID: -4937545945952154551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_225
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e27fc3546802e90800000000000000
+      internalID: -7052489384528499192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_226
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb91228c56d0d0650800000000000000
+      internalID: 6200626992759577023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_227
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302de9bd31fa09ce0800000000000000
+      internalID: -1400426984288366077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_228
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd90e268ac7f26b0800000000000000
+      internalID: -5318895572246028856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_229
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0254d8106e9f7f170800000000000000
+      internalID: 8212307211797218592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_230
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c934dd67d0141a30800000000000000
+      internalID: 4184988471180671432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_231
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d329d9f67429d00800000000000000
+      internalID: 977922613803367698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_232
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ef81a2fc3dbee40800000000000000
+      internalID: 5686871841203355173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_233
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac5da8be1831a4d0800000000000000
+      internalID: -3125154961819870034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_234
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5a92b5fd6000580800000000000000
+      internalID: -8863076510288206394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_235
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6564d6275b68d7a80800000000000000
+      internalID: -8467463610519697834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_236
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1f1bc2f7a6d1120800000000000000
+      internalID: 2386180472019481025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_237
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b90a86321feb750800000000000000
+      internalID: 6322756061256260371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_238
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbce8fbca31203330800000000000000
+      internalID: 3688484631230344383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_239
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7e6d2bddc0339c0800000000000000
+      internalID: -3948798301946058765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d3783159d6dd6d0800000000000000
+      internalID: -2964092492694733501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_241
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc60e6eae9a08c6f0800000000000000
+      internalID: -664269268389591348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_242
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b50b716d6ac508a0800000000000000
+      internalID: -6339438329318406733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_243
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51888332f463f7330800000000000000
+      internalID: 3710744331497801749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_244
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f89a38ceddd1b1f0800000000000000
+      internalID: -1030798890779371274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_245
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74109a4cd1de973f0800000000000000
+      internalID: -902429538201829049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_246
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83526af8b7a9153d0800000000000000
+      internalID: -3219622403111508680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_247
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5cf1f13766a8ef0800000000000000
+      internalID: -105158996660337165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_248
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29beec35eaa986c80800000000000000
+      internalID: -8329237437300675694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_249
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c1e25289dd978a0800000000000000
+      internalID: -6306766157627122578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_250
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c590730007d52c3c0800000000000000
+      internalID: -4340804355210409636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_251
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a0a36c7813f3620800000000000000
+      internalID: 2755975956190071397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_252
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bc67abcf0d2cb40800000000000000
+      internalID: 5459155482205145996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_253
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc55b7696f2a3c70800000000000000
+      internalID: 8951519339110292664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_254
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0f66524e2341860800000000000000
+      internalID: 7499675234940154059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNG-FROGBLOCK-by-Polyducks_255
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756795dbc3e3a4150800000000000000
+      internalID: 5857562695944468055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

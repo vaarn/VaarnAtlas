@@ -1,0 +1,6264 @@
+fileFormatVersion: 2
+guid: a136a6d2accb8dc4daf8902363c7315c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5248083753807599107
+    second: ReadableFROGBLOCK-by-Polyducks_0
+  - first:
+      213: 8803833463535702732
+    second: ReadableFROGBLOCK-by-Polyducks_1
+  - first:
+      213: -2819753160540913351
+    second: ReadableFROGBLOCK-by-Polyducks_2
+  - first:
+      213: 4235119869386601215
+    second: ReadableFROGBLOCK-by-Polyducks_3
+  - first:
+      213: -7528333855483443091
+    second: ReadableFROGBLOCK-by-Polyducks_4
+  - first:
+      213: 3201933194797088292
+    second: ReadableFROGBLOCK-by-Polyducks_5
+  - first:
+      213: 1484836302234227998
+    second: ReadableFROGBLOCK-by-Polyducks_6
+  - first:
+      213: 3179560448594124496
+    second: ReadableFROGBLOCK-by-Polyducks_7
+  - first:
+      213: -1758937610050870122
+    second: ReadableFROGBLOCK-by-Polyducks_8
+  - first:
+      213: 6463563406045740774
+    second: ReadableFROGBLOCK-by-Polyducks_9
+  - first:
+      213: -6224477771565057783
+    second: ReadableFROGBLOCK-by-Polyducks_10
+  - first:
+      213: -1010347429183755550
+    second: ReadableFROGBLOCK-by-Polyducks_11
+  - first:
+      213: 7137593364097082992
+    second: ReadableFROGBLOCK-by-Polyducks_12
+  - first:
+      213: 7976667624820986724
+    second: ReadableFROGBLOCK-by-Polyducks_13
+  - first:
+      213: -1206052286389645988
+    second: ReadableFROGBLOCK-by-Polyducks_14
+  - first:
+      213: -2022708959821367540
+    second: ReadableFROGBLOCK-by-Polyducks_15
+  - first:
+      213: 3404518512127437694
+    second: ReadableFROGBLOCK-by-Polyducks_16
+  - first:
+      213: -9206427405633690545
+    second: ReadableFROGBLOCK-by-Polyducks_17
+  - first:
+      213: 3928710482490679983
+    second: ReadableFROGBLOCK-by-Polyducks_18
+  - first:
+      213: -5371768152492774955
+    second: ReadableFROGBLOCK-by-Polyducks_19
+  - first:
+      213: -2650114246634909592
+    second: ReadableFROGBLOCK-by-Polyducks_20
+  - first:
+      213: -8297930322450944339
+    second: ReadableFROGBLOCK-by-Polyducks_21
+  - first:
+      213: 1377754817422593502
+    second: ReadableFROGBLOCK-by-Polyducks_22
+  - first:
+      213: -6474796874540649934
+    second: ReadableFROGBLOCK-by-Polyducks_23
+  - first:
+      213: 6750028224431924554
+    second: ReadableFROGBLOCK-by-Polyducks_24
+  - first:
+      213: -1254452264213278227
+    second: ReadableFROGBLOCK-by-Polyducks_25
+  - first:
+      213: 1268438517895819147
+    second: ReadableFROGBLOCK-by-Polyducks_26
+  - first:
+      213: -5102332491141086280
+    second: ReadableFROGBLOCK-by-Polyducks_27
+  - first:
+      213: -7005141611779808092
+    second: ReadableFROGBLOCK-by-Polyducks_28
+  - first:
+      213: -7241361974789015241
+    second: ReadableFROGBLOCK-by-Polyducks_29
+  - first:
+      213: 2203027303055541509
+    second: ReadableFROGBLOCK-by-Polyducks_30
+  - first:
+      213: -8179581462978890452
+    second: ReadableFROGBLOCK-by-Polyducks_31
+  - first:
+      213: -1973556966220576815
+    second: ReadableFROGBLOCK-by-Polyducks_32
+  - first:
+      213: -1423301345168257616
+    second: ReadableFROGBLOCK-by-Polyducks_33
+  - first:
+      213: 5658698564787218600
+    second: ReadableFROGBLOCK-by-Polyducks_34
+  - first:
+      213: 4832904681383630182
+    second: ReadableFROGBLOCK-by-Polyducks_35
+  - first:
+      213: 8284977506137822348
+    second: ReadableFROGBLOCK-by-Polyducks_36
+  - first:
+      213: -7316142755441448258
+    second: ReadableFROGBLOCK-by-Polyducks_37
+  - first:
+      213: 4850223137625283481
+    second: ReadableFROGBLOCK-by-Polyducks_38
+  - first:
+      213: 4911068116621498388
+    second: ReadableFROGBLOCK-by-Polyducks_39
+  - first:
+      213: -2678671688975777652
+    second: ReadableFROGBLOCK-by-Polyducks_40
+  - first:
+      213: 8440472290416913827
+    second: ReadableFROGBLOCK-by-Polyducks_41
+  - first:
+      213: -8922859414834673952
+    second: ReadableFROGBLOCK-by-Polyducks_42
+  - first:
+      213: 5326351612023392961
+    second: ReadableFROGBLOCK-by-Polyducks_43
+  - first:
+      213: 1172750134487243064
+    second: ReadableFROGBLOCK-by-Polyducks_44
+  - first:
+      213: -5711726036737283811
+    second: ReadableFROGBLOCK-by-Polyducks_45
+  - first:
+      213: 2921281802145331609
+    second: ReadableFROGBLOCK-by-Polyducks_46
+  - first:
+      213: 5589028353182842102
+    second: ReadableFROGBLOCK-by-Polyducks_47
+  - first:
+      213: 6707288517700009905
+    second: ReadableFROGBLOCK-by-Polyducks_48
+  - first:
+      213: 6408529073452394335
+    second: ReadableFROGBLOCK-by-Polyducks_49
+  - first:
+      213: -5603346855598113343
+    second: ReadableFROGBLOCK-by-Polyducks_50
+  - first:
+      213: -4575487451326334144
+    second: ReadableFROGBLOCK-by-Polyducks_51
+  - first:
+      213: -257810829228978923
+    second: ReadableFROGBLOCK-by-Polyducks_52
+  - first:
+      213: 1524694007628493076
+    second: ReadableFROGBLOCK-by-Polyducks_53
+  - first:
+      213: 243575481224012252
+    second: ReadableFROGBLOCK-by-Polyducks_54
+  - first:
+      213: -4812914112968444814
+    second: ReadableFROGBLOCK-by-Polyducks_55
+  - first:
+      213: -5159330616550591368
+    second: ReadableFROGBLOCK-by-Polyducks_56
+  - first:
+      213: 4025606248640170906
+    second: ReadableFROGBLOCK-by-Polyducks_57
+  - first:
+      213: -3416923105913766756
+    second: ReadableFROGBLOCK-by-Polyducks_58
+  - first:
+      213: 7915513305004733038
+    second: ReadableFROGBLOCK-by-Polyducks_59
+  - first:
+      213: 9191334756601658811
+    second: ReadableFROGBLOCK-by-Polyducks_60
+  - first:
+      213: 2170383257434539044
+    second: ReadableFROGBLOCK-by-Polyducks_61
+  - first:
+      213: 2168979672824113688
+    second: ReadableFROGBLOCK-by-Polyducks_62
+  - first:
+      213: -6357956407360554837
+    second: ReadableFROGBLOCK-by-Polyducks_63
+  - first:
+      213: 6892355353397922497
+    second: ReadableFROGBLOCK-by-Polyducks_64
+  - first:
+      213: 3121142837803306824
+    second: ReadableFROGBLOCK-by-Polyducks_65
+  - first:
+      213: 8538905275829307450
+    second: ReadableFROGBLOCK-by-Polyducks_66
+  - first:
+      213: 8180824136306899306
+    second: ReadableFROGBLOCK-by-Polyducks_67
+  - first:
+      213: -2291480256078504140
+    second: ReadableFROGBLOCK-by-Polyducks_68
+  - first:
+      213: -7890281914714504963
+    second: ReadableFROGBLOCK-by-Polyducks_69
+  - first:
+      213: 4055734643598478687
+    second: ReadableFROGBLOCK-by-Polyducks_70
+  - first:
+      213: -6715261700620083219
+    second: ReadableFROGBLOCK-by-Polyducks_71
+  - first:
+      213: 4776450506050885892
+    second: ReadableFROGBLOCK-by-Polyducks_72
+  - first:
+      213: -4857231931156607777
+    second: ReadableFROGBLOCK-by-Polyducks_73
+  - first:
+      213: 8190178107367697901
+    second: ReadableFROGBLOCK-by-Polyducks_74
+  - first:
+      213: -7736071694780293935
+    second: ReadableFROGBLOCK-by-Polyducks_75
+  - first:
+      213: -3769807040565166722
+    second: ReadableFROGBLOCK-by-Polyducks_76
+  - first:
+      213: 1740338147175713016
+    second: ReadableFROGBLOCK-by-Polyducks_77
+  - first:
+      213: -3417372868734513258
+    second: ReadableFROGBLOCK-by-Polyducks_78
+  - first:
+      213: -5111167016838889976
+    second: ReadableFROGBLOCK-by-Polyducks_79
+  - first:
+      213: 2434051337603382720
+    second: ReadableFROGBLOCK-by-Polyducks_80
+  - first:
+      213: 3091100843228460037
+    second: ReadableFROGBLOCK-by-Polyducks_81
+  - first:
+      213: -7328584133688857716
+    second: ReadableFROGBLOCK-by-Polyducks_82
+  - first:
+      213: -8042369243802537850
+    second: ReadableFROGBLOCK-by-Polyducks_83
+  - first:
+      213: -1289372036178590875
+    second: ReadableFROGBLOCK-by-Polyducks_84
+  - first:
+      213: 5935745383385619737
+    second: ReadableFROGBLOCK-by-Polyducks_85
+  - first:
+      213: -2906951036795114487
+    second: ReadableFROGBLOCK-by-Polyducks_86
+  - first:
+      213: -4117733514960026455
+    second: ReadableFROGBLOCK-by-Polyducks_87
+  - first:
+      213: -4122649562588165002
+    second: ReadableFROGBLOCK-by-Polyducks_88
+  - first:
+      213: -4824540765478524
+    second: ReadableFROGBLOCK-by-Polyducks_89
+  - first:
+      213: 7356516212870293950
+    second: ReadableFROGBLOCK-by-Polyducks_90
+  - first:
+      213: -5139330075406444226
+    second: ReadableFROGBLOCK-by-Polyducks_91
+  - first:
+      213: -705383604260334174
+    second: ReadableFROGBLOCK-by-Polyducks_92
+  - first:
+      213: -2574344481334147637
+    second: ReadableFROGBLOCK-by-Polyducks_93
+  - first:
+      213: 414584624618586112
+    second: ReadableFROGBLOCK-by-Polyducks_94
+  - first:
+      213: -8605757967245075044
+    second: ReadableFROGBLOCK-by-Polyducks_95
+  - first:
+      213: -8343925627817253483
+    second: ReadableFROGBLOCK-by-Polyducks_96
+  - first:
+      213: 8143986706011148739
+    second: ReadableFROGBLOCK-by-Polyducks_97
+  - first:
+      213: 4563119007680399151
+    second: ReadableFROGBLOCK-by-Polyducks_98
+  - first:
+      213: -7166787906475804442
+    second: ReadableFROGBLOCK-by-Polyducks_99
+  - first:
+      213: -4736590695613222931
+    second: ReadableFROGBLOCK-by-Polyducks_100
+  - first:
+      213: 4344815608902035053
+    second: ReadableFROGBLOCK-by-Polyducks_101
+  - first:
+      213: -5228609616547607770
+    second: ReadableFROGBLOCK-by-Polyducks_102
+  - first:
+      213: -5959993922517969781
+    second: ReadableFROGBLOCK-by-Polyducks_103
+  - first:
+      213: -4252092498205969808
+    second: ReadableFROGBLOCK-by-Polyducks_104
+  - first:
+      213: -8210360372853218887
+    second: ReadableFROGBLOCK-by-Polyducks_105
+  - first:
+      213: -6403416878891963281
+    second: ReadableFROGBLOCK-by-Polyducks_106
+  - first:
+      213: 894475005208682622
+    second: ReadableFROGBLOCK-by-Polyducks_107
+  - first:
+      213: -5512125423276935805
+    second: ReadableFROGBLOCK-by-Polyducks_108
+  - first:
+      213: 7424808467644066635
+    second: ReadableFROGBLOCK-by-Polyducks_109
+  - first:
+      213: 8874193005861802926
+    second: ReadableFROGBLOCK-by-Polyducks_110
+  - first:
+      213: -2450785185252833059
+    second: ReadableFROGBLOCK-by-Polyducks_111
+  - first:
+      213: -286515317984336000
+    second: ReadableFROGBLOCK-by-Polyducks_112
+  - first:
+      213: -1318825459077639877
+    second: ReadableFROGBLOCK-by-Polyducks_113
+  - first:
+      213: 1814778562678938127
+    second: ReadableFROGBLOCK-by-Polyducks_114
+  - first:
+      213: -8045034396979530711
+    second: ReadableFROGBLOCK-by-Polyducks_115
+  - first:
+      213: -2123806827983403651
+    second: ReadableFROGBLOCK-by-Polyducks_116
+  - first:
+      213: -5717669137200646149
+    second: ReadableFROGBLOCK-by-Polyducks_117
+  - first:
+      213: 5682925637486570313
+    second: ReadableFROGBLOCK-by-Polyducks_118
+  - first:
+      213: 282317297077664727
+    second: ReadableFROGBLOCK-by-Polyducks_119
+  - first:
+      213: -3890892207211490907
+    second: ReadableFROGBLOCK-by-Polyducks_120
+  - first:
+      213: 3668239546810189933
+    second: ReadableFROGBLOCK-by-Polyducks_121
+  - first:
+      213: 7176964114040574607
+    second: ReadableFROGBLOCK-by-Polyducks_122
+  - first:
+      213: -8842814574798233844
+    second: ReadableFROGBLOCK-by-Polyducks_123
+  - first:
+      213: 4301692836528260205
+    second: ReadableFROGBLOCK-by-Polyducks_124
+  - first:
+      213: 2367472636562780243
+    second: ReadableFROGBLOCK-by-Polyducks_125
+  - first:
+      213: 7582588426920674114
+    second: ReadableFROGBLOCK-by-Polyducks_126
+  - first:
+      213: 345687226871085546
+    second: ReadableFROGBLOCK-by-Polyducks_127
+  - first:
+      213: -2989474805972826945
+    second: ReadableFROGBLOCK-by-Polyducks_128
+  - first:
+      213: 3505441614163516944
+    second: ReadableFROGBLOCK-by-Polyducks_129
+  - first:
+      213: 2583742434108906028
+    second: ReadableFROGBLOCK-by-Polyducks_130
+  - first:
+      213: -8944550474491963516
+    second: ReadableFROGBLOCK-by-Polyducks_131
+  - first:
+      213: 31352467304226185
+    second: ReadableFROGBLOCK-by-Polyducks_132
+  - first:
+      213: 3308213030107459914
+    second: ReadableFROGBLOCK-by-Polyducks_133
+  - first:
+      213: -6879702596058556497
+    second: ReadableFROGBLOCK-by-Polyducks_134
+  - first:
+      213: 631022766476753643
+    second: ReadableFROGBLOCK-by-Polyducks_135
+  - first:
+      213: -5624302843816740396
+    second: ReadableFROGBLOCK-by-Polyducks_136
+  - first:
+      213: 8504754723720752760
+    second: ReadableFROGBLOCK-by-Polyducks_137
+  - first:
+      213: -5339689315727922994
+    second: ReadableFROGBLOCK-by-Polyducks_138
+  - first:
+      213: 3191448588567643345
+    second: ReadableFROGBLOCK-by-Polyducks_139
+  - first:
+      213: -3586208756462186632
+    second: ReadableFROGBLOCK-by-Polyducks_140
+  - first:
+      213: 3166345591229477608
+    second: ReadableFROGBLOCK-by-Polyducks_141
+  - first:
+      213: -9199140454595163090
+    second: ReadableFROGBLOCK-by-Polyducks_142
+  - first:
+      213: -3907843000366389849
+    second: ReadableFROGBLOCK-by-Polyducks_143
+  - first:
+      213: -6759121117662888885
+    second: ReadableFROGBLOCK-by-Polyducks_144
+  - first:
+      213: 5362176316667078306
+    second: ReadableFROGBLOCK-by-Polyducks_145
+  - first:
+      213: -9062815532917917977
+    second: ReadableFROGBLOCK-by-Polyducks_146
+  - first:
+      213: -1344119766231956237
+    second: ReadableFROGBLOCK-by-Polyducks_147
+  - first:
+      213: 765771711383335691
+    second: ReadableFROGBLOCK-by-Polyducks_148
+  - first:
+      213: 449145881952030908
+    second: ReadableFROGBLOCK-by-Polyducks_149
+  - first:
+      213: -8763759841549573041
+    second: ReadableFROGBLOCK-by-Polyducks_150
+  - first:
+      213: 3925829049820750652
+    second: ReadableFROGBLOCK-by-Polyducks_151
+  - first:
+      213: 152024884025368288
+    second: ReadableFROGBLOCK-by-Polyducks_152
+  - first:
+      213: 1754447630570606628
+    second: ReadableFROGBLOCK-by-Polyducks_153
+  - first:
+      213: -1805679414597898261
+    second: ReadableFROGBLOCK-by-Polyducks_154
+  - first:
+      213: -6577582782061594515
+    second: ReadableFROGBLOCK-by-Polyducks_155
+  - first:
+      213: 4930065822307367901
+    second: ReadableFROGBLOCK-by-Polyducks_156
+  - first:
+      213: -1014296536334115964
+    second: ReadableFROGBLOCK-by-Polyducks_157
+  - first:
+      213: -4427579005771714864
+    second: ReadableFROGBLOCK-by-Polyducks_158
+  - first:
+      213: 5527279280441650204
+    second: ReadableFROGBLOCK-by-Polyducks_159
+  - first:
+      213: -3519658676309689116
+    second: ReadableFROGBLOCK-by-Polyducks_160
+  - first:
+      213: -3729745811220284963
+    second: ReadableFROGBLOCK-by-Polyducks_161
+  - first:
+      213: 7188103244401372300
+    second: ReadableFROGBLOCK-by-Polyducks_162
+  - first:
+      213: -2572813698931292411
+    second: ReadableFROGBLOCK-by-Polyducks_163
+  - first:
+      213: -8528516478118446330
+    second: ReadableFROGBLOCK-by-Polyducks_164
+  - first:
+      213: 504510584591678433
+    second: ReadableFROGBLOCK-by-Polyducks_165
+  - first:
+      213: 3967928591344272299
+    second: ReadableFROGBLOCK-by-Polyducks_166
+  - first:
+      213: -6129447082934453309
+    second: ReadableFROGBLOCK-by-Polyducks_167
+  - first:
+      213: -687813741639858094
+    second: ReadableFROGBLOCK-by-Polyducks_168
+  - first:
+      213: 4574414023834156516
+    second: ReadableFROGBLOCK-by-Polyducks_169
+  - first:
+      213: 7879024353590251062
+    second: ReadableFROGBLOCK-by-Polyducks_170
+  - first:
+      213: -1100519836524651521
+    second: ReadableFROGBLOCK-by-Polyducks_171
+  - first:
+      213: 1101479601290749606
+    second: ReadableFROGBLOCK-by-Polyducks_172
+  - first:
+      213: -7439017187601330807
+    second: ReadableFROGBLOCK-by-Polyducks_173
+  - first:
+      213: 919511063688738546
+    second: ReadableFROGBLOCK-by-Polyducks_174
+  - first:
+      213: 3094010341891140179
+    second: ReadableFROGBLOCK-by-Polyducks_175
+  - first:
+      213: 3844951695339148560
+    second: ReadableFROGBLOCK-by-Polyducks_176
+  - first:
+      213: 1985654160270660969
+    second: ReadableFROGBLOCK-by-Polyducks_177
+  - first:
+      213: 7508458103565654056
+    second: ReadableFROGBLOCK-by-Polyducks_178
+  - first:
+      213: -8797421223913725184
+    second: ReadableFROGBLOCK-by-Polyducks_179
+  - first:
+      213: 8897987091860166566
+    second: ReadableFROGBLOCK-by-Polyducks_180
+  - first:
+      213: -6116829460249500914
+    second: ReadableFROGBLOCK-by-Polyducks_181
+  - first:
+      213: 7672095146358965003
+    second: ReadableFROGBLOCK-by-Polyducks_182
+  - first:
+      213: 7587811583685289472
+    second: ReadableFROGBLOCK-by-Polyducks_183
+  - first:
+      213: -7295161890012011210
+    second: ReadableFROGBLOCK-by-Polyducks_184
+  - first:
+      213: -5235792733719840750
+    second: ReadableFROGBLOCK-by-Polyducks_185
+  - first:
+      213: 5963251925213333818
+    second: ReadableFROGBLOCK-by-Polyducks_186
+  - first:
+      213: -1726907441427275402
+    second: ReadableFROGBLOCK-by-Polyducks_187
+  - first:
+      213: -7225607178602069044
+    second: ReadableFROGBLOCK-by-Polyducks_188
+  - first:
+      213: -2732781075512168423
+    second: ReadableFROGBLOCK-by-Polyducks_189
+  - first:
+      213: -2243333361939403193
+    second: ReadableFROGBLOCK-by-Polyducks_190
+  - first:
+      213: -2769498049621469105
+    second: ReadableFROGBLOCK-by-Polyducks_191
+  - first:
+      213: 3994690985885239570
+    second: ReadableFROGBLOCK-by-Polyducks_192
+  - first:
+      213: -567016959869415549
+    second: ReadableFROGBLOCK-by-Polyducks_193
+  - first:
+      213: 6284867388677518908
+    second: ReadableFROGBLOCK-by-Polyducks_194
+  - first:
+      213: -5468452193165469987
+    second: ReadableFROGBLOCK-by-Polyducks_195
+  - first:
+      213: -3153066771025252126
+    second: ReadableFROGBLOCK-by-Polyducks_196
+  - first:
+      213: 1864239878192632929
+    second: ReadableFROGBLOCK-by-Polyducks_197
+  - first:
+      213: 8697821295037634112
+    second: ReadableFROGBLOCK-by-Polyducks_198
+  - first:
+      213: 8054436991520058337
+    second: ReadableFROGBLOCK-by-Polyducks_199
+  - first:
+      213: -4977264980463348539
+    second: ReadableFROGBLOCK-by-Polyducks_200
+  - first:
+      213: -7818056971411644285
+    second: ReadableFROGBLOCK-by-Polyducks_201
+  - first:
+      213: 6894820966326506594
+    second: ReadableFROGBLOCK-by-Polyducks_202
+  - first:
+      213: 4754701817501285743
+    second: ReadableFROGBLOCK-by-Polyducks_203
+  - first:
+      213: -309460719367301750
+    second: ReadableFROGBLOCK-by-Polyducks_204
+  - first:
+      213: 839292470661243972
+    second: ReadableFROGBLOCK-by-Polyducks_205
+  - first:
+      213: -3746513060941043934
+    second: ReadableFROGBLOCK-by-Polyducks_206
+  - first:
+      213: -2391249720962237835
+    second: ReadableFROGBLOCK-by-Polyducks_207
+  - first:
+      213: 8501152054995929495
+    second: ReadableFROGBLOCK-by-Polyducks_208
+  - first:
+      213: -4640525166251079597
+    second: ReadableFROGBLOCK-by-Polyducks_209
+  - first:
+      213: 4363245278473438987
+    second: ReadableFROGBLOCK-by-Polyducks_210
+  - first:
+      213: 7916966987446712895
+    second: ReadableFROGBLOCK-by-Polyducks_211
+  - first:
+      213: 6879736975228842014
+    second: ReadableFROGBLOCK-by-Polyducks_212
+  - first:
+      213: 6349427022428145710
+    second: ReadableFROGBLOCK-by-Polyducks_213
+  - first:
+      213: 3543369786281206623
+    second: ReadableFROGBLOCK-by-Polyducks_214
+  - first:
+      213: 7732300711744478143
+    second: ReadableFROGBLOCK-by-Polyducks_215
+  - first:
+      213: 5381401700448973292
+    second: ReadableFROGBLOCK-by-Polyducks_216
+  - first:
+      213: -5955023643583252006
+    second: ReadableFROGBLOCK-by-Polyducks_217
+  - first:
+      213: 9108236263012058956
+    second: ReadableFROGBLOCK-by-Polyducks_218
+  - first:
+      213: 3308586622427124772
+    second: ReadableFROGBLOCK-by-Polyducks_219
+  - first:
+      213: 3153050958372480708
+    second: ReadableFROGBLOCK-by-Polyducks_220
+  - first:
+      213: 9077781597966631833
+    second: ReadableFROGBLOCK-by-Polyducks_221
+  - first:
+      213: -8177059706979207112
+    second: ReadableFROGBLOCK-by-Polyducks_222
+  - first:
+      213: 7025588418549923112
+    second: ReadableFROGBLOCK-by-Polyducks_223
+  - first:
+      213: 5994082496529373772
+    second: ReadableFROGBLOCK-by-Polyducks_224
+  - first:
+      213: -2277769047076048633
+    second: ReadableFROGBLOCK-by-Polyducks_225
+  - first:
+      213: -8599867800986272440
+    second: ReadableFROGBLOCK-by-Polyducks_226
+  - first:
+      213: 7613615567455095984
+    second: ReadableFROGBLOCK-by-Polyducks_227
+  - first:
+      213: -6879761324852331609
+    second: ReadableFROGBLOCK-by-Polyducks_228
+  - first:
+      213: -7591343161335876378
+    second: ReadableFROGBLOCK-by-Polyducks_229
+  - first:
+      213: 5341180405957755455
+    second: ReadableFROGBLOCK-by-Polyducks_230
+  - first:
+      213: -1559685166822980592
+    second: ReadableFROGBLOCK-by-Polyducks_231
+  - first:
+      213: 5455434444187665224
+    second: ReadableFROGBLOCK-by-Polyducks_232
+  - first:
+      213: 3273774270693800780
+    second: ReadableFROGBLOCK-by-Polyducks_233
+  - first:
+      213: 7635923976115116307
+    second: ReadableFROGBLOCK-by-Polyducks_234
+  - first:
+      213: -2908275863304547953
+    second: ReadableFROGBLOCK-by-Polyducks_235
+  - first:
+      213: -7745636629629983903
+    second: ReadableFROGBLOCK-by-Polyducks_236
+  - first:
+      213: 8431704632402881200
+    second: ReadableFROGBLOCK-by-Polyducks_237
+  - first:
+      213: 8899207891199726403
+    second: ReadableFROGBLOCK-by-Polyducks_238
+  - first:
+      213: -2235749574521455820
+    second: ReadableFROGBLOCK-by-Polyducks_239
+  - first:
+      213: -2023692767376178367
+    second: ReadableFROGBLOCK-by-Polyducks_240
+  - first:
+      213: -5898598290709806096
+    second: ReadableFROGBLOCK-by-Polyducks_241
+  - first:
+      213: 8396493509599876465
+    second: ReadableFROGBLOCK-by-Polyducks_242
+  - first:
+      213: -5842580894878482088
+    second: ReadableFROGBLOCK-by-Polyducks_243
+  - first:
+      213: 8121833262627508369
+    second: ReadableFROGBLOCK-by-Polyducks_244
+  - first:
+      213: 8778798612304173072
+    second: ReadableFROGBLOCK-by-Polyducks_245
+  - first:
+      213: -344042281350963575
+    second: ReadableFROGBLOCK-by-Polyducks_246
+  - first:
+      213: -847542288789184233
+    second: ReadableFROGBLOCK-by-Polyducks_247
+  - first:
+      213: 2588800590435364976
+    second: ReadableFROGBLOCK-by-Polyducks_248
+  - first:
+      213: 9045582930413628257
+    second: ReadableFROGBLOCK-by-Polyducks_249
+  - first:
+      213: -6372308955575196273
+    second: ReadableFROGBLOCK-by-Polyducks_250
+  - first:
+      213: 682453222397454246
+    second: ReadableFROGBLOCK-by-Polyducks_251
+  - first:
+      213: -6490886582149998210
+    second: ReadableFROGBLOCK-by-Polyducks_252
+  - first:
+      213: 2769365541967435534
+    second: ReadableFROGBLOCK-by-Polyducks_253
+  - first:
+      213: -6718866538502346756
+    second: ReadableFROGBLOCK-by-Polyducks_254
+  - first:
+      213: 4706352849039261490
+    second: ReadableFROGBLOCK-by-Polyducks_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9acc6a1af0b27b0800000000000000
+      internalID: -5248083753807599107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc21ebfe3ef7d2a70800000000000000
+      internalID: 8803833463535702732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9318cafa0793ed8d0800000000000000
+      internalID: -2819753160540913351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2bcf3251b26ca30800000000000000
+      internalID: 4235119869386601215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68cc59ce3cf58790800000000000000
+      internalID: -7528333855483443091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e796ea64d8f6c20800000000000000
+      internalID: 3201933194797088292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e159648ffb23b9410800000000000000
+      internalID: 1484836302234227998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de9558c161102c20800000000000000
+      internalID: 3179560448594124496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694e7da109ff697e0800000000000000
+      internalID: -1758937610050870122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eef1902ca033b950800000000000000
+      internalID: 6463563406045740774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909bc8902763e99a0800000000000000
+      internalID: -6224477771565057783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eae5cfbd568af1f0800000000000000
+      internalID: -1010347429183755550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076213a1953dd0360800000000000000
+      internalID: 7137593364097082992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46350dc41f0d2be60800000000000000
+      internalID: 7976667624820986724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d8231e5dd334fe0800000000000000
+      internalID: -1206052286389645988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07f8d5fae4ede3e0800000000000000
+      internalID: -2022708959821367540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7be8928c874f3f20800000000000000
+      internalID: 3404518512127437694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4468c46d033c3080800000000000000
+      internalID: -9206427405633690545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2e53e5e55958630800000000000000
+      internalID: 3928710482490679983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d969ee7355a375b0800000000000000
+      internalID: -5371768152492774955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860df133227e83bd0800000000000000
+      internalID: -2650114246634909592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae6e570654d7dc80800000000000000
+      internalID: -8297930322450944339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd8e00f4b4ce1310800000000000000
+      internalID: 1377754817422593502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232f13c2c86e426a0800000000000000
+      internalID: -6474796874540649934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45202d28eaecad50800000000000000
+      internalID: 6750028224431924554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de112e3ef4a479ee0800000000000000
+      internalID: -1254452264213278227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f6a9e8c166a9110800000000000000
+      internalID: 1268438517895819147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b30a93f1afd039b0800000000000000
+      internalID: -5102332491141086280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4ae84a1dcb8ce90800000000000000
+      internalID: -7005141611779808092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739fdaa76a3818b90800000000000000
+      internalID: -7241361974789015241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505cc15f8a9b29e10800000000000000
+      internalID: 2203027303055541509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25f5c72ff94c7e80800000000000000
+      internalID: -8179581462978890452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7cc6445648c94e0800000000000000
+      internalID: -1973556966220576815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd09e0b7fa6f3ce0800000000000000
+      internalID: -1423301345168257616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8a7251d5cb78e40800000000000000
+      internalID: 5658698564787218600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665913fa33de11340800000000000000
+      internalID: 4832904681383630182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84527965272af270800000000000000
+      internalID: 8284977506137822348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba6ddf2de6d77a90800000000000000
+      internalID: -7316142755441448258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b198ffe347f4340800000000000000
+      internalID: 4850223137625283481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41898fe9e6e972440800000000000000
+      internalID: 4911068116621498388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8004b48a4273dad0800000000000000
+      internalID: -2678671688975777652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ade3de14d4922570800000000000000
+      internalID: 8440472290416913827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6870633a2ab2480800000000000000
+      internalID: -8922859414834673952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cacb7722900be940800000000000000
+      internalID: 5326351612023392961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8395768a802764010800000000000000
+      internalID: 1172750134487243064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_45
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19aced7e6fdbb0b0800000000000000
+      internalID: -5711726036737283811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9997fa9425a7a8820800000000000000
+      internalID: 2921281802145331609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcbc0fdca7309d40800000000000000
+      internalID: 5589028353182842102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfb09fbe53151d50800000000000000
+      internalID: 6707288517700009905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57a4eb0d3bafe850800000000000000
+      internalID: 6408529073452394335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdb5cef8b9ec32b0800000000000000
+      internalID: -5603346855598113343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bbf6da76a9080c0800000000000000
+      internalID: -4575487451326334144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dce80ba621c6cf0800000000000000
+      internalID: -257810829228978923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411fcdb2f1dc82510800000000000000
+      internalID: 1524694007628493076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd12a521c9a516300800000000000000
+      internalID: 243575481224012252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2743d0a3d18153db0800000000000000
+      internalID: -4812914112968444814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87474b9b3206668b0800000000000000
+      internalID: -5159330616550591368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b4ac7fd83ddd730800000000000000
+      internalID: 4025606248640170906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c7f2fe986a490d0800000000000000
+      internalID: -3416923105913766756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e627fa7a96d89dd60800000000000000
+      internalID: 7915513305004733038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd71fa634e2e8f70800000000000000
+      internalID: 9191334756601658811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_61
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42447ddc210ce1e10800000000000000
+      internalID: 2170383257434539044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a69bb4583c91e10800000000000000
+      internalID: 2168979672824113688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8fad9555004c7a0800000000000000
+      internalID: -6357956407360554837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca8b093da096af50800000000000000
+      internalID: 6892355353397922497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f458cdfd6805b20800000000000000
+      internalID: 3121142837803306824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38c3887b19408670800000000000000
+      internalID: 8538905275829307450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69b3864530288170800000000000000
+      internalID: 8180824136306899306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f9e9e09d60330e0800000000000000
+      internalID: -2291480256078504140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0c0cf2766108290800000000000000
+      internalID: -7890281914714504963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dceee8b2dd84830800000000000000
+      internalID: 4055734643598478687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def11c0ff099ec2a0800000000000000
+      internalID: -6715261700620083219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409d564bd6c594240800000000000000
+      internalID: 4776450506050885892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcc9b71b45a79cb0800000000000000
+      internalID: -4857231931156607777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded25d0689b59a170800000000000000
+      internalID: 8190178107367697901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_75
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc9aa3f7c3f3a490800000000000000
+      internalID: -7736071694780293935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7db85b4874feabc0800000000000000
+      internalID: -3769807040565166722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_77
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8487bf25ce62810800000000000000
+      internalID: 1740338147175713016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_78
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f850e5b7d0390d0800000000000000
+      internalID: -3417372868734513258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eff95adac7119b0800000000000000
+      internalID: -5111167016838889976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdf9ee9bcc77c120800000000000000
+      internalID: 2434051337603382720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504fa8de6dbc5ea20800000000000000
+      internalID: 3091100843228460037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b69e41f83ab4a90800000000000000
+      internalID: -7328584133688857716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6807f9678c3c36090800000000000000
+      internalID: -8042369243802537850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563c048e6fa3b1ee0800000000000000
+      internalID: -1289372036178590875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d5ddd2af0006250800000000000000
+      internalID: 5935745383385619737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90caf580f6f68a7d0800000000000000
+      internalID: -2906951036795114487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a446115f2fdad6c0800000000000000
+      internalID: -4117733514960026455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c4388c01869c6c0800000000000000
+      internalID: -4122649562588165002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48128711b1cdeeff0800000000000000
+      internalID: -4824540765478524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb92984e488971660800000000000000
+      internalID: 7356516212870293950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_91
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39dae7968e6da8b0800000000000000
+      internalID: -5139330075406444226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a59da56959f536f0800000000000000
+      internalID: -705383604260334174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_93
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5479c6557164cd0800000000000000
+      internalID: -2574344481334147637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000cabff486e0c500800000000000000
+      internalID: 414584624618586112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d9e5b59b4329880800000000000000
+      internalID: -8605757967245075044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595aca979db643c80800000000000000
+      internalID: -8343925627817253483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c15c4ba2c0450170800000000000000
+      internalID: 8143986706011148739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f278f90af84735f30800000000000000
+      internalID: 4563119007680399151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8b1fdce547a8c90800000000000000
+      internalID: -7166787906475804442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defad8d9bdf344eb0800000000000000
+      internalID: -4736590695613222931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66ad27c6c2eb4c30800000000000000
+      internalID: 4344815608902035053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b0d70914f3077b0800000000000000
+      internalID: -5228609616547607770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8454d8da19d94da0800000000000000
+      internalID: -5959993922517969781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0727454c6688df4c0800000000000000
+      internalID: -4252092498205969808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1e322cdb0fe0e80800000000000000
+      internalID: -8210360372853218887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c67e0864e7227a0800000000000000
+      internalID: -6403416878891963281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70ede13740d96c00800000000000000
+      internalID: 894475005208682622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385bd2cc12ff083b0800000000000000
+      internalID: -5512125423276935805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_109
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bac3786f73a0760800000000000000
+      internalID: 7424808467644066635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_110
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea316a67587772b70800000000000000
+      internalID: 8874193005861802926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_111
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8073cdbdf0dfdd0800000000000000
+      internalID: -2450785185252833059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087e5d816d7160cf0800000000000000
+      internalID: -286515317984336000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b319fee7b3792bde0800000000000000
+      internalID: -1318825459077639877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ad876dc736f2910800000000000000
+      internalID: 1814778562678938127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9247c3227db4a5090800000000000000
+      internalID: -8045034396979530711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75008e31f8b682e0800000000000000
+      internalID: -2123806827983403651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7f0f59632c6a0b0800000000000000
+      internalID: -5717669137200646149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94be85302cecdde40800000000000000
+      internalID: 5682925637486570313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db334ef51efae300800000000000000
+      internalID: 282317297077664727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_120
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1d2d10726c00ac0800000000000000
+      internalID: -3890892207211490907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6849a2ce6438e230800000000000000
+      internalID: 3668239546810189933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f825d1726d2b99360800000000000000
+      internalID: 7176964114040574607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_123
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f1186def2084580800000000000000
+      internalID: -8842814574798233844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_124
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d640c1ee7dea2bb30800000000000000
+      internalID: 4301692836528260205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35038cdc1d3fad020800000000000000
+      internalID: 2367472636562780243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_126
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24348900004ca3960800000000000000
+      internalID: 7582588426920674114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_127
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae97a0983b02cc400800000000000000
+      internalID: 345687226871085546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4820db0804386d0800000000000000
+      internalID: -2989474805972826945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e96115394d5a030800000000000000
+      internalID: 3505441614163516944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a1a28fd0c4bd320800000000000000
+      internalID: 2583742434108906028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487da54dbb29ed380800000000000000
+      internalID: -8944550474491963516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d108427e26f6000800000000000000
+      internalID: 31352467304226185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41bfd4293229ed20800000000000000
+      internalID: 3308213030107459914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7d89960f26680a0800000000000000
+      internalID: -6879702596058556497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaf701ecd7d1c800800000000000000
+      internalID: 631022766476753643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d97515cc5672f1b0800000000000000
+      internalID: -5624302843816740396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_137
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e63317c55f60670800000000000000
+      internalID: 8504754723720752760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_138
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8a615bbdc95e5b0800000000000000
+      internalID: -5339689315727922994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_139
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d40f70159d4a4c20800000000000000
+      internalID: 3191448588567643345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_140
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f0da4f22a3b3ec0800000000000000
+      internalID: -3586208756462186632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_141
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e27b590a8e11fb20800000000000000
+      internalID: 3166345591229477608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_142
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c0ee4ee76165080800000000000000
+      internalID: -9199140454595163090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_143
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a52a2dee7d84c9c0800000000000000
+      internalID: -3907843000366389849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cbcd3a727c232a0800000000000000
+      internalID: -6759121117662888885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a624f133f64a6a40800000000000000
+      internalID: 5362176316667078306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6f8872a496a3280800000000000000
+      internalID: -9062815532917917977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4c92ea13ab85de0800000000000000
+      internalID: -1344119766231956237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03fb04705190aa00800000000000000
+      internalID: 765771711383335691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0941acccfab3600800000000000000
+      internalID: 449145881952030908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44aa934bded06680800000000000000
+      internalID: -8763759841549573041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33a97b88b85b7630800000000000000
+      internalID: 3925829049820750652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee1a5993d91c1200800000000000000
+      internalID: 152024884025368288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420df2513dc095810800000000000000
+      internalID: 1754447630570606628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_154
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef28aaa320f0f6e0800000000000000
+      internalID: -1805679414597898261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_155
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d683e7a2f4bb7b4a0800000000000000
+      internalID: -6577582782061594515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbbce9aebc1b6440800000000000000
+      internalID: 4930065822307367901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_157
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b55e69cae7ce1f0800000000000000
+      internalID: -1014296536334115964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_158
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deeff14a541e82c0800000000000000
+      internalID: -4427579005771714864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_159
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ce9158837d4bc40800000000000000
+      internalID: 5527279280441650204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec70f3f419a72fc0800000000000000
+      internalID: -3519658676309689116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9b6bb12f74d3cc0800000000000000
+      internalID: -3729745811220284963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c606b01d541c360800000000000000
+      internalID: 7188103244401372300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50701f972978b4cd0800000000000000
+      internalID: -2572813698931292411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b3facf27f94a980800000000000000
+      internalID: -8528516478118446330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_165
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebf20424b1600700800000000000000
+      internalID: 504510584591678433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba30135e70ae01730800000000000000
+      internalID: 3967928591344272299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb33207a54dfeaa0800000000000000
+      internalID: -6129447082934453309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_168
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2588ce1db056476f0800000000000000
+      internalID: -687813741639858094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_169
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed333281559b7f30800000000000000
+      internalID: 4574414023834156516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e066c97eae75d60800000000000000
+      internalID: 7879024353590251062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_171
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb5dab1a0b2ab0f0800000000000000
+      internalID: -1100519836524651521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_172
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6264a8cdd394f00800000000000000
+      internalID: 1101479601290749606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_173
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d4ffe084d43c890800000000000000
+      internalID: -7439017187601330807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_174
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6753ec072c2cc00800000000000000
+      internalID: 919511063688738546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_175
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a6ecf530220fa20800000000000000
+      internalID: 3094010341891140179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015d93b02330c5530800000000000000
+      internalID: 3844951695339148560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96595b530f57e8b10800000000000000
+      internalID: 1985654160270660969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8281fe91dd6633860800000000000000
+      internalID: 7508458103565654056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003e321f10849e580800000000000000
+      internalID: -8797421223913725184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_180
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a71652dd100c7b70800000000000000
+      internalID: 8897987091860166566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_181
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e032f26a308ac1ba0800000000000000
+      internalID: -6116829460249500914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_182
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0389b913e1c87a60800000000000000
+      internalID: 7672095146358965003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_183
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006e724fe625d4960800000000000000
+      internalID: 7587811583685289472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_184
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635edd699e062ca90800000000000000
+      internalID: -7295161890012011210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_185
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218be05cf3ab657b0800000000000000
+      internalID: -5235792733719840750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_186
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a394184080ab1c250800000000000000
+      internalID: 5963251925213333818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_187
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671afb1e4dac808e0800000000000000
+      internalID: -1726907441427275402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_188
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc349e0dd8c79bb90800000000000000
+      internalID: -7225607178602069044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_189
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910ff293716331ad0800000000000000
+      internalID: -2732781075512168423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_190
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ea1d861341ed0e0800000000000000
+      internalID: -2243333361939403193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_191
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48dc228234c099d0800000000000000
+      internalID: -2769498049621469105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2190521794eff6730800000000000000
+      internalID: 3994690985885239570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f8c55441d8128f0800000000000000
+      internalID: -567016959869415549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c367f826795583750800000000000000
+      internalID: 6284867388677518908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd69a2314b72c14b0800000000000000
+      internalID: -5468452193165469987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0b3f73a7e0e34d0800000000000000
+      internalID: -3153066771025252126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_197
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1641ac3ca4c1fd910800000000000000
+      internalID: 1864239878192632929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_198
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046db82826ed4b870800000000000000
+      internalID: 8697821295037634112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_199
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eba15105cb17cf60800000000000000
+      internalID: 8054436991520058337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_200
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c49d76fed33deab0800000000000000
+      internalID: -4977264980463348539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_201
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3802e393b9ea08390800000000000000
+      internalID: -7818056971411644285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_202
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2649ec773235faf50800000000000000
+      internalID: 6894820966326506594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_203
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d711d8c181cf140800000000000000
+      internalID: 4754701817501285743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_204
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85dc268d1394bbf0800000000000000
+      internalID: -309460719367301750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_205
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4446c682e04c5ab00800000000000000
+      internalID: 839292470661243972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_206
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2276f309836b10cc0800000000000000
+      internalID: -3746513060941043934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_207
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a3bc45c0390ded0800000000000000
+      internalID: -2391249720962237835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7994d93c0c82af570800000000000000
+      internalID: 8501152054995929495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_209
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3580856a2fa899fb0800000000000000
+      internalID: -4640525166251079597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_210
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b074f4b967c5d8c30800000000000000
+      internalID: 4363245278473438987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a71497787bedd60800000000000000
+      internalID: 7916966987446712895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_212
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10b2ac145cb97f50800000000000000
+      internalID: 6879736975228842014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_213
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2888177c32bd1850800000000000000
+      internalID: 6349427022428145710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_214
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53a42b0c049c2130800000000000000
+      internalID: 3543369786281206623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_215
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb9704a786ae4b60800000000000000
+      internalID: 7732300711744478143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_216
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1b1fca5549eaa40800000000000000
+      internalID: 5381401700448973292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_217
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9fa271c818b5da0800000000000000
+      internalID: -5955023643583252006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_218
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c474a2baf94f66e70800000000000000
+      internalID: 9108236263012058956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_219
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424d062e0067aed20800000000000000
+      internalID: 3308586622427124772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_220
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c62f7c1423e1cb20800000000000000
+      internalID: 3153050958372480708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_221
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99301676442cafd70800000000000000
+      internalID: 9077781597966631833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_222
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838385a358f358e80800000000000000
+      internalID: -8177059706979207112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_223
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d34c98177ef7160800000000000000
+      internalID: 7025588418549923112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a1508c5424f2350800000000000000
+      internalID: 5994082496529373772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_225
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701f6acae1db360e0800000000000000
+      internalID: -2277769047076048633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_226
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84db4ee8cc127a880800000000000000
+      internalID: -8599867800986272440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_227
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc8b8a150ff8a960800000000000000
+      internalID: 7613615567455095984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_228
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abb4bc868d2680a0800000000000000
+      internalID: -6879761324852331609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_229
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4fb7c8d9126a690800000000000000
+      internalID: -7591343161335876378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_230
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32836ac74faf1a40800000000000000
+      internalID: 5341180405957755455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_231
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0140216ba92ea5ae0800000000000000
+      internalID: -1559685166822980592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_232
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8438c3d09b895bb40800000000000000
+      internalID: 5455434444187665224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_233
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b748f9a58ce6d20800000000000000
+      internalID: 3273774270693800780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_234
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319da30466048f960800000000000000
+      internalID: 7635923976115116307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_235
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81d3e2d28ab3a7d0800000000000000
+      internalID: -2908275863304547953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_236
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163a6a30688f18490800000000000000
+      internalID: -7745636629629983903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_237
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baa369a0be630570800000000000000
+      internalID: 8431704632402881200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_238
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34310515d66508b70800000000000000
+      internalID: 8899207891199726403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_239
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bfae38b9509f0e0800000000000000
+      internalID: -2235749574521455820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143040a66266ae3e0800000000000000
+      internalID: -2023692767376178367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_241
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f304815b18f32ea0800000000000000
+      internalID: -5898598290709806096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_242
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175d2964c56568470800000000000000
+      internalID: 8396493509599876465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_243
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851c845a1abfaeea0800000000000000
+      internalID: -5842580894878482088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_244
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1905ddf225c86b070800000000000000
+      internalID: 8121833262627508369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_245
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018151963de84d970800000000000000
+      internalID: 8778798612304173072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_246
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e5c503e57b93bf0800000000000000
+      internalID: -344042281350963575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_247
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711699067ccec34f0800000000000000
+      internalID: -847542288789184233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_248
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070b833cb644de320800000000000000
+      internalID: 2588800590435364976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_249
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b24a9efbd588d70800000000000000
+      internalID: 9045582930413628257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_250
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8566ef44c20197a0800000000000000
+      internalID: -6372308955575196273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_251
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a722d8079f887900800000000000000
+      internalID: 682453222397454246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_252
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7999913b0dbbe5a0800000000000000
+      internalID: -6490886582149998210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_253
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e071d26a943ce6620800000000000000
+      internalID: 2769365541967435534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_254
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf72f473b7ac1c2a0800000000000000
+      internalID: -6718866538502346756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReadableFROGBLOCK-by-Polyducks_255
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff1aa1bf2505140800000000000000
+      internalID: 4706352849039261490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

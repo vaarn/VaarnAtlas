@@ -1,0 +1,3429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vaarn>
+	<interior>
+		<locations>
+			<location>
+				<name>Ruin</name>
+				<symbol>*</symbol>
+				<color>#e35f8b</color>
+				<table name="What Was It">
+					<entry>Interrogation Halls</entry>
+					<entry>Cryogenic Chambers</entry>
+					<entry>Orbital Defence Turret</entry>
+					<entry>Cyborg Construction</entry>
+					<entry>Munitions Factory</entry>
+					<entry>Cloning Facility</entry>
+					<entry>University</entry>
+					<entry>Nanotech Forge</entry>
+					<entry>Power Generator</entry>
+					<entry>Noble's Residence</entry>
+					<entry>Autarch's Tomb</entry>
+					<entry>Chemical Plant</entry>
+					<entry>Psychic Training Facility</entry>
+					<entry>Pleasure Garden</entry>
+					<entry>Transit Hub</entry>
+					<entry>Farm Array</entry>
+					<entry>Bioengineering Facility</entry>
+					<entry>Medical Facility</entry>
+					<entry>Communications Array</entry>
+					<entry>Space Port</entry>
+				</table>
+				<table name="And Then">
+					<entry>Brewery</entry>
+					<entry>Criminal's Hideout</entry>
+					<entry>Bath House</entry>
+					<entry>Ossuary</entry>
+					<entry>Monastery</entry>
+					<entry>Barracks</entry>
+					<entry>Brothel</entry>
+					<entry>Inn</entry>
+					<entry>Theatre</entry>
+					<entry>Gladiator Pit</entry>
+					<entry>Madhouse</entry>
+					<entry>Observatory</entry>
+					<entry>Mystic's Abode</entry>
+					<entry>Titan Cult Shrine</entry>
+					<entry>Hydroponic Garden</entry>
+					<entry>Battle Site</entry>
+					<entry>Quantum Daemon Shrine</entry>
+					<entry>Trading Post</entry>
+					<entry>Slaughterhouse</entry>
+					<entry>Prison</entry>
+				</table>
+				<table name="And Now">
+					<entry>Desolate Shell</entry>
+					<entry>Intact But Empty</entry>
+					<entry>Faa Nomad Campsite</entry>
+					<entry>Hideout for Bandits</entry>
+					<entry>Cacklemaw Den</entry>
+					<entry>Hegemony Outpost</entry>
+					<entry>Monster Lair</entry>
+					<entry>Science-Mystic's Abode</entry>
+					<entry>Grave Site</entry>
+					<entry>Holy Place</entry>
+				</table>
+				<table name="Appearance">
+					<entry>Opulent</entry>
+					<entry>Fragmented</entry>
+					<entry>Looming</entry>
+					<entry>Crumbling</entry>
+					<entry>Grafitti-Coated</entry>
+					<entry>Gigantic</entry>
+					<entry>Translucent</entry>
+					<entry>Bat-Infested</entry>
+					<entry>Sunbleached</entry>
+					<entry>Half-Collapsed</entry>
+					<entry>Threatening</entry>
+					<entry>Crooked</entry>
+					<entry>Towering</entry>
+					<entry>Monolithic</entry>
+					<entry>Dazzling</entry>
+					<entry>Decrepit</entry>
+					<entry>Sand-scoured</entry>
+					<entry>Ill-Omened</entry>
+					<entry>Beautiful</entry>
+					<entry>Molten</entry>
+				</table>
+				<table name="Shape">
+					<entry>Dome</entry>
+					<entry>Arch</entry>
+					<entry>Tower</entry>
+					<entry>Orb</entry>
+					<entry>Shell</entry>
+					<entry>Knife</entry>
+					<entry>Bottle</entry>
+					<entry>Flower</entry>
+					<entry>Hand</entry>
+					<entry>Eye</entry>
+					<entry>Head</entry>
+					<entry>Pyramid</entry>
+					<entry>Slab</entry>
+					<entry>Prism</entry>
+					<entry>Cube</entry>
+					<entry>Wheel</entry>
+					<entry>Torus</entry>
+					<entry>Needle</entry>
+					<entry>Bowl</entry>
+					<entry>Ziggurat</entry>
+				</table>
+				<table name="Other Feature">
+					<entry>is Inhabited by Planeyfolk</entry>
+					<entry>is Choked with Synthetic Vines</entry>
+					<entry>Has Hidden Water Source</entry>
+					<entry>Has Abundant Food Source</entry>
+					<entry>Has Abundant Drugs</entry>
+					<entry>Contains Exotica</entry>
+					<entry>Secret Weapons Cache</entry>
+					<entry>Contain Wild Animal Nest</entry>
+					<entry>Used for Sacrifices</entry>
+					<entry>Ancient Defense Systems Active</entry>
+					<entry>Upsetting Decorations</entry>
+					<entry>Swallowed by the Sands</entry>
+					<entry>Fire Damaged</entry>
+					<entry>Radiation Poisoned</entry>
+					<entry>Servitor Synths Still Function</entry>
+					<entry>has a Crashed Vehicle Present</entry>
+					<entry>Encrusted with Crystals</entry>
+					<entry>Overgrown with Fungus</entry>
+					<entry>Hypergeometric Portal Inside</entry>
+					<entry>Conceals Long-Burried Threat</entry>
+				</table>
+			</location>
+			<location>
+				<name>Settlement</name>
+				<symbol>ú</symbol>
+				<color>#f8961d</color>
+				<table name="The Houses">
+					<entry>Hide Yurts</entry>
+					<entry>Clay Brick Huts</entry>
+					<entry>Underground Warren</entry>
+					<entry>Repurposed Trash</entry>
+					<entry>Neat Plastic Cubes</entry>
+					<entry>Grimy Towers</entry>
+					<entry>Vine-covered Villas</entry>
+					<entry>Huge Eggshells</entry>
+					<entry>Chrome Spindles</entry>
+					<entry>Repurposed Vehicles</entry>
+					<entry>Repurposed Weapon Arrays</entry>
+					<entry>Moulded Glass</entry>
+					<entry>Hanging from a Cliff</entry>
+					<entry>Atop Colossal Stilts</entry>
+					<entry>Made from Bone</entry>
+					<entry>Living Biotech Structures</entry>
+					<entry>Inside a Cave</entry>
+					<entry>Inside Vast Corpse</entry>
+					<entry>Inside Mutant Tree</entry>
+					<entry>Huge Communal Tent</entry>
+				</table>
+				<table name="Local Industry">
+					<entry>Hunting and Scavenging</entry>
+					<entry>Agriculture (Fungi)</entry>
+					<entry>Agriculture (Cacti)</entry>
+					<entry>Agriculture (Seven-Fruit Trees)</entry>
+					<entry>Agriculture (Water Vines)</entry>
+					<entry>Metalworking</entry>
+					<entry>Mining (Glowstone)</entry>
+					<entry>Mining (Plastics)</entry>
+					<entry>Mining (Sky-seeking Stone)</entry>
+					<entry>Mining (Synth Parts)</entry>
+					<entry>Leatherworking</entry>
+					<entry>Breeding Packbeasts</entry>
+					<entry>Breeding Fighting Beasts</entry>
+					<entry>Pottery</entry>
+					<entry>Carpet Weaving</entry>
+					<entry>Herding (Lizards)</entry>
+					<entry>Herding (Zoxen)</entry>
+					<entry>Herding (Land Parrots)</entry>
+					<entry>Herding (Giant Snails)</entry>
+				</table>
+				<table name="Notable Structure">
+					<entry>Ancient Forge</entry>
+					<entry>Slave Pit</entry>
+					<entry>Deep Well</entry>
+					<entry>Slender Silver Tower</entry>
+					<entry>Radar Dish</entry>
+					<entry>Abandoned Theatre</entry>
+					<entry>Holy Catacombs</entry>
+					<entry>Birthplace of Famed Musician</entry>
+					<entry>Birthplace of Famed Warrior</entry>
+					<entry>Birthplace of Famed Tyrant</entry>
+					<entry>Glowering Autarch Statue</entry>
+					<entry>Memory Crystal Library</entry>
+					<entry>Forbidden Grave</entry>
+					<entry>Huge Carnivorous Plant</entry>
+					<entry>Statue of Void Saint</entry>
+					<entry>Shunned Shrine</entry>
+					<entry>Enigmatic Obelisk</entry>
+					<entry>Automated Clock Tower</entry>
+					<entry>Artificial Landmark</entry>
+					<entry>Central Ruin</entry>
+				</table>
+				<table name="Government">
+					<entry>Secretive Oligarchy</entry>
+					<entry>Idiot King</entry>
+					<entry>Two Rival Families</entry>
+					<entry>Puppet Ruler</entry>
+					<entry>Automated Communism</entry>
+					<entry>Ruled by Cultists</entry>
+					<entry>Paranoid Theocracy</entry>
+					<entry>Strong-willed Matriarch</entry>
+					<entry>Decadent Monarchy</entry>
+					<entry>Oracular Severed Head</entry>
+					<entry>Council of Elders</entry>
+					<entry>Synthetic Philosophers</entry>
+					<entry>Benevolent Dictator</entry>
+					<entry>Psychic Hive-Mind</entry>
+					<entry>Neo-Anarchist Commune</entry>
+					<entry>Bandit Chieftain</entry>
+					<entry>Ruled by Lottery</entry>
+					<entry>Gun-worshipping Priests</entry>
+					<entry>Ruled by Eccentric AI</entry>
+					<entry rolltwice="true">Power Struggle</entry>
+				</table>
+				<table name="Mood Of Populace">
+					<entry>Cowed</entry>
+					<entry>Rebellious</entry>
+					<entry>Creative</entry>
+					<entry>Manic</entry>
+					<entry>Pious</entry>
+					<entry>Warlike</entry>
+					<entry>Destructive</entry>
+					<entry>Paranoid</entry>
+					<entry>Complacent</entry>
+					<entry>Divided</entry>
+					<entry>Suspicious</entry>
+					<entry>Welcoming</entry>
+					<entry>Decadent</entry>
+					<entry>Obsessive</entry>
+					<entry>Jubilant</entry>
+					<entry>Hostile</entry>
+					<entry>Bewildered</entry>
+					<entry>Fanatical</entry>
+					<entry>Lecherous</entry>
+					<entry>Contented</entry>
+				</table>
+				<table name="Community Lacks">
+					<entry>Soldiers</entry>
+					<entry>Food</entry>
+					<entry>Clean Water</entry>
+					<entry>Men</entry>
+					<entry>Women</entry>
+					<entry>Children</entry>
+					<entry>Music</entry>
+					<entry>Silence</entry>
+					<entry>Peace</entry>
+					<entry>Books</entry>
+					<entry>Memory</entry>
+					<entry>Safety</entry>
+					<entry>Justice</entry>
+					<entry>Drugs</entry>
+					<entry>Sanity</entry>
+					<entry>Medicine</entry>
+					<entry>Information</entry>
+					<entry>Hope</entry>
+					<entry>Machine Parts</entry>
+					<entry>Clothing</entry>
+				</table>
+				<table name="NPC A">
+					<entry>Respected Member of Government</entry>
+					<entry>Loathed Member of Government</entry>
+					<entry>Spouse of Governing Figure</entry>
+					<entry>Religious Leader</entry>
+					<entry>Respected Warrior</entry>
+					<entry>Violent, Lazy Thug</entry>
+					<entry>Scholarly, Introverted Citizen</entry>
+					<entry>Respected Artisan</entry>
+					<entry>Despised Artisan, Known for Shoddy Work</entry>
+					<entry>Disreputable Mystic</entry>
+				</table>
+				<table name="Source Of Conflict">
+					<entry>Envy (Property)</entry>
+					<entry>Envy (Success)</entry>
+					<entry>Love (Forbidden)</entry>
+					<entry>Love (Unrequited)</entry>
+					<entry>Love (Triangle)</entry>
+					<entry>Unpaid Debts</entry>
+					<entry>Boredom</entry>
+					<entry>Taxes</entry>
+					<entry>Robbery</entry>
+					<entry>Gossip</entry>
+					<entry>Adultery</entry>
+					<entry>Conspiracy</entry>
+					<entry>Gluttony</entry>
+					<entry>Mistaken Identity</entry>
+					<entry>Wild, Baseless Accusations</entry>
+					<entry>Addiction (Drink)</entry>
+					<entry>Addiction (Narcotics)</entry>
+					<entry>Wedding Plans</entry>
+					<entry>Blackmail</entry>
+					<entry>Murder</entry>
+				</table>
+				<table name="NPC B">
+					<entry>Resident, Correctly Regarded as Foolish</entry>
+					<entry>Resident, Who Pretends to be Foolish</entry>
+					<entry>Resident With A Hidden Connection To The Notable Structure</entry>
+					<entry>Resident With A Hidden Connection To The Government</entry>
+					<entry>Hermit, Who Lives Outside the Settlement</entry>
+					<entry>Argumentative, Widely-Disliked Resident</entry>
+					<entry>Naive and Trusting Resident</entry>
+					<entry>Conspiratorial, Mistrustful Resident</entry>
+					<entry>Community Pariah, Ostracised for Unjust Reasons</entry>
+					<entry>Stranger, Just Passing Through</entry>
+				</table>
+			</location>
+			<location>
+				<name>Oasis</name>
+				<symbol>♪</symbol>
+				<color>#a9cbdb</color>
+				<table name="The Water">
+					<entry>Very Blue</entry>
+					<entry>Leaks from Machinery</entry>
+					<entry>Incredibly Clear</entry>
+					<entry>Umber and Silty</entry>
+					<entry>Still and Glassy</entry>
+					<entry>Black and Muddy</entry>
+					<entry>Almost Gone</entry>
+					<entry>Full of Fish</entry>
+					<entry>Tastes Sour</entry>
+					<entry>Algae-choked</entry>
+					<entry>Fetid</entry>
+					<entry>Full of Plastic</entry>
+					<entry>Rusty Red</entry>
+					<entry>Warm and Bubbling</entry>
+					<entry>Champagne Coloured</entry>
+					<entry>Deep and Silent</entry>
+					<entry>Inside a Cave</entry>
+					<entry>Healing Properties</entry>
+					<entry>Sugary Sweet</entry>
+					<entry>Mildly Psychedelic</entry>
+				</table>
+				<table name="What's Here">
+					<entry>Date Palms</entry>
+					<entry>Flamingos</entry>
+					<entry>Towering Rock</entry>
+					<entry>Rusted War Machine</entry>
+					<entry>Autarch Statue</entry>
+					<entry>Flowering Bushes</entry>
+					<entry>Ibis</entry>
+					<entry>Lurking Crocodiles</entry>
+					<entry>Black Obelisks</entry>
+					<entry>Decaying Buildings</entry>
+					<entry>Addax Herd</entry>
+					<entry>Solar Panels</entry>
+					<entry>Arcology Dome</entry>
+					<entry>Crystalline Growths</entry>
+					<entry>Fungal Growths</entry>
+					<entry>Broken Pillar</entry>
+					<entry>Grave</entry>
+					<entry>Wrecked Synths</entry>
+					<entry>Mud Holes</entry>
+					<entry>Sacred Caves</entry>
+				</table>
+				<table name="And">
+					<entry>Date Palms</entry>
+					<entry>Flamingos</entry>
+					<entry>Towering Rock</entry>
+					<entry>Rusted War Machine</entry>
+					<entry>Autarch Statue</entry>
+					<entry>Flowering Bushes</entry>
+					<entry>Ibis</entry>
+					<entry>Lurking Crocodiles</entry>
+					<entry>Black Obelisks</entry>
+					<entry>Decaying Buildings</entry>
+					<entry>Addax Herd</entry>
+					<entry>Solar Panels</entry>
+					<entry>Arcology Dome</entry>
+					<entry>Crystalline Growths</entry>
+					<entry>Fungal Growths</entry>
+					<entry>Broken Pillar</entry>
+					<entry>Grave</entry>
+					<entry>Wrecked Synths</entry>
+					<entry>Mud Holes</entry>
+					<entry>Sacred Caves</entry>
+				</table>
+				<table name="Who's Here">
+					<entry>Trading Caravan</entry>
+					<entry>Trading Caravan</entry>
+					<entry>Trading Caravan</entry>
+					<entry>Trading Caravan</entry>
+					<entry>Faa Nomads</entry>
+					<entry>Faa Nomads</entry>
+					<entry>Faa Nomads</entry>
+					<entry>Hegemony Scouts</entry>
+					<entry>Bounty Hunters</entry>
+					<entry>Titan Cultists</entry>
+					<entry>Wandering Mystics</entry>
+					<entry>Travelling Circus</entry>
+					<entry>Mendicant Warrior</entry>
+					<entry>Escaped Slaves</entry>
+					<entry>Sunburnt Exiles</entry>
+					<entry>Pilgrim Monks</entry>
+					<entry>Synths</entry>
+					<entry>Cacklemaw Warband</entry>
+					<entry>Exultant in Disguise</entry>
+					<entry>Famous Musician</entry>
+				</table>
+				<table name="And">
+					<entry>Trading Caravan</entry>
+					<entry>Trading Caravan</entry>
+					<entry>Trading Caravan</entry>
+					<entry>Trading Caravan</entry>
+					<entry>Faa Nomads</entry>
+					<entry>Faa Nomads</entry>
+					<entry>Faa Nomads</entry>
+					<entry>Hegemony Scouts</entry>
+					<entry>Bounty Hunters</entry>
+					<entry>Titan Cultists</entry>
+					<entry>Wandering Mystics</entry>
+					<entry>Travelling Circus</entry>
+					<entry>Mendicant Warrior</entry>
+					<entry>Escaped Slaves</entry>
+					<entry>Sunburnt Exiles</entry>
+					<entry>Pilgrim Monks</entry>
+					<entry>Synths</entry>
+					<entry>Cacklemaw Warband</entry>
+					<entry>Exultant in Disguise</entry>
+					<entry>Famous Musician</entry>
+				</table>
+				<table name="Custom Of The Oasis">
+					<entry>Pay Toll</entry>
+					<entry>No Bloodshed</entry>
+					<entry>Moonlit Sacrifices</entry>
+					<entry>No Bathing</entry>
+					<entry>Ritual Combat</entry>
+					<entry>Vow of Silence</entry>
+					<entry>Ruled by Chance</entry>
+					<entry>Sacred to Men</entry>
+					<entry>Sacred to Women</entry>
+					<entry>Consult Computer</entry>
+					<entry>Consult Oracle</entry>
+					<entry>Must be Naked</entry>
+					<entry>Must be Veiled</entry>
+					<entry>An Animal Is Holy</entry>
+					<entry>An Animal Is Profane</entry>
+					<entry>Laughter is Prohibited</entry>
+					<entry>Sacred to Petty God</entry>
+					<entry>Drug Ritual</entry>
+					<entry>Water Ritual</entry>
+					<entry>Fasting</entry>
+				</table>
+			</location>
+			<location>
+				<name>Holy Place</name>
+				<symbol>♦</symbol>
+				<color>#ffedf3</color>
+				<table name="Location">
+					<entry>Decrepit Keep</entry>
+					<entry>Sand-swallowed</entry>
+					<entry>Petrified Trees</entry>
+					<entry>Ring of Stones</entry>
+					<entry>Rough Altar</entry>
+					<entry>Underground Church</entry>
+					<entry>Glass Pagoda</entry>
+					<entry>Ziggurat</entry>
+					<entry>Broken Temple</entry>
+					<entry>Dried-up Oasis</entry>
+					<entry>Looming Statue</entry>
+					<entry>Ruined Village</entry>
+					<entry>Fungal Church</entry>
+					<entry>Chrome Tower</entry>
+					<entry>Windy Hilltop</entry>
+					<entry>Hidden Cave</entry>
+					<entry>Missile Silo</entry>
+					<entry>Wreck</entry>
+					<entry>Settlement</entry>
+					<entry>Ruin</entry>
+				</table>
+				<table name="Focus Of Worship">
+					<entry>Ancient Book</entry>
+					<entry>Holy Bee Hive</entry>
+					<entry>Caged Bird</entry>
+					<entry>Enormous Gemstone</entry>
+					<entry>Beautiful Statue</entry>
+					<entry>Ancient Computer</entry>
+					<entry>Broken Statue</entry>
+					<entry>Crystal Skull</entry>
+					<entry>Wooden Idol</entry>
+					<entry>Polychrome Throne</entry>
+					<entry>Crystal Diadem</entry>
+					<entry>Ancient Shoe</entry>
+					<entry>Urn of Ashes</entry>
+					<entry>Mummified Jackal</entry>
+					<entry>Molten Statue</entry>
+					<entry>Mummified Child</entry>
+					<entry>Ancient Telescope</entry>
+					<entry>Levitating Orb</entry>
+					<entry>Synthetic Head</entry>
+					<entry>Human Tooth</entry>
+				</table>
+				<table name="Holy To">
+					<entry>Church of the Promised Sun</entry>
+					<entry>Pale Faith of Amun-Oh</entry>
+					<entry>The Thrice-Born Sage</entry>
+					<entry>Seekers of Eyeless Wisdom</entry>
+					<entry>Church of Sevenscore Moons</entry>
+					<entry>Temple of the Binary Devotion</entry>
+					<entry>The Blue Goddess of Empty Places</entry>
+					<entry>Azathoth, the Daemon Sultan</entry>
+					<entry>Cult of KRONOS</entry>
+					<entry>Cult of METIS</entry>
+					<entry>Cult of MNEMOSYM</entry>
+					<entry>Cult of HYPERION</entry>
+					<entry>Cult of GAEA</entry>
+					<entry>Cult of COEUS</entry>
+					<entry>Cult of THEMIS</entry>
+					<entry>Faa Nomad Ancestors</entry>
+					<entry>A Solar Saint</entry>
+					<entry>A Fungal Saint</entry>
+					<entry>A Void Saint</entry>
+					<entry>Nameless, Forgotten God</entry>
+				</table>
+				<table name="Tended By">
+					<entry>Nobody</entry>
+					<entry>Family of Tiny Cacogen</entry>
+					<entry>Sentient Plant</entry>
+					<entry>Eunuch Priests</entry>
+					<entry>Chaste Priestesses</entry>
+					<entry>Automated Priests</entry>
+					<entry>Lithling Monk</entry>
+					<entry>Blind Old Woman</entry>
+					<entry>Masked Mutes</entry>
+					<entry>Sentient Wasp Hive</entry>
+					<entry>Learned Monks</entry>
+					<entry>Warrior Monks</entry>
+					<entry>Guardian Synth</entry>
+					<entry>Pack of New-Jackals</entry>
+					<entry>Paranoid Exiles</entry>
+					<entry>Faa Nomads</entry>
+					<entry>Cacogen Oracle</entry>
+					<entry>Mycomorph Oracle</entry>
+					<entry>Beggar Monks</entry>
+					<entry>Monster Lair</entry>
+				</table>
+			</location>
+			<location>
+				<name>Wreck</name>
+				<symbol>▼</symbol>
+				<color>#f8961d</color>
+				<table name="Vessel">
+					<entry>Wind-barge</entry>
+					<entry>Auto-chariot</entry>
+					<entry>Dune Skuggy</entry>
+					<entry>Armoured Crawler</entry>
+					<entry>Stilt Strutter</entry>
+					<entry>Kite Wagon</entry>
+					<entry>Transport Zeppelin</entry>
+					<entry>Hegemony Ornithopter</entry>
+					<entry>Orbital Satellite</entry>
+					<entry>Autarchy War Stalker</entry>
+					<entry>Water Prospector's Rig</entry>
+					<entry>Autarch's Pleasure Barge</entry>
+					<entry>Colossal Exosuit</entry>
+					<entry>Ancient Submarine</entry>
+					<entry>Ancient Warship</entry>
+					<entry>Ancient Steam Ferry</entry>
+					<entry>Ancient Train</entry>
+					<entry>Ancient Fighter Jet</entry>
+					<entry>Motile Home</entry>
+					<entry>Pre-Collapse Spacecraft</entry>
+				</table>
+				<table name="Condition">
+					<entry>Decrepit</entry>
+					<entry>Laser-seared</entry>
+					<entry>Burned</entry>
+					<entry>Corrupted</entry>
+					<entry>Sun Bleached</entry>
+					<entry>Rusted</entry>
+					<entry>Shattered</entry>
+					<entry>Cloven</entry>
+					<entry>Disintegrating</entry>
+					<entry>Graffiti-coated</entry>
+					<entry>Riddled with Holes</entry>
+					<entry>Skeletal</entry>
+					<entry>Shredded</entry>
+					<entry>Inside Out</entry>
+					<entry>Overgrown</entry>
+					<entry>Looted</entry>
+					<entry>Halfway Repaired</entry>
+					<entry>Occupied</entry>
+					<entry>Surprisingly Intact</entry>
+					<entry>Some Features Work</entry>
+				</table>
+				<table name="Original Cargo">
+					<entry>Spies</entry>
+					<entry>Masks</entry>
+					<entry>Water</entry>
+					<entry>Soldiers</entry>
+					<entry>Memory Crystals</entry>
+					<entry>Guns</entry>
+					<entry>Slaves</entry>
+					<entry>Coffee</entry>
+					<entry>Prisoners of War</entry>
+					<entry>Heretics</entry>
+					<entry>Wine</entry>
+					<entry>Refugees</entry>
+					<entry>Fungus</entry>
+					<entry>Embryos</entry>
+					<entry>Lithling Seeds</entry>
+					<entry>Bombs</entry>
+					<entry>Cyborg Parts</entry>
+					<entry>Synths</entry>
+					<entry>Holy Relics</entry>
+					<entry>Exotica</entry>
+				</table>
+				<table name="Cause Of Wreck">
+					<entry>Bandits</entry>
+					<entry>Sabotage</entry>
+					<entry>a Sandstorm</entry>
+					<entry>Fuel Ran Out</entry>
+					<entry>Landmines</entry>
+					<entry>Disease</entry>
+					<entry>Warfare</entry>
+					<entry>Faulty Machinery</entry>
+					<entry>Simply Abandoned</entry>
+					<entry>Biotech Infestation</entry>
+					<entry>Nanomachines</entry>
+					<entry>Faa Nomad Ambush</entry>
+					<entry>Cacklemaw Ambush</entry>
+					<entry>Faulty Navigation</entry>
+					<entry>Drunk Driving</entry>
+					<entry>Incompetent Officers</entry>
+					<entry>Crew Mutiny</entry>
+					<entry>Attacked by Monster</entry>
+					<entry>EMP Blast</entry>
+					<entry>Orbital Weapon Strike</entry>
+				</table>
+			</location>
+			<location>
+				<name>Vault</name>
+				<symbol>╜</symbol>
+				<color>#ffedf3</color>
+				<table name="Entrance">
+					<entry>is a set of imposing Steel Blast Doors</entry>
+					<entry>is in the Back of Tiny Cave</entry>
+					<entry>is inside an Enormous Crater</entry>
+					<entry>is accessible through a Narrow Fissure in Cliff</entry>
+					<entry>is located after a slog Through Old Sewer</entry>
+					<entry>Atop Mountain</entry>
+					<entry>Opens at Full Moon</entry>
+					<entry>Scrawled With Runes</entry>
+					<entry>Functioning Lift</entry>
+					<entry>Broken Lift</entry>
+					<entry>Functioning Escalator</entry>
+					<entry>Broken Escalator</entry>
+					<entry>Ruined Train Tunnel</entry>
+					<entry>Beneath Toxic Water</entry>
+					<entry>Air Filtration Vent</entry>
+					<entry>Infested with Bats</entry>
+					<entry>Barricaded from Inside</entry>
+					<entry>hidden Below Arcology</entry>
+					<entry>hidden Below Settlement</entry>
+					<entry>hidden Below Ruin</entry>
+				</table>
+				<table name="Tunnels">
+					<entry>Half-Flooded</entry>
+					<entry>Filled with Sand</entry>
+					<entry>Dusty and Silent</entry>
+					<entry>Crystal-encrusted</entry>
+					<entry>Blood Red Walls</entry>
+					<entry>Decorated Tiles</entry>
+					<entry>Fire-Damaged</entry>
+					<entry>Winding and Narrow</entry>
+					<entry>Descend into the Urth</entry>
+					<entry>Somehow Absorb Sound</entry>
+					<entry>Lightless and Dank</entry>
+					<entry>Spiralling, Strange</entry>
+					<entry>Lit with Bioluminous Moss</entry>
+					<entry>Surprisingly Clean</entry>
+					<entry>Full of Ancient Corpses</entry>
+					<entry>Incredibly Cold</entry>
+					<entry>Enormous and Echoing</entry>
+					<entry>Battle Damaged</entry>
+					<entry>White and Sterile</entry>
+					<entry>Filled with Garbage</entry>
+				</table>
+				<table name="Original Function">
+					<entry>Fallout Shelter</entry>
+					<entry>Transport Tunnels</entry>
+					<entry>Bioweapon Research</entry>
+					<entry>Time Paradox Research</entry>
+					<entry>Language Virus Research</entry>
+					<entry>Geothermal Power Station</entry>
+					<entry>Nuclear Power Station</entry>
+					<entry>Hypergeometry Research</entry>
+					<entry>Deep Core Mining</entry>
+					<entry>Military Command Post</entry>
+					<entry>Titan AI Memory Banks</entry>
+					<entry>Titan AI Cooling System</entry>
+					<entry>Seed Bank</entry>
+					<entry>Interrogation Chambers</entry>
+					<entry>Synth Production</entry>
+					<entry>Illicit Cloning Facility</entry>
+					<entry>Spy Network Base</entry>
+					<entry>Autarch's Hideout</entry>
+					<entry>Hidden Resrvior</entry>
+					<entry>Recycling Facility</entry>
+				</table>
+				<table name="Other Feature">
+					<entry>Bandit Hideout</entry>
+					<entry>Haunted (Planeyfolk)</entry>
+					<entry>Haunted (Chromavore)</entry>
+					<entry>Ancient Defence Cannons</entry>
+					<entry>Vending Machines Still Function</entry>
+					<entry>Strange Lights</entry>
+					<entry>Power Source Active</entry>
+					<entry>Hypergeometric Rift</entry>
+					<entry>Guard Synths</entry>
+					<entry>Cacklemaw Den</entry>
+					<entry>Science-Mystic's Abode</entry>
+					<entry>Poisonous Gases</entry>
+					<entry>Carnivorous Fungus</entry>
+					<entry>Janitor Synths</entry>
+					<entry>Hologram Cinema</entry>
+					<entry>Frozen Embryos</entry>
+					<entry>Lost Archive</entry>
+					<entry>Monster Lair</entry>
+					<entry>Holy Place</entry>
+					<entry>Contains Exotica</entry>
+				</table>
+			</location>
+			<location>
+				<name>Landmark</name>
+				<symbol>♠</symbol>
+				<color>#f8961d</color>
+				<table name="Landmark">
+					<entry>Colossal Cactus</entry>
+					<entry>Husk of a Dead Sandworm</entry>
+					<entry>Rock Resembling a Hand</entry>
+					<entry>Rock Resembling a Face</entry>
+					<entry>Toxic Geyser</entry>
+					<entry>Meteor Impact Crater</entry>
+					<entry>Gigantic Petrified Tree</entry>
+					<entry>Enormous Humanoid Skeleton</entry>
+					<entry>Huge Empty Snail Shell</entry>
+					<entry>Tall Rock with Eye-like Hole</entry>
+					<entry>Vast Network of Termite Mounds</entry>
+					<entry>Single Pale Martyr Tree</entry>
+					<entry>Lonely Blue Mesa</entry>
+					<entry>Inexplicable Coral Reef, Long Dead</entry>
+					<entry>Enormous Glowing Crystal Growth</entry>
+					<entry>Rock, Resembling A Grieving Widow</entry>
+					<entry>Iridescent, Unbearably Salty Lake</entry>
+					<entry>Looming Extinct Volcano</entry>
+					<entry>Bulbous Fungal Chimney</entry>
+					<entry>Plain of Uncountable Bleached Skeletons</entry>
+					<entry>Flickering Hologram Billboard, In Language No Longer Spoken</entry>
+					<entry>Cairn of Blue Stones</entry>
+					<entry>Tall Intimidating Totem</entry>
+					<entry>Enigmatic Stone Circle</entry>
+					<entry>Banquet Table, Laid For A Hundred Guests. Somehow Never Ages or Changes</entry>
+					<entry>Glowering Statue of an Autarch</entry>
+					<entry>Black Rectangular Monolith</entry>
+					<entry>Statue of a Reclining Woman</entry>
+					<entry>Cliff Face, Painted with Fresco Honouring The Titans</entry>
+					<entry>Indestructible Chrome Tower, Without Windows or Doors</entry>
+					<entry>Ancient Lighthouse, Empty and Decaying</entry>
+					<entry>Vast Hologram Projector Array; Displays Glitchy, Obscene Images</entry>
+					<entry>Gleaming Sword-like Shard of Orbital Debris</entry>
+					<entry>Unbreakable Glass Tesseract; Verdant Jungle Dimly Visible Within</entry>
+					<entry>Strobing Lattice of Hard Light; Serves No Clear Purpose</entry>
+					<entry>Field of Broken Solar Panels</entry>
+					<entry>Vast White Marble Hand</entry>
+					<entry>Fallen War-Synth, So Old It's Part of a Hillside</entry>
+					<entry>Ancient Siren Pole, Broadcasting Unintelligible Warning</entry>
+					<entry>Bottomless Dark Pit, With Unnaturally Smooth Sides</entry>
+				</table>
+			</location>
+			<location>
+				<name>Bandit Camp</name>
+				<symbol>◄</symbol>
+				<color>#e35f8b</color>
+				<table name="Type">
+					<entry>Ex-Gladiators</entry>
+					<entry>Sly Mycomorphs</entry>
+					<entry>Hegemony Deserters</entry>
+					<entry>Escaped Slaves</entry>
+					<entry>Luckless Drifters</entry>
+					<entry>Doomsday Cult</entry>
+					<entry>Lepers</entry>
+					<entry>Slavers</entry>
+					<entry>Cruel Synthetic Children</entry>
+					<entry>a Ghoul Clan</entry>
+					<entry>False Monks</entry>
+					<entry>Fungus-riddled Maniacs</entry>
+					<entry>Businesslike Thugs</entry>
+					<entry>Gibbering Cacogen</entry>
+					<entry>Maskless Newbeasts</entry>
+					<entry>Gang of Fools</entry>
+					<entry>Scantily Clad Women</entry>
+					<entry>Elderly Thieves</entry>
+					<entry>Hegemony Soldiers</entry>
+					<entry>Gentleman Robbers</entry>
+				</table>
+				<table name="Leader">
+					<entry>is an Injured Gladiator</entry>
+					<entry>is Small but Intense</entry>
+					<entry>is a One-Eyed Woman</entry>
+					<entry>is a Rogue Synth</entry>
+					<entry>is a Self-styled King</entry>
+					<entry>is an Exiled Nobleman</entry>
+					<entry>Tells Jokes</entry>
+					<entry>is an Infamous Outlaw</entry>
+					<entry>is a Silent Brute</entry>
+					<entry>is a Scrawny Genius</entry>
+					<entry>is an Ex-Courtesan</entry>
+					<entry>is a Smiling Psycopath</entry>
+					<entry>is a Delusional Drunkard</entry>
+					<entry>is a Sadistic Glutton</entry>
+					<entry>is Calm and Polite</entry>
+					<entry>is Apologetic but Firm</entry>
+					<entry>is Lustful and Crude</entry>
+					<entry>is Cartoonishly Evil</entry>
+					<entry>Leaves a Calling Card</entry>
+					<entry>is Robin Hood-esque</entry>
+				</table>
+				<table name="Weapons">
+					<entry>Martial Arts</entry>
+					<entry>their Bites and Screams</entry>
+					<entry>Crossbows</entry>
+					<entry>Blowdarts</entry>
+					<entry>Throwing Axes</entry>
+					<entry>Swords</entry>
+					<entry>Slings</entry>
+					<entry>Spears and Nets</entry>
+					<entry>Flails</entry>
+					<entry>Rocket Launchers</entry>
+					<entry>Poison Gas</entry>
+					<entry>Revolvers</entry>
+					<entry>Rifles</entry>
+					<entry>Crude Jezails</entry>
+					<entry>an Ancient Cannon</entry>
+					<entry>Combat Lasers</entry>
+					<entry>Sonic Weapons</entry>
+					<entry>Trained Beasts</entry>
+					<entry>Plasma Rifles</entry>
+					<entry>Psychic Powers</entry>
+				</table>
+				<table name="They Want">
+					<entry>Water</entry>
+					<entry>Food</entry>
+					<entry>Gold</entry>
+					<entry>Weapons</entry>
+					<entry>Sacrifices</entry>
+					<entry>New Recruits</entry>
+					<entry>Medicine</entry>
+					<entry>Forbidden Books</entry>
+					<entry>Fungus</entry>
+					<entry>Synths</entry>
+					<entry>Children</entry>
+					<entry>Slaves</entry>
+					<entry>Entertainment</entry>
+					<entry>Wine</entry>
+					<entry>Beer</entry>
+					<entry>Forgiveness</entry>
+					<entry>To Eat You</entry>
+					<entry>Single Combat</entry>
+					<entry>Your Eyes</entry>
+					<entry>Your Teeth</entry>
+				</table>
+				<table name="NPC A">
+					<entry>Bandit Leader</entry>
+					<entry>Leader's Trusted Underling</entry>
+					<entry>Leader's Ambitious Underling</entry>
+					<entry>Leader's Despised Underling</entry>
+					<entry>The Best Cook (of a Bad Bunch)</entry>
+					<entry>The Best Shot (of a Bad Bunch)</entry>
+					<entry>Widely Disliked Bandit</entry>
+					<entry>Ferocious, Feared Bandit</entry>
+					<entry>Very Young Bandit</entry>
+					<entry>Ancient, Decrepit Bandit</entry>
+				</table>
+				<table name="Source Of Conflict">
+					<entry>Envy (Property)</entry>
+					<entry>Envy (Success)</entry>
+					<entry>Love (Forbidden)</entry>
+					<entry>Love (Unrequited)</entry>
+					<entry>Love (Triangle)</entry>
+					<entry>Unpaid Debts</entry>
+					<entry>Boredom</entry>
+					<entry>Petty Rivalry</entry>
+					<entry>Cheating at Cards</entry>
+					<entry>Gossip</entry>
+					<entry>Adultery</entry>
+					<entry>Conspiracy</entry>
+					<entry>Gluttony</entry>
+					<entry>Mistaken Identity</entry>
+					<entry>Wild, Baseless Accusations</entry>
+					<entry>Addiction (Drink)</entry>
+					<entry>Addiction (Narcotics)</entry>
+					<entry>Division of Loot</entry>
+					<entry>Blackmail</entry>
+					<entry>Murder</entry>
+				</table>
+				<table name="NPC B">
+					<entry>Rival to Leader's Authority</entry>
+					<entry>Talkative, Annoying Bandit</entry>
+					<entry>Lazy, Useless Bandit</entry>
+					<entry>Scholarly, Educated Bandit</entry>
+					<entry>Religious, Psychotic Bandit</entry>
+					<entry>Sharp-eyed, Paranoid Bandit</entry>
+					<entry>Tough-talking Bandit, Secret Coward</entry>
+					<entry>Prisoner, Who Keeps the Camp Tidy</entry>
+					<entry>Prisoner, Who Aids with Cooking</entry>
+					<entry>Wealthy Prisoner, Kept for Ransom</entry>
+				</table>
+			</location>
+			<location>
+				<name>Bounty Hunter's Camp</name>
+				<symbol>^</symbol>
+				<color>#e35f8b</color>
+				<table name="Hunter">
+					<entry>Grim and Scarred</entry>
+					<entry>Avuncular and Evil</entry>
+					<entry>Psychotic Synth</entry>
+					<entry>Three-headed Cacogen</entry>
+					<entry>One-Eyed New-Wolf</entry>
+					<entry>Remote-Controlled Armour</entry>
+					<entry>Young and Beautiful</entry>
+					<entry>Depressed Drunkard</entry>
+					<entry>Husband and Wife Team</entry>
+					<entry>Looks Way Too Young</entry>
+					<entry>Clean Cut and Heroic</entry>
+					<entry>Dashing Womaniser</entry>
+					<entry>Flamboyant Old Woman</entry>
+					<entry>are Clone Siblings</entry>
+					<entry>New-Baboon, Riding Human</entry>
+					<entry>Veteran Soldier</entry>
+					<entry>amous Exile</entry>
+					<entry>Sacred Assassin</entry>
+					<entry>Faa Nomad Tracker</entry>
+					<entry>Psychic Mute</entry>
+				</table>
+				<table name="Hunting">
+					<entry>Heretic</entry>
+					<entry>Bandit King</entry>
+					<entry>a Murderer</entry>
+					<entry>Conman</entry>
+					<entry>Water Debtor</entry>
+					<entry>Gambling Debtor</entry>
+					<entry>Livestock Thief</entry>
+					<entry>Adulterer</entry>
+					<entry>Rogue Synth</entry>
+					<entry>Cacklemaw Exile</entry>
+					<entry>Faa Nomads</entry>
+					<entry>Water Token Forger</entry>
+					<entry>Poisoner</entry>
+					<entry>Child Killer</entry>
+					<entry>Oath Breaker</entry>
+					<entry>Runaway Bride</entry>
+					<entry>Runaway Groom</entry>
+					<entry>Disgraced Cleric</entry>
+					<entry>Hegemony Deserter</entry>
+					<entry>Own Family Member</entry>
+				</table>
+				<table name="Their Method">
+					<entry>Patient Stalker</entry>
+					<entry>Guns Blazing</entry>
+					<entry>Use Poison</entry>
+					<entry>Use Gas</entry>
+					<entry>Elaborate Disguises</entry>
+					<entry>Sniper Rifle</entry>
+					<entry>Tranquilliser Crossbow</entry>
+					<entry>Shoot First</entry>
+					<entry>Alluring Honey Trap</entry>
+					<entry>Enlist Big Posse</entry>
+					<entry>Bribes for Information</entry>
+					<entry>Reliable Informants</entry>
+					<entry>Trained Monster</entry>
+					<entry>Quiet Abductions</entry>
+					<entry>Secret Martial Art</entry>
+					<entry>Psychic Gifts</entry>
+					<entry>Expert Desert Tracker</entry>
+					<entry>Use Camera Drones</entry>
+					<entry>Utterly Incompetent</entry>
+					<entry>Absurdly Complex Traps</entry>
+				</table>
+				<table name="They Want">
+					<entry>a Lead on their Quarry</entry>
+					<entry>Help Killing Dangerous Quarry</entry>
+					<entry>Help Catching Dangerous Quarry Alive</entry>
+					<entry>Help Killing Someone You Know</entry>
+					<entry>Help Bringing Prisoner to Distant Settlement</entry>
+					<entry>Help Bringing Prisoner To Distant Arcology</entry>
+					<entry>Help Bringing Prisoner To Faa Nomads</entry>
+					<entry>Help Capturing Science-Mystic Alive</entry>
+					<entry>Help Killing Dangerous Monster</entry>
+					<entry>Help Escorting Prisoner to Gnomon</entry>
+				</table>
+			</location>
+			<location>
+				<name>Lair</name>
+				<symbol>»</symbol>
+				<color>#e35f8b</color>
+				<table name="Inhabitant">
+					<entry>Argent Shepherd</entry>
+					<entry>Chrome-Feathered Sailback</entry>
+					<entry>d6 Quill-Spiders</entry>
+					<entry>Chromavore</entry>
+					<entry>d6 Hiveymen</entry>
+					<entry>d6 Lizard Lions</entry>
+					<entry>d6 Battle Boars</entry>
+					<entry>Alzabo</entry>
+					<entry>3d6 Pthalo-Jackals</entry>
+					<entry>d4 Pseudo-Giants</entry>
+					<entry>d6 Lambent Lynx</entry>
+					<entry>3d6 Blue Baboons</entry>
+					<entry>d6 Walking Wombs</entry>
+					<entry>3d6 Tiger Flies</entry>
+					<entry>d4 Regenerators</entry>
+					<entry>Thunderstrike Bird</entry>
+					<entry>d4 Glass Tigers</entry>
+					<entry>Amaranthine Death-Worm</entry>
+					<entry>Xanthous Mycomorph</entry>
+					<entry>d12 Greenguard</entry>
+				</table>
+				<table name="Appearance" same="True">
+					<entry>Ruined Chapel</entry>
+					<entry>Flat Basking Plain</entry>
+					<entry>Burrows in Earth</entry>
+					<entry>Colourless Cactus Grove</entry>
+					<entry>Gruesome Black Hive</entry>
+					<entry>Sun-kissed Basking Rock</entry>
+					<entry>Shaded Dustbath</entry>
+					<entry>Deep Cave</entry>
+					<entry>Shallow Dens</entry>
+					<entry>Crude Brick Huts</entry>
+					<entry>Den High in the Cliffs</entry>
+					<entry>Rocky Outcrop</entry>
+					<entry>Foul-smelling Sinkhole</entry>
+					<entry>Tall Papery Nest</entry>
+					<entry>Human-skin Tents</entry>
+					<entry>Roosts on Mesa</entry>
+					<entry>Lurk On Salt Flats</entry>
+					<entry>Poisoned Tree</entry>
+					<entry>Fungal Thicket</entry>
+					<entry>Abandoned Fortifications</entry>
+				</table>
+				<table name="Warning Omen" same="True">
+					<entry>Madmen Affixed With Argent Halos Beg Party To Turn Back</entry>
+					<entry>Chrome Feathers Float on the Wind</entry>
+					<entry>An Antelope, Limping, Leg Full of Quills</entry>
+					<entry>Colourless Husks of Faa Family</entry>
+					<entry>Single Sable Bee Crawls on Ground</entry>
+					<entry>Discover a Shed Skin</entry>
+					<entry>Boulders With Tusk-Marks</entry>
+					<entry>Hear A Child's Voice, Which Echoes Oddly</entry>
+					<entry>Hear Howling on the Wind</entry>
+					<entry>Remains of a Hegemony Skiff, Stomped to Pieces</entry>
+					<entry>Electrical Taste in the Air, As If Before A Storm</entry>
+					<entry>Excrement Heaped Everywhere</entry>
+					<entry>Wide Dragging Tracks In the Sand</entry>
+					<entry>Tell-tale Buzzing</entry>
+					<entry>Crude Idols Made of Bones</entry>
+					<entry>Huge Tar-black Feather Caught on Cactus</entry>
+					<entry>Corpse with Tell-tale Bite Marks</entry>
+					<entry>Huge Sinuous Tracks in the Dirt</entry>
+					<entry>Yellow Spores on the Wind</entry>
+					<entry>Enamel Bullets Embedded in Rocks</entry>
+				</table>
+			</location>
+			<location>
+				<name>Archive</name>
+				<symbol>Å</symbol>
+				<color>#ffedf3</color>
+				<table name="Archive Of">
+					<entry>Holy Books</entry>
+					<entry>Books of Fiction</entry>
+					<entry>Obscene Books</entry>
+					<entry>Memory Crystals</entry>
+					<entry>Seeds</entry>
+					<entry>Fungal Spores</entry>
+					<entry>Embryos</entry>
+					<entry>Eggs</entry>
+					<entry>Maps</entry>
+					<entry>Poems</entry>
+					<entry>Video Recordings</entry>
+					<entry>Music</entry>
+					<entry>Play Scripts</entry>
+					<entry>Paintings</entry>
+					<entry>Statues</entry>
+					<entry>Conceptual Art</entry>
+					<entry>Taxidermy</entry>
+					<entry>Preserved Brains</entry>
+					<entry>Titancreed Syntax</entry>
+					<entry>Insects</entry>
+				</table>
+				<table name="Appearance">
+					<entry>Dusty</entry>
+					<entry>Collapsing</entry>
+					<entry>Cluttered</entry>
+					<entry>Labyrinthine</entry>
+					<entry>Dark</entry>
+					<entry>Dazzling</entry>
+					<entry>Grimy</entry>
+					<entry>Chaotic</entry>
+					<entry>Malfunctioning</entry>
+					<entry>Elegant</entry>
+					<entry>Serene</entry>
+					<entry>Squalid</entry>
+					<entry>Sterile</entry>
+					<entry>Ordered</entry>
+					<entry>Polluted</entry>
+					<entry>Occult</entry>
+					<entry>Foreboding</entry>
+					<entry>Cheerful</entry>
+					<entry>Burned</entry>
+					<entry>Infested</entry>
+				</table>
+				<table name="The Archivists">
+					<entry>are Glum Nuns</entry>
+					<entry>are Pedantic and Rude</entry>
+					<entry>are Salacious Bigots</entry>
+					<entry>are Senile Synths</entry>
+					<entry>are Bored Hedonists</entry>
+					<entry>are Lazy Mycomorphs</entry>
+					<entry>are Tiny Lithling</entry>
+					<entry>are Maternal New-Parrots</entry>
+					<entry>are Ascetic Mutes</entry>
+					<entry>are Cultists Who Worship Decay</entry>
+					<entry>are Ignorant of What They Collect</entry>
+					<entry>Worship Their Collection</entry>
+					<entry>are Chattering Imbeciles</entry>
+					<entry>Attack Outsiders</entry>
+					<entry>are Desperately Seeking Recruits</entry>
+					<entry>are Afflicted by Strange Illness</entry>
+					<entry>are Whispering New-Spiders</entry>
+					<entry>are Masked Philosophers</entry>
+					<entry>are Cruel and Calculating</entry>
+					<entry>are Paranoid and Isolated</entry>
+				</table>
+				<table name="They Want">
+					<entry>a Rare Object Retrieved From Elsewhere in Vaarn.</entry>
+					<entry>a Stolen Item From the Collection Retrieved.</entry>
+					<entry>Players to Intervene in Internal Power Struggle.</entry>
+					<entry>a Sealed Wing of the Archive Explored.</entry>
+					<entry>an Archivist Escorted To Distant Settlement.</entry>
+					<entry>a Rival Archive Raided.</entry>
+					<entry>to Send A Message to a Science-Mystic.</entry>
+					<entry>to Locate an Archivist Who Vanished in the Stacks.</entry>
+					<entry>a Monster Lair Removed From the Archive.</entry>
+					<entry>a Vault Beneath the Archive Explored.</entry>
+				</table>
+			</location>
+			<location>
+				<name>Arcology</name>
+				<symbol>⌂</symbol>
+				<color>#ffedf3</color>
+				<table name="Dome">
+					<entry>Broken and parts have fallen</entry>
+					<entry>Molten and glows bright</entry>
+					<entry>Swallowed by the Sand</entry>
+					<entry>Dingy</entry>
+					<entry>Blackened</entry>
+					<entry>Self-Repairing</entry>
+					<entry>Barely Intact</entry>
+					<entry>Reinforced</entry>
+					<entry>Functional</entry>
+					<entry>Warlike</entry>
+					<entry>Delicate</entry>
+					<entry>Ornate</entry>
+					<entry>Welcoming</entry>
+					<entry>Garden-like</entry>
+					<entry>Elegant</entry>
+					<entry>Devotional</entry>
+					<entry>Flooded</entry>
+					<entry>Geodesic</entry>
+					<entry>in Perfect condition</entry>
+				</table>
+				<table name="Inhabitants">
+					<entry>Abandoned</entry>
+					<entry>Abandoned</entry>
+					<entry>Hermit</entry>
+					<entry>Mystic</entry>
+					<entry>Escaped Slaves</entry>
+					<entry>Ghouls</entry>
+					<entry>Hegemony Deserters</entry>
+					<entry>Newbeasts</entry>
+					<entry>Semi-Feral Orphans</entry>
+					<entry>Amnesiac Clones</entry>
+					<entry>Elderly Mutes</entry>
+					<entry>Conceptual Artists</entry>
+					<entry>Orchestra</entry>
+					<entry>Fungus Cultists</entry>
+					<entry>Polygamous Church</entry>
+					<entry>Lepers</entry>
+					<entry>Warrior Monks</entry>
+					<entry>Psychic Chior</entry>
+					<entry>Androids Pretending to be Human</entry>
+					<entry>Androids Pretending to be Human</entry>
+				</table>
+				<table name="Abundance">
+					<entry>Meat</entry>
+					<entry>Fresh Water</entry>
+					<entry>Salt</entry>
+					<entry>Guzzleline</entry>
+					<entry>Coffee</entry>
+					<entry>Wine</entry>
+					<entry>Bread</entry>
+					<entry>Jewellery</entry>
+					<entry>Books</entry>
+					<entry>Fruit</entry>
+					<entry>Information</entry>
+					<entry>Bells</entry>
+					<entry>Drugs</entry>
+					<entry>Livestock</entry>
+					<entry>Skilled Labour</entry>
+					<entry>Musical Instruments</entry>
+					<entry>Slaves</entry>
+					<entry>Cheese</entry>
+					<entry>Weapons</entry>
+					<entry>Exotica</entry>
+				</table>
+				<table name="Lack">
+					<entry>Olives</entry>
+					<entry>Fish</entry>
+					<entry>Beer</entry>
+					<entry>Men</entry>
+					<entry>Women</entry>
+					<entry>Children</entry>
+					<entry>Music</entry>
+					<entry>Silence</entry>
+					<entry>Livestock</entry>
+					<entry>Books</entry>
+					<entry>Coffee</entry>
+					<entry>Bread</entry>
+					<entry>Spices</entry>
+					<entry>Drugs</entry>
+					<entry>Sanity</entry>
+					<entry>Medicine</entry>
+					<entry>Information</entry>
+					<entry>New Blood</entry>
+					<entry>Machine Parts</entry>
+					<entry>Clothing</entry>
+				</table>
+			</location>
+			<location>
+				<name>Grave</name>
+				<symbol>◘</symbol>
+				<color>#e35f8b</color>
+				<table name="Location">
+					<entry>Ruined Village</entry>
+					<entry>Large Cave</entry>
+					<entry>Secret Cave</entry>
+					<entry>Below Floating Crystal</entry>
+					<entry>Lonely Hilltop</entry>
+					<entry>Dry River-bed</entry>
+					<entry>Dry Lake-bed</entry>
+					<entry>Imposing Crypt</entry>
+					<entry>Cactus Grove</entry>
+					<entry>Ring of Standing Stones</entry>
+					<entry>Under Petrified Tree</entry>
+					<entry>Below Huge Statue</entry>
+					<entry>Elegant Pagoda</entry>
+					<entry>Looming Edifice</entry>
+					<entry>Plain of Stones</entry>
+					<entry>Near Wreck</entry>
+					<entry>Near Oasis</entry>
+					<entry>Near Ruin</entry>
+					<entry>Near Holy Place</entry>
+					<entry>Near Settlement</entry>
+				</table>
+				<table name="Grave For">
+					<entry>Autarchy Soldiers</entry>
+					<entry>Titan-era Programmers</entry>
+					<entry>Autarchy Nobles</entry>
+					<entry>Autarch's Consort</entry>
+					<entry>Newbeasts</entry>
+					<entry>Synthetic Warrior</entry>
+					<entry>Synthetic Poet</entry>
+					<entry>Synthetic Oracle</entry>
+					<entry>Notorious Heretic</entry>
+					<entry>Cacogen Mystic</entry>
+					<entry>Faa Nomad Ancestors</entry>
+					<entry>Faa Nomad Prophet</entry>
+					<entry>Powerful Psychic</entry>
+					<entry>Famed Swordsman</entry>
+					<entry>Bandit King</entry>
+					<entry>Hegemony Rangers</entry>
+					<entry>Massacred Faa Nomads</entry>
+					<entry>Hegemony Exultant</entry>
+					<entry>Autarch</entry>
+					<entry>Extra-Solar Explorers</entry>
+				</table>
+				<table name="Burial Method">
+					<entry>Upside Down</entry>
+					<entry>In Salted Earth</entry>
+					<entry>In a Decorated Urn</entry>
+					<entry>Mummified</entry>
+					<entry>Laminated</entry>
+					<entry>Held in Preservation Tank</entry>
+					<entry>Held in Anti-Entropy Sphere</entry>
+					<entry>Cryogenic Pod</entry>
+					<entry>Surrounded by Grave Goods</entry>
+					<entry>Crystal Coffin</entry>
+					<entry>Biotech Sarcophagus</entry>
+					<entry>Wearing a Lifelike Death Mask</entry>
+					<entry>Sky Burial</entry>
+					<entry>Consumed by Fungus</entry>
+					<entry>Food for Sacred Flower</entry>
+					<entry>buried Below Cairn</entry>
+					<entry>Inside Stone Cube</entry>
+					<entry>Inside Hypergeometric Artefact</entry>
+					<entry>Frozen Outside Time-stream</entry>
+					<entry>Not Really Dead</entry>
+				</table>
+				<table name="Grave Quirk">
+					<entry>Has Been Desecrated</entry>
+					<entry>Believed Cursed</entry>
+					<entry>Has Been Robbed</entry>
+					<entry>Visited by Ghouls</entry>
+					<entry>Home to Rare Animal</entry>
+					<entry>Believed Haunted</entry>
+					<entry>Coins Left In Tribute</entry>
+					<entry>Food Left In Tribute</entry>
+					<entry>Swords Left In Tribute</entry>
+					<entry>Candles Burning</entry>
+					<entry>Memorial Tree</entry>
+					<entry>Engraved Mantra</entry>
+					<entry>Memorial Fountain (Dry)</entry>
+					<entry>Ritual Artwork (Ugly)</entry>
+					<entry>Ritual Artwork (Good)</entry>
+					<entry>Site of Pilgrimage</entry>
+					<entry>Synthetic Grave Keeper</entry>
+					<entry>Hideout for Bandits</entry>
+					<entry>Entrance to Vault</entry>
+					<entry>Monster Lair</entry>
+				</table>
+			</location>
+			<location>
+				<name>Science-Mystic's Abode</name>
+				<symbol>Ç</symbol>
+				<color>#f8961d</color>
+				<table name="Abode">
+					<entry>Secluded</entry>
+					<entry>Armoured</entry>
+					<entry>Vine-choked</entry>
+					<entry>Dark</entry>
+					<entry>Spiralling</entry>
+					<entry>Sentient</entry>
+					<entry>Wheeled</entry>
+					<entry>Transparent</entry>
+					<entry>Crystalline</entry>
+					<entry>Sword-like</entry>
+					<entry>Towering</entry>
+					<entry>Severe</entry>
+					<entry>Decadent</entry>
+					<entry>Buried</entry>
+					<entry>Overgrown</entry>
+					<entry>Elegant</entry>
+					<entry>Devotional</entry>
+					<entry>Pyramid</entry>
+					<entry>Deceptively Normal</entry>
+					<entry>Floating Orb</entry>
+				</table>
+				<table name="The Science-Mystic">
+					<entry>Cloaked, Masked, Decaying</entry>
+					<entry>Booming Voice, Tiny Body</entry>
+					<entry>Sallow and Smelly</entry>
+					<entry>Dazzlingly Beautiful</entry>
+					<entry>Plastic-fleshed Synth</entry>
+					<entry>Double-faced Cacogen</entry>
+					<entry>Ostentatious New-Tiger</entry>
+					<entry>Permanently Invisible</entry>
+					<entry>Brain in a Vat</entry>
+					<entry>Levitating Idiot</entry>
+					<entry>Terrified of their Reflection</entry>
+					<entry>Flesh-eating Mycomorph</entry>
+					<entry>Extra Arms Grafted On Back</entry>
+					<entry>Neurotic New-Lynx</entry>
+					<entry>Stuttering Synth</entry>
+					<entry>Bashful Murderer</entry>
+					<entry>Icily Polite</entry>
+					<entry>Blood-drinking Cacogen</entry>
+					<entry>Way Too Friendly</entry>
+					<entry>Glows in the Dark</entry>
+				</table>
+				<table name="Researching">
+					<entry>Immortality</entry>
+					<entry>Telepathy</entry>
+					<entry>Mind Control</entry>
+					<entry>Antigravity Field</entry>
+					<entry>Time Stasis</entry>
+					<entry>Time Travel</entry>
+					<entry>Time Paradox</entry>
+					<entry>Hypergeometry</entry>
+					<entry>Synthetic Anatomy</entry>
+					<entry>Synthetic Psychology</entry>
+					<entry>Newbeast Biology</entry>
+					<entry>Newbeast Psychology</entry>
+					<entry>Mycomorph Biology</entry>
+					<entry>Mycomorph Psychology</entry>
+					<entry>Language Virus</entry>
+					<entry>Teleportation</entry>
+					<entry>Titancreed Syntax</entry>
+					<entry>Ancient Super-weapon</entry>
+					<entry>Contact Azathoth</entry>
+					<entry>Space Travel</entry>
+				</table>
+				<table name="They Want">
+					<entry>'Volunteers' for Experimentation</entry>
+					<entry>To Hire A New Assistant; Don't Ask About the Old One</entry>
+					<entry>To Dispose of a Rogue Creation</entry>
+					<entry>A Fabled Chemical Substance; Found In Nearby Ruin</entry>
+					<entry>A Fabled Artefact; Said to be Held by a Faa Nomad Clan</entry>
+					<entry>Body Parts of Local Monster</entry>
+					<entry>Revenge on Ex-Assistant; They Stole Research</entry>
+					<entry>An Armed Escort To Explore A Distant Vault</entry>
+					<entry>An Armed Escort to Accompany Them to Gnomon</entry>
+					<entry>Assistance With An Obviously Dangerous Experiment</entry>
+				</table>
+			</location>
+			<location>
+				<name>Trade Post</name>
+				<symbol>á</symbol>
+				<color>#f8961d</color>
+				<table name="Location">
+					<entry>Large Tent</entry>
+					<entry>Crossroads</entry>
+					<entry>Beneath Great Cactus</entry>
+					<entry>Echoing Cave</entry>
+					<entry>Beneath Glowering Idol</entry>
+					<entry>Sheltered Valley</entry>
+					<entry>Atop Great Rock</entry>
+					<entry>Within Huge Skull</entry>
+					<entry>Within Huge Empty Shell</entry>
+					<entry>Ancient Tollbooth</entry>
+					<entry>Stone Fort</entry>
+					<entry>Grove of Martyr Trees</entry>
+					<entry>Dried Up Oasis</entry>
+					<entry>Polluted Lakeshore</entry>
+					<entry>Near Faa Nomad Camp</entry>
+					<entry>Near Hegemony Camp</entry>
+					<entry>Near Wreck</entry>
+					<entry>Near Holy Place</entry>
+					<entry>By Oasis</entry>
+					<entry>Inside Ruin</entry>
+				</table>
+				<table name="Who Trades Here">
+					<entry>Hegemony Soldiers</entry>
+					<entry>Faa Nomad Raiders</entry>
+					<entry>Faa Nomad Herdsmen</entry>
+					<entry>Cacogen Drifters</entry>
+					<entry>Furtive Monks</entry>
+					<entry>Cacklemaw Exiles</entry>
+					<entry>Oracle's Caretakers</entry>
+					<entry>Servants of a Petty God</entry>
+					<entry>Vault Raiders</entry>
+					<entry>A Science-Mystic</entry>
+					<entry>Lithling Scholars</entry>
+					<entry>Gnomonian Merchants</entry>
+					<entry>Mercenary Band</entry>
+					<entry>Roaming Scavengers</entry>
+					<entry>Secretive Hermit</entry>
+					<entry>Lowly Goatherds</entry>
+					<entry>Pious Synths</entry>
+					<entry>Deranged Synths</entry>
+					<entry>Pack of Newbeasts</entry>
+					<entry>Titan Cultists</entry>
+				</table>
+				<table name="And">
+					<entry>Hegemony Soldiers</entry>
+					<entry>Faa Nomad Raiders</entry>
+					<entry>Faa Nomad Herdsmen</entry>
+					<entry>Cacogen Drifters</entry>
+					<entry>Furtive Monks</entry>
+					<entry>Cacklemaw Exiles</entry>
+					<entry>Oracle's Caretakers</entry>
+					<entry>Servants of a Petty God</entry>
+					<entry>Vault Raiders</entry>
+					<entry>A Science-Mystic</entry>
+					<entry>Lithling Scholars</entry>
+					<entry>Gnomonian Merchants</entry>
+					<entry>Mercenary Band</entry>
+					<entry>Roaming Scavengers</entry>
+					<entry>Secretive Hermit</entry>
+					<entry>Lowly Goatherds</entry>
+					<entry>Pious Synths</entry>
+					<entry>Deranged Synths</entry>
+					<entry>Pack of Newbeasts</entry>
+					<entry>Titan Cultists</entry>
+				</table>
+				<table name="What Is Traded">
+					<entry>Water</entry>
+					<entry>Information</entry>
+					<entry>Memories</entry>
+					<entry>Music</entry>
+					<entry>Olives</entry>
+					<entry>Weapons</entry>
+					<entry>Armour</entry>
+					<entry>Pottery</entry>
+					<entry>Jewellery</entry>
+					<entry>Dried Fish</entry>
+					<entry>Livestock</entry>
+					<entry>Prisoners</entry>
+					<entry>Psychedelics</entry>
+					<entry>Flowers</entry>
+					<entry>Synth Parts</entry>
+					<entry>Camels</entry>
+					<entry>Books</entry>
+					<entry>Carpets</entry>
+					<entry>Medicine</entry>
+					<entry>Exotica</entry>
+				</table>
+				<table name="And">
+					<entry>Water</entry>
+					<entry>Information</entry>
+					<entry>Memories</entry>
+					<entry>Music</entry>
+					<entry>Olives</entry>
+					<entry>Weapons</entry>
+					<entry>Armour</entry>
+					<entry>Pottery</entry>
+					<entry>Jewellery</entry>
+					<entry>Dried Fish</entry>
+					<entry>Livestock</entry>
+					<entry>Prisoners</entry>
+					<entry>Psychedelics</entry>
+					<entry>Flowers</entry>
+					<entry>Synth Parts</entry>
+					<entry>Camels</entry>
+					<entry>Books</entry>
+					<entry>Carpets</entry>
+					<entry>Medicine</entry>
+					<entry>Exotica</entry>
+				</table>
+				<table name="NPC A">
+					<entry>Owner of the Trade Post</entry>
+					<entry>Owner's Spouse</entry>
+					<entry>Owner's Sibling</entry>
+					<entry>Owner's Heir</entry>
+					<entry>Peacekeeper at the Trade Post</entry>
+					<entry>Peacekeeper's Sinister Deputy</entry>
+					<entry>Studious Clerk</entry>
+					<entry>Dishonest Clerk</entry>
+					<entry>Lowly Servant</entry>
+					<entry>Orphan, Found in the Desert</entry>
+				</table>
+				<table name="Source Of Conflict">
+					<entry>Envy (Property)</entry>
+					<entry>Envy (Success)</entry>
+					<entry>Love (Forbidden)</entry>
+					<entry>Love (Unrequited)</entry>
+					<entry>Love (Triangle)</entry>
+					<entry>Unpaid Debts</entry>
+					<entry>Boredom</entry>
+					<entry>Petty Rivalry</entry>
+					<entry>Robbery</entry>
+					<entry>Gossip</entry>
+					<entry>Adultery</entry>
+					<entry>Conspiracy</entry>
+					<entry>Gluttony</entry>
+					<entry>Mistaken Identity</entry>
+					<entry>Wild, Baseless Accusations</entry>
+					<entry>Addiction (Drink)</entry>
+					<entry>Addiction (Narcotics)</entry>
+					<entry>Shoddy Goods</entry>
+					<entry>Blackmail</entry>
+					<entry>Murder</entry>
+				</table>
+				<table name="NPC B">
+					<entry>Successful, Pompous Trader</entry>
+					<entry>Sly, Scheming Trader</entry>
+					<entry>Elderly, Naive Trader</entry>
+					<entry>Young, Cruel Trader</entry>
+					<entry>Reckless, Hotheaded Trader</entry>
+					<entry>Whining, Annoying Trader</entry>
+					<entry>Brawny Youth, who Assists a Trader</entry>
+					<entry>Performer, Who Entertains Traders</entry>
+					<entry>Fortune-Teller, Just Passing Through</entry>
+					<entry>Wandering, Scheming Stranger</entry>
+				</table>
+			</location>
+			<location>
+				<name>Hegemony Camp</name>
+				<symbol>►</symbol>
+				<color>#e35f8b</color>
+				<table name="Unit Type">
+					<entry>Deserters (d6)</entry>
+					<entry>Deserters (d6)</entry>
+					<entry>Scouts (d6)</entry>
+					<entry>Scouts (d6)</entry>
+					<entry>Scouts (d6)</entry>
+					<entry>Scouts (d6)</entry>
+					<entry>Rangers (d8)</entry>
+					<entry>Rangers (d8)</entry>
+					<entry>Rangers (d8)</entry>
+					<entry>Rangers (d8)</entry>
+					<entry>Synth-Hunting Team (d8)</entry>
+					<entry>Synth-Hunting Team (d8)</entry>
+					<entry>Synth-Hunting Team (d8)</entry>
+					<entry>Synth-Hunting Team (d8)</entry>
+					<entry>Legionaries (d20)</entry>
+					<entry>Legionaries (d20)</entry>
+					<entry>Legionaries (d20)</entry>
+					<entry>Legionaries (d20)</entry>
+					<entry>Artillery Unit (d8)</entry>
+					<entry>Artillery Unit (d8)</entry>
+				</table>
+				<table name="Commander">
+					<entry>Dead</entry>
+					<entry>Missing</entry>
+					<entry>Dying</entry>
+					<entry>Wounded</entry>
+					<entry>Weirdly Optimistic</entry>
+					<entry>Raving Mad</entry>
+					<entry>Incompetent</entry>
+					<entry>Stern</entry>
+					<entry>Wavering</entry>
+					<entry>Steady</entry>
+					<entry>Grim</entry>
+					<entry>Bloodthirsty</entry>
+					<entry>Measured</entry>
+					<entry>Cold</entry>
+					<entry>Shrewd</entry>
+					<entry>Competent</entry>
+					<entry>Loathed</entry>
+					<entry>Respected</entry>
+					<entry>Alert</entry>
+					<entry>Beloved</entry>
+				</table>
+				<table name="Camp Mood">
+					<entry>Panicked</entry>
+					<entry>Surly</entry>
+					<entry>Mutinous</entry>
+					<entry>Stressed</entry>
+					<entry>Downcast</entry>
+					<entry>Sleepy</entry>
+					<entry>Lazy</entry>
+					<entry>Paranoid</entry>
+					<entry>Stoic</entry>
+					<entry>Deranged</entry>
+					<entry>Furious</entry>
+					<entry>Hopeful</entry>
+					<entry>Optimistic</entry>
+					<entry>Celebratory</entry>
+					<entry>Suspicious</entry>
+					<entry>Bored</entry>
+					<entry>Generous</entry>
+					<entry>Drunken</entry>
+					<entry>Overconfident</entry>
+					<entry>Mournful</entry>
+				</table>
+				<table name="Activity">
+					<entry>Treating Wounds</entry>
+					<entry>Preparing for Combat</entry>
+					<entry>Cleaning Campsite</entry>
+					<entry>Cooking</entry>
+					<entry>Weapons Drill</entry>
+					<entry>Repairing Gear</entry>
+					<entry>Troop Inspection</entry>
+					<entry>Burying Dead</entry>
+					<entry>Burying Dead</entry>
+					<entry>Waiting for Orders</entry>
+					<entry>Gambling</entry>
+					<entry>Sleeping</entry>
+					<entry>Feeding Prisoners</entry>
+					<entry>Hunting Wildlife</entry>
+					<entry>Executing Prisoners</entry>
+					<entry>Searching for Water</entry>
+					<entry>having Combat With Monster</entry>
+					<entry>having Combat With Faa</entry>
+					<entry>having Combat With Cacklemaw</entry>
+				</table>
+			</location>
+			<location>
+				<name>Faa Nomad Camp</name>
+				<symbol>○</symbol>
+				<color>#f8961d</color>
+				<table name="Leader">
+					<entry>a Stern Patriarch</entry>
+					<entry>a Stern Matriarch</entry>
+					<entry>a Council of Elders</entry>
+					<entry>a Charismatic Visionary</entry>
+					<entry>a Wounded Old Warrior</entry>
+					<entry>a Husband and Wife who are arguing</entry>
+					<entry>a happy Husband and Wife</entry>
+					<entry>a Young Hothead</entry>
+					<entry>a Drug-addled Oracle</entry>
+					<entry>a Sinister Slaver</entry>
+					<entry>a Lecherous Patriarch</entry>
+					<entry>a Lecherous Matriarch</entry>
+					<entry>Twin Brothers/Sisters</entry>
+					<entry>Blind Brothers/Sisters</entry>
+					<entry>a Skilled Worm-tamer</entry>
+					<entry>a Frail Grandmother</entry>
+					<entry>a Skilled Sharpshooter</entry>
+					<entry>a Cruel Psychic</entry>
+					<entry>a Power Struggle</entry>
+					<entry>Anarchy</entry>
+				</table>
+				<table name="They Have">
+					<entry>Meat</entry>
+					<entry>Dates</entry>
+					<entry>Olives</entry>
+					<entry>Cheese</entry>
+					<entry>Weapons</entry>
+					<entry>Hides</entry>
+					<entry>Precious Metal</entry>
+					<entry>Machine Parts</entry>
+					<entry>Medicine</entry>
+					<entry>Spices</entry>
+					<entry>Drugs</entry>
+					<entry>Spare Livestock</entry>
+					<entry>Fabrics</entry>
+					<entry>Fungus</entry>
+					<entry>Sugar</entry>
+					<entry>Cybernetics</entry>
+					<entry>Tonics</entry>
+					<entry>Books</entry>
+					<entry>Exotica</entry>
+					<entry>Water</entry>
+				</table>
+				<table name="They Want">
+					<entry>Meat</entry>
+					<entry>Wine</entry>
+					<entry>Beer</entry>
+					<entry>Salt</entry>
+					<entry>Weapons</entry>
+					<entry>Information</entry>
+					<entry>Shelter</entry>
+					<entry>Slaves</entry>
+					<entry>an Escaped Prisoner</entry>
+					<entry>a Captured Bride</entry>
+					<entry>a Runaway Groom</entry>
+					<entry>to get Revenge against another group of Faa</entry>
+					<entry>to seek Revenge againt a Monster</entry>
+					<entry>to seek Revenge against the Hegemony</entry>
+					<entry>to seek Revenge against Bandits</entry>
+					<entry>Missing Child</entry>
+					<entry>Medical Help</entry>
+					<entry>to Humiliate Other Faa</entry>
+					<entry>To Party</entry>
+					<entry>Water</entry>
+				</table>
+				<table name="Mood">
+					<entry>Angry</entry>
+					<entry>Scared</entry>
+					<entry>Mourning</entry>
+					<entry>Talkative</entry>
+					<entry>Sullen</entry>
+					<entry>Warlike</entry>
+					<entry>Contemplative</entry>
+					<entry>Pious</entry>
+					<entry>Crazed</entry>
+					<entry>Suspicious</entry>
+					<entry>Cheerful</entry>
+					<entry>Wary</entry>
+					<entry>Overconfident</entry>
+					<entry>Argumentative</entry>
+					<entry>Proud</entry>
+					<entry>Silent</entry>
+					<entry>Praying</entry>
+					<entry>Celebrating</entry>
+					<entry>Drunken</entry>
+					<entry>Boastful</entry>
+				</table>
+				<table name="NPC A">
+					<entry>Clan Leader</entry>
+					<entry>Leader's Spouse</entry>
+					<entry>Leader's Sibling</entry>
+					<entry>Leader's Respected Child</entry>
+					<entry>Leader's Contemptible Child</entry>
+					<entry>Old, Frail Elder</entry>
+					<entry>Cunning, Manipulative Elder</entry>
+					<entry>Feared Old Warrior</entry>
+					<entry>Young Warrior, with Something to Prove</entry>
+					<entry>Widow of Previous Leader</entry>
+				</table>
+				<table name="Source Of Conflict">
+					<entry>Envy (Property)</entry>
+					<entry>Envy (Success)</entry>
+					<entry>Love (Forbidden)</entry>
+					<entry>Love (Unrequited)</entry>
+					<entry>Love (Triangle)</entry>
+					<entry>Unpaid Debts</entry>
+					<entry>Boredom</entry>
+					<entry>Honor</entry>
+					<entry>Robbery</entry>
+					<entry>Gossip</entry>
+					<entry>Adultery</entry>
+					<entry>Conspiracy</entry>
+					<entry>Gluttony</entry>
+					<entry>Mistaken Identity</entry>
+					<entry>Wild, Baseless Accusations</entry>
+					<entry>Addiction (Drink)</entry>
+					<entry>Addiction (Narcotics)</entry>
+					<entry>Wedding Plans</entry>
+					<entry>Blackmail</entry>
+					<entry>Murder</entry>
+				</table>
+				<table name="NPC B">
+					<entry>Rival to Leader's Authority</entry>
+					<entry>Spouse of Rival to Leader</entry>
+					<entry>Child of Rival to Leader</entry>
+					<entry>Clan Member, Considered Foolish</entry>
+					<entry>Clan Member, Considered Dangerous</entry>
+					<entry>Clan Member, Injured in Battle</entry>
+					<entry>Prisoner, Captured in Battle</entry>
+					<entry>Cantankerous Storyteller</entry>
+					<entry>Skilled Tracker</entry>
+					<entry>Skilled Artisan</entry>
+				</table>
+			</location>
+			<location>
+				<name>Cacklemaw Den</name>
+				<symbol>â</symbol>
+				<color>#e35f8b</color>
+				<table name="Sworn To">
+					<entry>Mama Hecklehaw</entry>
+					<entry>Mama Hecklehaw</entry>
+					<entry>Mama Hecklehaw</entry>
+					<entry>Mama Hecklehaw</entry>
+					<entry>Mama Hecklehaw</entry>
+					<entry>Mama Gloatgrim</entry>
+					<entry>Mama Gloatgrim</entry>
+					<entry>Mama Gloatgrim</entry>
+					<entry>Mama Gloatgrim</entry>
+					<entry>Mama Gloatgrim</entry>
+					<entry>Mama Yawningfool</entry>
+					<entry>Mama Yawningfool</entry>
+					<entry>Mama Yawningfool</entry>
+					<entry>Mama Yawningfool</entry>
+					<entry>Mama Yawningfool</entry>
+					<entry>Nana Rictus</entry>
+					<entry>Nana Rictus</entry>
+					<entry>Nana Rictus</entry>
+					<entry>Nana Blacklaugh</entry>
+					<entry>Nana Blacklaugh</entry>
+				</table>
+				<table name="Weapons">
+					<entry>Bowcasters</entry>
+					<entry>Rusted Blades</entry>
+					<entry>Ornate Razorwhips</entry>
+					<entry>Envenomed Spears</entry>
+					<entry>Impulse Rifles</entry>
+					<entry>Hellblasters</entry>
+					<entry>Storm Guns</entry>
+					<entry>Throwing Knives</entry>
+					<entry>Blunderbores</entry>
+					<entry>Prism Cannons</entry>
+					<entry>Nailguns</entry>
+					<entry>Flesh-rippers</entry>
+					<entry>Nets and Tridents</entry>
+					<entry>Spore Launchers</entry>
+					<entry>Laser Rifles</entry>
+					<entry>Exploding Javelins</entry>
+					<entry>Shrieker Bombs</entry>
+					<entry>Glue Guns</entry>
+					<entry>Hegemony Autorifles</entry>
+					<entry>Teeth and Claws</entry>
+				</table>
+				<table name="Activity">
+					<entry>Sleeping</entry>
+					<entry>Fleeing</entry>
+					<entry>In-Fighting</entry>
+					<entry>Funeral</entry>
+					<entry>Singing</entry>
+					<entry>Drunk</entry>
+					<entry>Psychedelic Ritual</entry>
+					<entry>Sacred Puppet Show</entry>
+					<entry>Rustling Livestock</entry>
+					<entry>Extorting a Merchant</entry>
+					<entry>Transporting Prisoners</entry>
+					<entry>Repairing Tents</entry>
+					<entry>Gambling</entry>
+					<entry>Marking Territory</entry>
+					<entry>Cooking</entry>
+					<entry>Fighting (Other Monster)</entry>
+					<entry>Fighting (Other Monster)</entry>
+					<entry>Fighting (Other Cacklemaw)</entry>
+					<entry>Fighting (Other Cacklemaw)</entry>
+					<entry>Fighting (Faa Nomads)</entry>
+				</table>
+				<table name="They Want">
+					<entry>Meat</entry>
+					<entry>Meat</entry>
+					<entry>Meat</entry>
+					<entry>Meat</entry>
+					<entry>Water</entry>
+					<entry>Water</entry>
+					<entry>Water</entry>
+					<entry>Water</entry>
+					<entry>Directions</entry>
+					<entry>Tribute</entry>
+					<entry>Jokes</entry>
+					<entry>Music</entry>
+					<entry>Cruelty</entry>
+					<entry>Repairs</entry>
+					<entry>Weapons</entry>
+					<entry>Drugs</entry>
+					<entry>Booze</entry>
+					<entry>Shelter</entry>
+					<entry>Reinforcements</entry>
+					<entry>Prisoners</entry>
+				</table>
+			</location>
+			<location>
+				<name>Anomaly</name>
+				<symbol>♣</symbol>
+				<color>#f8961d</color>
+				<table name="Quality">
+					<entry>Dazzling</entry>
+					<entry>Nauseating</entry>
+					<entry>Floating</entry>
+					<entry>Singing</entry>
+					<entry>Mist-like</entry>
+					<entry>Glitching</entry>
+					<entry>Luminous</entry>
+					<entry>Radioactive</entry>
+					<entry>Self-replicating</entry>
+					<entry>Quicksilver</entry>
+					<entry>Many-eyed</entry>
+					<entry>Iridescent</entry>
+					<entry>Toxic</entry>
+					<entry>Crystal</entry>
+					<entry>Speaking</entry>
+					<entry>Mobile</entry>
+					<entry>Blossoming</entry>
+					<entry>Burning</entry>
+					<entry>Mesmerising</entry>
+					<entry>Terrifying</entry>
+				</table>
+				<table name="Form">
+					<entry>Web</entry>
+					<entry>Mist</entry>
+					<entry>Cave</entry>
+					<entry>Tower</entry>
+					<entry>Lotus</entry>
+					<entry>Tree</entry>
+					<entry>Pool</entry>
+					<entry>Fountain</entry>
+					<entry>Stone</entry>
+					<entry>Skull</entry>
+					<entry>Prism</entry>
+					<entry>Cube</entry>
+					<entry>Pyramid</entry>
+					<entry>Sphere</entry>
+					<entry>House</entry>
+					<entry>Miasma</entry>
+					<entry>Waterfall</entry>
+					<entry>Infant</entry>
+					<entry>Shell</entry>
+					<entry>Helix</entry>
+				</table>
+				<table name="Primary Effect">
+					<entry>Inverts Local Gravity</entry>
+					<entry>Heals Injuries</entry>
+					<entry>Translates Languages</entry>
+					<entry>Reanimates Dead</entry>
+					<entry>Merges Creatures Together</entry>
+					<entry>Makes Prophecies</entry>
+					<entry>Other Universe Visible</entry>
+					<entry>Implants Memories</entry>
+					<entry>Implants Mystic Gifts</entry>
+					<entry>Induces Amnesia</entry>
+					<entry>Induces Delusions</entry>
+					<entry>Kills Indiscriminately</entry>
+					<entry>Induces Empathy</entry>
+					<entry>Transforms Matter</entry>
+					<entry>Teleports Matter</entry>
+					<entry>Creates Planeyfolk</entry>
+					<entry>Creates Monsters</entry>
+					<entry>Grants Visions of Past</entry>
+					<entry>Grants Visions of Future</entry>
+					<entry>Makes Thoughts Solid</entry>
+				</table>
+				<table name="Secondary Effect">
+					<entry>Induces Paranoia</entry>
+					<entry>invokes Total Silence Nearby</entry>
+					<entry>Absorbs Light</entry>
+					<entry>generates Extreme Cold Nearby</entry>
+					<entry>there is Strange Music Audible</entry>
+					<entry>causes Strange Voices to Echo from all around</entry>
+					<entry>has a Localised Weather System</entry>
+					<entry>causes Time to Flow Strangely</entry>
+					<entry>Induces Mania</entry>
+					<entry>it is Always Nighttime Nearby</entry>
+					<entry>also Induces Mutations</entry>
+					<entry>Rusts All Metal</entry>
+					<entry>also Exudes Lightning</entry>
+					<entry>also Exudes Flames</entry>
+					<entry>also Exudes Toxins</entry>
+					<entry>also Creates Solid Light</entry>
+					<entry>Nanomachine Cloud</entry>
+					<entry>causes Infection with Virus</entry>
+					<entry>causes Infection with Fungus</entry>
+					<entry>causes Infection with Spirit</entry>
+				</table>
+			</location>
+		</locations>
+		<landscapetypes>
+			<landscapetype>
+				<name>Salt Pan</name>
+				<symbol>▬░╨</symbol>
+				<quantity>7</quantity>
+				<color>#ffedf3</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Hard Rocky Plain</name>
+				<symbol>╨╤░▬</symbol>
+				<quantity>7</quantity>
+				<color>#2f5d73</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Dried-up Lake</name>
+				<symbol>♀▬</symbol>
+				<quantity>5</quantity>
+				<color>#2f5d73</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Dried-up River</name>
+				<symbol>§~</symbol>
+				<quantity>10</quantity>
+				<color>#2f5d73</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Towering Monoliths</name>
+				<symbol>Θ≤≈</symbol>
+				<quantity>7</quantity>
+				<color>#2f5d73</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Mesas</name>
+				<symbol>êΩ╨░</symbol>
+				<quantity>10</quantity>
+				<color>#2f5d73</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Low Hills</name>
+				<symbol>ê^╨░</symbol>
+				<quantity>10</quantity>
+				<color>#2f5d73</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Single Mountain</name>
+				<symbol>å</symbol>
+				<quantity>1</quantity>
+				<color>#2f5d73</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Toxic Lake</name>
+				<symbol>♀↨</symbol>
+				<quantity>5</quantity>
+				<color>#e35f8b</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Toxic River</name>
+				<symbol>~§</symbol>
+				<quantity>6</quantity>
+				<color>#e35f8b</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Fungal Forest</name>
+				<symbol>♠♣╨╤</symbol>
+				<quantity>7</quantity>
+				<color>#f5bccf</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Crystal Growths</name>
+				<symbol>▲▬↨</symbol>
+				<quantity>7</quantity>
+				<color>#ffedf3</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Windswept Plateau</name>
+				<symbol>¶ê^╨░</symbol>
+				<quantity>6</quantity>
+				<color>#2f5d73</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Mountainous</name>
+				<symbol>åèê╨░</symbol>
+				<quantity>7</quantity>
+				<color>#2f5d73</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Winding Canyons</name>
+				<symbol>‼¶§~</symbol>
+				<quantity>7</quantity>
+				<color>#2f5d73</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Abandoned City</name>
+				<symbol>√≤±≈≡</symbol>
+				<quantity>6</quantity>
+				<color>#2f5d73</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Cactus Fields</name>
+				<symbol>╤╥░╨</symbol>
+				<quantity>6</quantity>
+				<color>#f8961d</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Riddled with Caves</name>
+				<symbol>o.░</symbol>
+				<quantity>5</quantity>
+				<color>#2f5d73</color>
+			</landscapetype>
+			<landscapetype>
+				<name>Garbage-strewn Wastes</name>
+				<symbol>╨░</symbol>
+				<quantity>5</quantity>
+				<color>#e35f8b</color>
+			</landscapetype>
+		</landscapetypes>
+		<travelhazards>
+			<travelhazard sprite="◄">Bandits Control the Road</travelhazard>
+			<travelhazard sprite="▲▼">Hunting Ground of Chromavore</travelhazard>
+			<travelhazard sprite="Ç">Prowled by Argent Shepherd</travelhazard>
+			<travelhazard sprite="§~">Sandworm Spawning Grounds</travelhazard>
+			<travelhazard>Very Windy; Guaranteed Sandstorms</travelhazard>
+			<travelhazard sprite="üé">Roving Cult Searching for Converts</travelhazard>
+			<travelhazard sprite="Ç">Malfunctioning Synths Demand a Toll</travelhazard>
+			<travelhazard sprite="âô">Road Watched by Cacklemaw Clan</travelhazard>
+			<travelhazard sprite="æÆ">Warring Faa Nomads</travelhazard>
+			<travelhazard sprite="╥">Unexploded Landmines</travelhazard>
+			<travelhazard sprite="*▲" min="0.2" max="0.5">Tumblesnares Roll Through The Wind</travelhazard>
+			<travelhazard sprite="♠♣" min="0.2" max="0.5">Xeric Triffids Hunt on the Road. They are Adapted to Long Periods of Drought, Yet Ever Thirsty for Blood</travelhazard>
+			<travelhazard sprite="§~" min="0.2" max="0.5">Chrome-Feathered Sailback Flies Overhead</travelhazard>
+			<travelhazard sprite="♫☼">Quill-Spider Hunting Phthalo-Jackals</travelhazard>
+			<travelhazard sprite="âô">Lambent Lynx Feeding Off a Synth</travelhazard>
+		</travelhazards>
+		<tradecaravan>
+			<table name="Transport">
+				<entry>Camel Train</entry>
+				<entry>Zeppelin</entry>
+				<entry>Wind Wagon</entry>
+				<entry>Giant Tortoise</entry>
+				<entry>Dune Buggy</entry>
+				<entry>Auto-Chariot</entry>
+				<entry>Armoured Crawler</entry>
+				<entry>Sandworm Sled</entry>
+			</table>
+			<table name="Cargo A">
+				<entry>Timber</entry>
+				<entry>Pottery</entry>
+				<entry>Carpets</entry>
+				<entry>Cheese</entry>
+				<entry>Livestock</entry>
+				<entry>Shoes</entry>
+				<entry>Masks</entry>
+				<entry>Parchment</entry>
+				<entry>Books</entry>
+				<entry>Synth Parts</entry>
+				<entry>Medicine</entry>
+				<entry>Drugs</entry>
+				<entry>Bells</entry>
+				<entry>Crystals</entry>
+				<entry>Clay</entry>
+				<entry>Slaves</entry>
+				<entry>Silver</entry>
+				<entry>Gold</entry>
+				<entry>Jewels</entry>
+				<entry>Water</entry>
+			</table>
+			<table name="Cargo B">
+				<entry>Silk</entry>
+				<entry>Cotton</entry>
+				<entry>Beer</entry>
+				<entry>Memory Discs</entry>
+				<entry>Weapons</entry>
+				<entry>Armour</entry>
+				<entry>Coffee</entry>
+				<entry>Tea</entry>
+				<entry>Salt</entry>
+				<entry>Wine</entry>
+				<entry>Chocolate</entry>
+				<entry>Dyes</entry>
+				<entry>Saffron</entry>
+				<entry>Cinnamon</entry>
+				<entry>Olives</entry>
+				<entry>Dates</entry>
+				<entry>Cured Meat</entry>
+				<entry>Olive Oil</entry>
+				<entry>Seafood</entry>
+				<entry>Sugar</entry>
+			</table>
+			<table name="Merchant">
+				<entry>Garrulous Imbecile</entry>
+				<entry>Pious Miser</entry>
+				<entry>Naive Dreamer</entry>
+				<entry>Grim and Silent</entry>
+				<entry>Clever Drunkard</entry>
+				<entry>Dedicated and Ascetic</entry>
+				<entry>Educated and Venal</entry>
+				<entry>Scholarly and Talkative</entry>
+				<entry>Honest and Desperate</entry>
+				<entry>Precise and Callous</entry>
+				<entry>Whimsical and Entitled</entry>
+				<entry>Unsentimental and Fickle</entry>
+				<entry>Pure and Brutal</entry>
+				<entry>Prejudiced Coward</entry>
+				<entry>Curious and Pugnacious</entry>
+				<entry>Responsible and Prim</entry>
+				<entry>Sad Drunk</entry>
+				<entry>Daring and Argumentative</entry>
+				<entry>Incorruptible</entry>
+				<entry>Abrasive but Sensitive</entry>
+			</table>
+			<table name="Passenger">
+				<entry>Actor</entry>
+				<entry>Musician</entry>
+				<entry>Forger</entry>
+				<entry>Artist</entry>
+				<entry>Priest</entry>
+				<entry>Mystic</entry>
+				<entry>Bounty Hunter</entry>
+				<entry>Escaped Slave</entry>
+				<entry>Clerk</entry>
+				<entry>Dentist</entry>
+				<entry>Conman</entry>
+				<entry>Poet</entry>
+				<entry>Gambler</entry>
+				<entry>Clown</entry>
+				<entry>Boxer</entry>
+				<entry>Alchemist</entry>
+				<entry>Spy</entry>
+				<entry>Courtesan</entry>
+				<entry>Barber</entry>
+				<entry>Snake Charmer</entry>
+			</table>
+			<table name="Guards">
+				<entry>All Dead</entry>
+				<entry>Wounded</entry>
+				<entry>Secretly Bandits</entry>
+				<entry>Ran Away</entry>
+				<entry>Badly Armed</entry>
+				<entry>Mutinous</entry>
+				<entry>Lazy</entry>
+				<entry>Ageing</entry>
+				<entry>White Apes</entry>
+				<entry>Actually Holograms</entry>
+				<entry>Ex-Gladiators</entry>
+				<entry>Slave Soldiers</entry>
+				<entry>Untested</entry>
+				<entry>Incompetent Mercenaries</entry>
+				<entry>Warrior Synth</entry>
+				<entry>Bloodthirsty Thugs</entry>
+				<entry>Ancient Gun-drone</entry>
+				<entry>Cloaking Device</entry>
+				<entry>Hegemony Deserters</entry>
+				<entry>Loyal and Competent</entry>
+			</table>
+			<table name="Complication">
+				<entry>Out of Water</entry>
+				<entry>Totally Lost</entry>
+				<entry>Pursued buy Bandits</entry>
+				<entry>Pursued by Creature</entry>
+				<entry>Disease</entry>
+				<entry>Spoiled Cargo</entry>
+				<entry>Transport Damaged</entry>
+				<entry>Merchant Crazed</entry>
+				<entry>Passenger Crazed</entry>
+				<entry>Guards Crazed</entry>
+				<entry>Merchant Possessed</entry>
+				<entry>Passenger Possessed</entry>
+				<entry>Guard Possessed</entry>
+				<entry>Carrying Body for Burial</entry>
+				<entry>Notorious Passenger</entry>
+				<entry>Smuggling Contraband</entry>
+				<entry>Hides a Fugitive</entry>
+				<entry>Everyone's Drunk</entry>
+				<entry>Fungal Infection</entry>
+				<entry>Everyone's Arguing</entry>
+			</table>
+		</tradecaravan>
+		<npc>
+			<table name="Ancestry">
+				<entry symbol="æ">True-kin</entry>
+				<entry symbol="æ">True-kin</entry>
+				<entry symbol="æ">True-kin</entry>
+				<entry symbol="æ">True-kin</entry>
+				<entry symbol="æ">True-kin</entry>
+				<entry symbol="Æ">Cacogen</entry>
+				<entry symbol="Æ">Cacogen</entry>
+				<entry symbol="Æ">Cacogen</entry>
+				<entry symbol="Æ">Cacogen</entry>
+				<entry symbol="Æ">Cacogen</entry>
+				<entry symbol="â">Newbeast</entry>
+				<entry symbol="â">Newbeast</entry>
+				<entry symbol="â">Newbeast</entry>
+				<entry symbol="â">Newbeast</entry>
+				<entry symbol="â">Newbeast</entry>
+				<entry symbol="Ç">Synth</entry>
+				<entry symbol="Ç">Synth</entry>
+				<entry symbol="Ç">Synth</entry>
+				<entry symbol="♣">Mycomorph</entry>
+				<entry symbol="♣">Mycomorph</entry>
+			</table>
+			<table name="Gender">
+				<entry>Male</entry>
+				<entry>Male</entry>
+				<entry>Male</entry>
+				<entry>Male</entry>
+				<entry>Male</entry>
+				<entry>Male</entry>
+				<entry>Male</entry>
+				<entry>Male</entry>
+				<entry>Female</entry>
+				<entry>Female</entry>
+				<entry>Female</entry>
+				<entry>Female</entry>
+				<entry>Female</entry>
+				<entry>Female</entry>
+				<entry>Female</entry>
+				<entry>Female</entry>
+				<entry>Androgynous</entry>
+				<entry>Androgynous</entry>
+				<entry>Androgynous</entry>
+				<entry>Androgynous</entry>
+			</table>
+			<table name="Disposition">
+				<entry>Implacably Evil</entry>
+				<entry>Implacably Evil</entry>
+				<entry>Implacably Evil</entry>
+				<entry>Hostile</entry>
+				<entry>Hostile</entry>
+				<entry>Hostile</entry>
+				<entry>Hostile</entry>
+				<entry>Unhelpful</entry>
+				<entry>Unhelpful</entry>
+				<entry>Unhelpful</entry>
+				<entry>Oblivious</entry>
+				<entry>Oblivious</entry>
+				<entry>Oblivious</entry>
+				<entry>Friendly</entry>
+				<entry>Friendly</entry>
+				<entry>Friendly</entry>
+				<entry>Friendly</entry>
+				<entry>Incredibly Generous</entry>
+				<entry>Incredibly Generous</entry>
+				<entry>Incredibly Generous</entry>
+			</table>
+			<table name="Goal">
+				<entry>Craves Drug</entry>
+				<entry>Craves Drink</entry>
+				<entry>Religious Mania</entry>
+				<entry>Seeks Revenge</entry>
+				<entry>Pay off Debt</entry>
+				<entry>Pilgrimage</entry>
+				<entry>Escaped Slave</entry>
+				<entry>Fleeing the Law</entry>
+				<entry>Collect Debt</entry>
+				<entry>Craves Fame</entry>
+				<entry>Craves Wealth</entry>
+				<entry>Craves Knowledge</entry>
+				<entry>Missing Family</entry>
+				<entry>Missing Friend</entry>
+				<entry>Hates a Rival</entry>
+				<entry>Unrequited Love</entry>
+				<entry>Forbidden Love</entry>
+				<entry>Craves Power</entry>
+				<entry>Create Art</entry>
+				<entry>Carnal Lust</entry>
+			</table>
+		</npc>
+		<regionnames>
+			<regionname>Famous Resident</regionname>
+			<regionname>Local Wildlife</regionname>
+			<regionname>Natural Wonder</regionname>
+			<regionname>Natural Hazard</regionname>
+			<regionname>Famous Monster</regionname>
+			<regionname>Long-Dead Settlement</regionname>
+			<regionname>Forgotten Religion</regionname>
+			<regionname>Local Weather</regionname>
+			<regionname>Natural Resource</regionname>
+			<regionname>Name No Longer Understood</regionname>
+		</regionnames>
+		<corpse>
+			<conditions>
+				<condition>Desiccated</condition>
+				<condition>Skeletal</condition>
+				<condition>Mummified by Heat</condition>
+				<condition>Riddled with Bullets</condition>
+				<condition>Seared by Laser-fire</condition>
+				<condition>Worryingly Fresh</condition>
+				<condition>Centuries Old</condition>
+				<condition>Half-Eaten by Animals</condition>
+				<condition>Someone You Know</condition>
+				<condition>Sliced Neatly in Half</condition>
+				<condition>Seated in Lotus Position</condition>
+				<condition>Ritually Mutilated</condition>
+				<condition>Charred by Flames</condition>
+				<condition>Banquet for Worms</condition>
+				<condition>Frozen Solid</condition>
+				<condition>Drained of Blood</condition>
+				<condition>Infested with Nanotech</condition>
+				<condition>Pungent</condition>
+				<condition>Could be Sleeping</condition>
+				<condition>Not Quite Dead</condition>
+			</conditions>
+			<items>
+				<item>Plastic Bag Full of Teeth</item>
+				<item>Can of Survival Rations</item>
+				<item>Pocket Hourglass</item>
+				<item>Set of Dominoes</item>
+				<item>Waxen Poetry Cylinder</item>
+				<item>Prayer Beads</item>
+				<item>Synthetic Eye</item>
+				<item>Stick of Infrared Chalk</item>
+				<item>Bottle with a Tiny Eel Inside</item>
+				<item>Lizard-Skin Boots</item>
+				<item>Locket with Hair Inside</item>
+				<item>Ring with an Autarch's Seal</item>
+				<item>Dice Decorated with Arcane Symbols</item>
+				<item>Coil of Razorwire</item>
+				<item>Crystalline Vial of Ink</item>
+				<item>Exorcist's Bell</item>
+				<item>Telepathy Suppression Pills</item>
+				<item>Glowstone</item>
+				<item>Malfunctioning Memory Crystal</item>
+				<item>Pack of Ancient Cigarettes</item>
+			</items>
+		</corpse>
+		<iteminsand>
+			<item>Torn Robe</item>
+			<item>Black Candle</item>
+			<item>Leather Sword Belt</item>
+			<item>Empty Traveller's Pack</item>
+			<item>Dried Poisonous Plant</item>
+			<item>Bronze Bell</item>
+			<item>Glass Container of Paprika</item>
+			<item>Plastic Container of Cooking Oil</item>
+			<item>Steel Flask of Tea</item>
+			<item>Silk Glove with Seven Fingers</item>
+			<item>Rusted Key</item>
+			<item>Cracked Mirror</item>
+			<item>Jade Statuette of a Sandworm</item>
+			<item>Jackal's Tooth</item>
+			<item>Newbeast's Tooth</item>
+			<item>Bag of Dried Flesh</item>
+			<item>Plastic Bag That Holds Human Teeth</item>
+			<item>Belt Made from the Skin of a Lizard-Lion</item>
+			<item>Blood-Soaked Linen Bandage</item>
+			<item>Broken Spyglass</item>
+			<item>Broken Pistol</item>
+			<item>Broken Arrow</item>
+			<item>Broken Memory Crystal</item>
+			<item>Broken Clock</item>
+			<item>Cast Iron Skillet</item>
+			<item>Metal Disc, with Rune Scratched into the Surface</item>
+			<item>Ceramic Pot Sealed with Wax</item>
+			<item>Ceramic Tiles</item>
+			<item>Can of Pre-Collapse Survival Rations</item>
+			<item>Coil of Razor-Snare</item>
+			<item>Ancient Coin, Embossed with an Autarch's Sigil</item>
+			<item>Plasteel Hunting Knife</item>
+			<item>Crude Map of the Surrounding Area</item>
+			<item>Crumpled Paper, Decorated with Lewd Pictures</item>
+			<item>Crystalline Vial of Ink</item>
+			<item>Decaying Scroll</item>
+			<item>Desecrated Holy Symbol</item>
+			<item>Watercolour Painting of a Monster</item>
+			<item>Functional Memory Crystal</item>
+			<item>Glass Bottle</item>
+			<item>Glass Vial of Blood</item>
+			<item>Glowstone</item>
+			<item>Handful of Stone Spheres</item>
+			<item>Handful of Ceramic Shards</item>
+			<item>Golden Container of Ashes</item>
+			<item>Large Glass Jar</item>
+			<item>Large Shard of Stained Glass</item>
+			<item>Pouch of Dried Herbs</item>
+			<item>Pouch of Caltrops</item>
+			<item>Linen Sandal</item>
+			<item>Length of Chain</item>
+			<item>Long, Thin Bronze Needle</item>
+			<item>Mortar and Pestle</item>
+			<item>Newbeast's Mask</item>
+			<item>Rusting Padlock</item>
+			<item>Pair of Tweezers</item>
+			<item>Pair of Spectacles</item>
+			<item>Pair of Chrome Earrings</item>
+			<item>Pair of Grimy Goggles</item>
+			<item>Plastic Bottle</item>
+			<item>Plastic Pouch of Psychedelic Drug</item>
+			<item>Hard Bread and Cheese, Wrapped in Cloth</item>
+			<item>Pouch of Red Wax</item>
+			<item>Pouch of Exorcist's Salt</item>
+			<item>Pouch of Cooking Salt</item>
+			<item>Ring with the Seal of an Autarch</item>
+			<item>Rusty Set of Manacles</item>
+			<item>Set of Dominos</item>
+			<item>Set of Bamboo Eating Utensils</item>
+			<item>Set of Gaming Dice</item>
+			<item>Set of Lock-Picks</item>
+			<item>Set of Metal Working Tools</item>
+			<item>Set of Playing Cards</item>
+			<item>Shard of Flint</item>
+			<item>Shovel</item>
+			<item>Single Feather</item>
+			<item>Single Chess Piece</item>
+			<item>Syntax Engine, Ruined by Sand</item>
+			<item>Small Pouch of Bones</item>
+			<item>Small Hourglass Filled with Strange White Sand</item>
+			<item>Oxygen Mask</item>
+			<item>Smoking Pipe</item>
+			<item>Stick of Chalk</item>
+			<item>Stick of Charcoal</item>
+			<item>Synthetic Eye</item>
+			<item>Synthetic Hand</item>
+			<item>Tangled Bundle of String</item>
+			<item>Tattered Elastane Cloak</item>
+			<item>Spent Ammunition Case</item>
+			<item>Thin Wire with a Hook</item>
+			<item>Tinderbox</item>
+			<item>Dice Engraved with Arcane Symbols</item>
+			<item>Vial of Acid</item>
+			<item>Vial of Indigo Dye</item>
+			<item>Vial of Antitoxin</item>
+			<item>Wax Tablet and Stylus</item>
+			<item>Wooden Flute</item>
+			<item>Worn Whetstone</item>
+			<item>Old, Yellowed, and Illegible Scroll</item>
+			<item>Human Embryo, Preserved in Cyro-Flask</item>
+			<item>Photo of a True-Kin, Wearing Spectacles and Dressed in Red and White Striped Clothing</item>
+		</iteminsand>
+	</interior>
+	<gnomon>
+		<streethassle>
+			<table name="Group">
+				<entry>Pickpockets</entry>
+				<entry>Street Sweepers</entry>
+				<entry>Beggars</entry>
+				<entry>Water Baron's Militia</entry>
+				<entry>Hegemony Patrol</entry>
+				<entry>Hegemony Tax Collectors</entry>
+				<entry>Street Magician and Crowd</entry>
+				<entry>Buskers</entry>
+				<entry>Curbside Gamblers</entry>
+				<entry>Faa Nomads</entry>
+				<entry>Priest of the Promised Sun</entry>
+				<entry>Junk Peddler</entry>
+				<entry>Rowdy Apprentices</entry>
+				<entry>Off-Duty Actors</entry>
+				<entry>Off-Duty Gladiators</entry>
+				<entry>Off-Duty Soldiers</entry>
+				<entry>Courtesans</entry>
+				<entry>Bounty Hunters</entry>
+				<entry>Water Debt Collectors</entry>
+				<entry>Titan Cultists</entry>
+			</table>
+			<table name="Location">
+				<entry>Sunbaked Street</entry>
+				<entry>Shaded Street</entry>
+				<entry>Dingy Alleyway</entry>
+				<entry>Shabby Courtyard</entry>
+				<entry>Opulent Courtyard</entry>
+				<entry>Gambling House</entry>
+				<entry>Tavern</entry>
+				<entry>Outdoor Market</entry>
+				<entry>Public Fountain</entry>
+				<entry>Seedy Passion House</entry>
+				<entry>Upmarket Passion House</entry>
+				<entry>Crowded Street</entry>
+				<entry>Deserted Street</entry>
+				<entry>Derelict House</entry>
+				<entry>Near Fighting Pits</entry>
+				<entry>Near Chariot Tracks</entry>
+				<entry>Artisan Street</entry>
+				<entry>Wealthy Street</entry>
+				<entry>Small Shrine</entry>
+				<entry>Large Shrine</entry>
+			</table>
+			<table name="Source Of Conflict">
+				<entry>Duel Within Group</entry>
+				<entry>Duel With Other Group</entry>
+				<entry>Brawl Within Group</entry>
+				<entry>Brawl With Other Group</entry>
+				<entry>Lust</entry>
+				<entry>Betrayal</entry>
+				<entry>Gambling Debts</entry>
+				<entry>Drunkenness</entry>
+				<entry>Drug Psychosis</entry>
+				<entry>Theft</entry>
+				<entry>Parasitic Crystals</entry>
+				<entry>Dangerous Pet</entry>
+				<entry>Misfired Weapon</entry>
+				<entry>Rogue Goats</entry>
+				<entry>Religious Dispute</entry>
+				<entry>Street Gambling</entry>
+				<entry>Urban Baboons</entry>
+				<entry>Bigotry</entry>
+				<entry>Stampeding Packbeast</entry>
+				<entry>Upturned Wagon</entry>
+			</table>
+		</streethassle>
+		<building>
+			<table name="Originally">
+				<entry>Cybernetics Surgery</entry>
+				<entry>House of Healing</entry>
+				<entry>Jeweller's Shop</entry>
+				<entry>Courthouse</entry>
+				<entry>Slaughterhouse</entry>
+				<entry>Spicer's Storehouse</entry>
+				<entry>Occultist's Abode</entry>
+				<entry>Church of the Promised Sun</entry>
+				<entry>Cobbler's Workshop</entry>
+				<entry>Bath House</entry>
+				<entry>Leatherworker's Abode</entry>
+				<entry>Schoolhouse</entry>
+				<entry>Prison</entry>
+				<entry>Architects' Guildhall</entry>
+				<entry>Sawmill</entry>
+				<entry>Maskmaker's Workshop</entry>
+				<entry>Matchmaker's Abode</entry>
+				<entry>Shrine to Amun-Oh</entry>
+				<entry>Library</entry>
+				<entry>Fortification</entry>
+			</table>
+			<table name="And Then">
+				<entry>Destroyed by Fire</entry>
+				<entry>Scribe's House</entry>
+				<entry>Orphanage</entry>
+				<entry>Beggar's Flophouse</entry>
+				<entry>Expensive Townhouse</entry>
+				<entry>Rowdy Tavern</entry>
+				<entry>Slave Barracks</entry>
+				<entry>Farrier's Workshop</entry>
+				<entry>Hydroponic Garden</entry>
+				<entry>Nunnery</entry>
+				<entry>Distillery</entry>
+				<entry>Alchemist's Abode</entry>
+				<entry>Weapon Dealer's Abode</entry>
+				<entry>Shrine to the Titans</entry>
+				<entry>Dry-Goods Store</entry>
+				<entry>Grocer's Shop</entry>
+				<entry>Butcher's Shop</entry>
+				<entry>Owned by a Madman</entry>
+				<entry>Armourer's Forge</entry>
+				<entry>Astrologer's Tower</entry>
+			</table>
+			<table name="Now">
+				<entry symbol="╜">Abandoned Shell</entry>
+				<entry symbol="◄">Hegemony Barracks</entry>
+				<entry symbol="╟">Gambling Den</entry>
+				<entry symbol="♥">Passion-House</entry>
+				<entry symbol="á">Tea Rooms</entry>
+				<entry symbol="è">Martial-Arts School</entry>
+				<entry symbol="Ç">Philosopher's Guildhall</entry>
+				<entry symbol="á">Tavern</entry>
+				<entry symbol="◄">Gladiator's Barracks</entry>
+				<entry symbol="⌂">Cheap Boardinghouse</entry>
+				<entry symbol="⌂">Expensive Boardinghouse</entry>
+				<entry symbol="▓">Prison</entry>
+				<entry symbol="è">Music Hall</entry>
+				<entry symbol="ü">Puppet Theatre</entry>
+				<entry symbol="►">Fighting Pit</entry>
+				<entry symbol="è">Bakery</entry>
+				<entry symbol="â">Pet Shop</entry>
+				<entry symbol="è">Glassmaker's Workshop</entry>
+				<entry symbol="è">Florist's Shop</entry>
+				<entry symbol="á">Coffee House</entry>
+			</table>
+			<table name="Structure">
+				<entry>Opulent</entry>
+				<entry>Crowded</entry>
+				<entry>Shabby</entry>
+				<entry>Vine-Coated</entry>
+				<entry>Graffiti-Coated</entry>
+				<entry>Filthy</entry>
+				<entry>Lantern-Hung</entry>
+				<entry>Bat-Infested</entry>
+				<entry>Sunbleached</entry>
+				<entry>Half-Collapsed</entry>
+				<entry>Threatening</entry>
+				<entry>Crooked</entry>
+				<entry>Towering</entry>
+				<entry>Small</entry>
+				<entry>Cramped</entry>
+				<entry>Decrepit</entry>
+				<entry>Sand-scoured</entry>
+				<entry>Ill-Omened</entry>
+				<entry>Beautiful</entry>
+				<entry>Freshly Painted</entry>
+			</table>
+			<table name="Notable Ornamentation">
+				<entry>Heavy Brass Lantern</entry>
+				<entry>Monkeys in Cages Outside</entry>
+				<entry>Birds in Cages Outside</entry>
+				<entry>Painted Sigil of an Eye</entry>
+				<entry>Painted Sigil of a Sunburst</entry>
+				<entry>Painted Sigil of a Moon</entry>
+				<entry>Purple Shutters</entry>
+				<entry>Orange Shutters</entry>
+				<entry>Yellow Shutters</entry>
+				<entry>Large Golden Door-handle</entry>
+				<entry>Lemon-tree Outside</entry>
+				<entry>Orange-tree Outside</entry>
+				<entry>Large Cactus Outside</entry>
+				<entry>Automatic Doors</entry>
+				<entry>Flags Hang from Each Window</entry>
+				<entry>Sign Shaped Like Astrolabe</entry>
+				<entry>Sign Shaped Like Sword</entry>
+				<entry>Sign Shaped Like Fish</entry>
+				<entry>Sign Shaped Like Cat</entry>
+				<entry>Sign Shaped Like Star</entry>
+			</table>
+			<table name="Reputation">
+				<entry>Cursed or Haunted</entry>
+				<entry>Unfashionable</entry>
+				<entry>Fashionable</entry>
+				<entry>Trustworthy</entry>
+				<entry>Disreputable</entry>
+				<entry>Disliked</entry>
+				<entry>Dangerous</entry>
+				<entry>Safe</entry>
+				<entry>Dull</entry>
+				<entry>Rowdy</entry>
+				<entry>Cheap</entry>
+				<entry>Expensive</entry>
+				<entry>Shunned</entry>
+				<entry>Well-Liked</entry>
+				<entry>Unpopular</entry>
+				<entry>Stolen Goods Available</entry>
+				<entry>Owner a Cheat</entry>
+				<entry>Owner in Debt</entry>
+				<entry>Always Hear Gossip</entry>
+				<entry>Best of the Best</entry>
+			</table>
+		</building>
+		<npc>
+			<table name="Ancestry">
+				<entry symbol="æÆ">True-kin</entry>
+				<entry symbol="æÆ">True-kin</entry>
+				<entry symbol="æÆ">True-kin</entry>
+				<entry symbol="æÆ">True-kin</entry>
+				<entry symbol="æÆ">True-kin</entry>
+				<entry symbol="Ææ">Cacogen</entry>
+				<entry symbol="Ææ">Cacogen</entry>
+				<entry symbol="Ææ">Cacogen</entry>
+				<entry symbol="Ææ">Cacogen</entry>
+				<entry symbol="Ææ">Cacogen</entry>
+				<entry symbol="âô">Newbeast</entry>
+				<entry symbol="âô">Newbeast</entry>
+				<entry symbol="âô">Newbeast</entry>
+				<entry symbol="âô">Newbeast</entry>
+				<entry symbol="âô">Newbeast</entry>
+				<entry symbol="Ç">Synth</entry>
+				<entry symbol="Ç">Synth</entry>
+				<entry symbol="Ç">Synth</entry>
+				<entry symbol="♣">Mycomorph</entry>
+				<entry symbol="♣">Mycomorph</entry>
+			</table>
+			<table name="Gender">
+				<entry>Male</entry>
+				<entry>Male</entry>
+				<entry>Male</entry>
+				<entry>Male</entry>
+				<entry>Male</entry>
+				<entry>Male</entry>
+				<entry>Male</entry>
+				<entry>Male</entry>
+				<entry>Female</entry>
+				<entry>Female</entry>
+				<entry>Female</entry>
+				<entry>Female</entry>
+				<entry>Female</entry>
+				<entry>Female</entry>
+				<entry>Female</entry>
+				<entry>Female</entry>
+				<entry>Androgynous</entry>
+				<entry>Androgynous</entry>
+				<entry>Nonbinary</entry>
+				<entry>Nonbinary</entry>
+			</table>
+			<table name="Body">
+				<entry>Tall</entry>
+				<entry>Short</entry>
+				<entry>Frail</entry>
+				<entry>Muscular</entry>
+				<entry>Fat</entry>
+				<entry>Thin</entry>
+				<entry>Skeletal</entry>
+				<entry>Hunched</entry>
+				<entry>Lopsided</entry>
+				<entry>Lithe</entry>
+				<entry>Gnarled</entry>
+				<entry>Squat</entry>
+				<entry>Bloated</entry>
+				<entry>Gangly</entry>
+				<entry>Child-like</entry>
+				<entry>Tanned</entry>
+				<entry>Gigantic</entry>
+				<entry>Wiry</entry>
+				<entry>Stout</entry>
+				<entry>Injured</entry>
+			</table>
+			<table name="Drive">
+				<entry>Craves Drug</entry>
+				<entry>Craves Drink</entry>
+				<entry>Religious Mania</entry>
+				<entry>Seeks Revenge</entry>
+				<entry>Pay Off Debt</entry>
+				<entry>Pilgrimage</entry>
+				<entry>Escaped Slave</entry>
+				<entry>Fleeing the Law</entry>
+				<entry>Collect Debt</entry>
+				<entry>Craves Fame</entry>
+				<entry>Craves Wealth</entry>
+				<entry>Craves Knowledge</entry>
+				<entry>Missing Family</entry>
+				<entry>Missing Friend</entry>
+				<entry>Hates a Rival</entry>
+				<entry>Unrequited Love</entry>
+				<entry>Forbidden Love</entry>
+				<entry>Craves Power</entry>
+				<entry>Create Art</entry>
+				<entry>Carnal Lust</entry>
+			</table>
+			<table name="Voice">
+				<entry>Breathy</entry>
+				<entry>Shrill</entry>
+				<entry>Deep</entry>
+				<entry>Sonorous</entry>
+				<entry>Mumbles</entry>
+				<entry>Spits</entry>
+				<entry>Sing-song</entry>
+				<entry>Drawls</entry>
+				<entry>Raspy</entry>
+				<entry>Whispers</entry>
+				<entry>Hasty</entry>
+				<entry>Weird Laugh</entry>
+				<entry>Monotone</entry>
+				<entry>Jovial</entry>
+				<entry>Sinister</entry>
+				<entry>Husky</entry>
+				<entry>Smoky</entry>
+				<entry>Smooth</entry>
+				<entry>Gravelly</entry>
+				<entry>Never Speaks</entry>
+			</table>
+			<table name="Attire">
+				<entry>Rags</entry>
+				<entry>Animal Skins</entry>
+				<entry>Rough Tunic</entry>
+				<entry>Nomad's Attire</entry>
+				<entry>Worker's Attire</entry>
+				<entry>Herdsman's Attire</entry>
+				<entry>Slave Clothing</entry>
+				<entry>Merchant's Livery</entry>
+				<entry>Shabby Attire</entry>
+				<entry>Colourful Attire</entry>
+				<entry>Priest's Robes</entry>
+				<entry>Clerk's Uniform</entry>
+				<entry>Hegemony Garb</entry>
+				<entry>Soldier's Clothing</entry>
+				<entry>Flamboyant Attire</entry>
+				<entry>Musician's Attire</entry>
+				<entry>Veiled Attire</entry>
+				<entry>Sinister Attire</entry>
+				<entry>Philosopher's Robe</entry>
+				<entry>Expensive Clothing</entry>
+			</table>
+			<table name="Demeanour">
+				<entry>Abrasive</entry>
+				<entry>Arrogant</entry>
+				<entry>Assertive</entry>
+				<entry>Charismatic</entry>
+				<entry>Daring</entry>
+				<entry>Decadent</entry>
+				<entry>Eloquent</entry>
+				<entry>Extravagant</entry>
+				<entry>Hedonistic</entry>
+				<entry>Impulsive</entry>
+				<entry>Irritable</entry>
+				<entry>Melancholy</entry>
+				<entry>Paranoid</entry>
+				<entry>Quiet</entry>
+				<entry>Religious</entry>
+				<entry>Romantic</entry>
+				<entry>Scholarly</entry>
+				<entry>Stern</entry>
+				<entry>Vain</entry>
+				<entry>Volatile</entry>
+			</table>
+			<table name="Faction Allegiance">
+				<entry>Noble House</entry>
+				<entry>Trade Cartel</entry>
+				<entry>Philosopher's Guild</entry>
+				<entry>Gang of Criminals</entry>
+				<entry>The Water Baron</entry>
+				<entry>The Water Baron</entry>
+				<entry>House Lonrot</entry>
+				<entry>House Lonrot</entry>
+				<entry>Fifth Hegemony Legion</entry>
+				<entry>Fifth Hegemony Legion</entry>
+				<entry>Friends of Jak</entry>
+				<entry>Friends of Jak</entry>
+				<entry>Prieval's Crew</entry>
+				<entry>Prieval's Crew</entry>
+				<entry>Church of the Promised Sun</entry>
+				<entry>Church of the Promised Sun</entry>
+				<entry>Crimson Court</entry>
+				<entry>Crimson Court</entry>
+			</table>
+		</npc>
+		<commonname>
+			<entry>Adria</entry>
+			<entry>Ajishir</entry>
+			<entry>Alaith</entry>
+			<entry>Anchat</entry>
+			<entry>Ashali</entry>
+			<entry>Bellas</entry>
+			<entry>Blake</entry>
+			<entry>Bluelady</entry>
+			<entry>Brant</entry>
+			<entry>Breeze</entry>
+			<entry>Butter</entry>
+			<entry>Calmir</entry>
+			<entry>Cassi</entry>
+			<entry>Catscree</entry>
+			<entry>Celeg</entry>
+			<entry>Cherren</entry>
+			<entry>Crowinder</entry>
+			<entry>Dabia</entry>
+			<entry>Dollyn</entry>
+			<entry>Dyland</entry>
+			<entry>Eschilia</entry>
+			<entry>Flammer</entry>
+			<entry>Fokin</entry>
+			<entry>Fundil</entry>
+			<entry>Galad</entry>
+			<entry>Gandil</entry>
+			<entry>Gartsnake</entry>
+			<entry>Giouri</entry>
+			<entry>Gorlas</entry>
+			<entry>Grapple</entry>
+			<entry>Greyknott</entry>
+			<entry>Hadriel</entry>
+			<entry>Hallencrag</entry>
+			<entry>Harptree</entry>
+			<entry>Hezen</entry>
+			<entry>Histle</entry>
+			<entry>Homite</entry>
+			<entry>Hyssos</entry>
+			<entry>Idriel</entry>
+			<entry>Illhead</entry>
+			<entry>Kavinder</entry>
+			<entry>Kiddaw</entry>
+			<entry>Kimov</entry>
+			<entry>Kouri</entry>
+			<entry>Leechpie</entry>
+			<entry>Lemmaith</entry>
+			<entry>Leves</entry>
+			<entry>Limnos</entry>
+			<entry>Liquiem</entry>
+			<entry>Listheap</entry>
+			<entry>Longue</entry>
+			<entry>Maiam</entry>
+			<entry>Maraki</entry>
+			<entry>Mathos</entry>
+			<entry>Megal</entry>
+			<entry>Meisa</entry>
+			<entry>Mendar</entry>
+			<entry>Michess</entry>
+			<entry>Muskmallos</entry>
+			<entry>Narth</entry>
+			<entry>Obert</entry>
+			<entry>Oromiel</entry>
+			<entry>Ostamir</entry>
+			<entry>Othonous</entry>
+			<entry>Pantperch</entry>
+			<entry>Pastan</entry>
+			<entry>Phaniel</entry>
+			<entry>Pieta</entry>
+			<entry>Pranbir</entry>
+			<entry>Pulchib</entry>
+			<entry>Rainwrig</entry>
+			<entry>Rattlemell</entry>
+			<entry>Riverhow</entry>
+			<entry>Romseed</entry>
+			<entry>Safos</entry>
+			<entry>Salaios</entry>
+			<entry>Sallowfell</entry>
+			<entry>Sanger</entry>
+			<entry>Saskat</entry>
+			<entry>Sertdeat</entry>
+			<entry>Sourhow</entry>
+			<entry>Suffe</entry>
+			<entry>Touronisi</entry>
+			<entry>Trimona</entry>
+			<entry>Turlan</entry>
+			<entry>Twitchpike</entry>
+			<entry>Ulfgan</entry>
+			<entry>Ullsnake</entry>
+			<entry>Unukat</entry>
+			<entry>Vardotas</entry>
+			<entry>Virinum</entry>
+			<entry>Voussa</entry>
+			<entry>Whipman</entry>
+			<entry>Windir</entry>
+			<entry>Xiambia</entry>
+			<entry>Xidao</entry>
+			<entry>Yemell</entry>
+			<entry>Yondersoul</entry>
+			<entry>Zevenon</entry>
+			<entry>Zwiede</entry>
+		</commonname>
+		<highname>
+			<entry>ul-Adramen</entry>
+			<entry>ul-Aleph</entry>
+			<entry>ul-Behennat</entry>
+			<entry>ul-Borthemin</entry>
+			<entry>ul-Demonetas</entry>
+			<entry>ul-Eishee</entry>
+			<entry>ul-Rahasil</entry>
+			<entry>ul-Summanes</entry>
+			<entry>ul-Ukoba</entry>
+			<entry>ul-Ulthman</entry>
+			<entry>xan Abeontin</entry>
+			<entry>xan Aequn</entry>
+			<entry>xan Aeter</entry>
+			<entry>xan Africhar</entry>
+			<entry>xan Anakios</entry>
+			<entry>xan Andronos</entry>
+			<entry>xan Asuras</entry>
+			<entry>xan Austmanela</entry>
+			<entry>xan Baphael</entry>
+			<entry>xan Baraclius</entry>
+			<entry>xan Cupieta</entry>
+			<entry>xan Danian</entry>
+			<entry>xan Decimaniel</entry>
+			<entry>xan Deventuru</entry>
+			<entry>xan Devertumus</entry>
+			<entry>xan Dimax</entry>
+			<entry>xan Dominus</entry>
+			<entry>xan Fabulian</entry>
+			<entry>xan Favonikos</entry>
+			<entry>xan Ferrinus</entry>
+			<entry>xan Gallifax</entry>
+			<entry>xan Geffjuno</entry>
+			<entry>xan Gorian</entry>
+			<entry>xan Gusalemus</entry>
+			<entry>xan Herius</entry>
+			<entry>xan Hermina</entry>
+			<entry>xan Herus</entry>
+			<entry>xan Isaacrina</entry>
+			<entry>xan Jikinian</entry>
+			<entry>xan Joannin</entry>
+			<entry>xan Selabolares</entry>
+			<entry>xan Sheth</entry>
+			<entry>xan Spestus</entry>
+			<entry>xan Tacitiestus</entry>
+			<entry>xan Theodorax</entry>
+			<entry>xan Usolyn</entry>
+			<entry>xan Valerita</entry>
+			<entry>xan Vanitas</entry>
+			<entry>xan Veparcas</entry>
+			<entry>xan Zimine</entry>
+		</highname>
+		<career>
+			<entry>Alchemist</entry>
+			<entry>Apothecary</entry>
+			<entry>Architect</entry>
+			<entry>Armourer</entry>
+			<entry>Astrologer</entry>
+			<entry>Bag-maker</entry>
+			<entry>Baker</entry>
+			<entry>Bandit</entry>
+			<entry>Banker</entry>
+			<entry>Barber</entry>
+			<entry>Basketmaker</entry>
+			<entry>Bastard Farmer</entry>
+			<entry>Belt-maker</entry>
+			<entry>Blacksmith</entry>
+			<entry>Bookbinder</entry>
+			<entry>Brassworker</entry>
+			<entry>Brewer</entry>
+			<entry>Bridlemaker</entry>
+			<entry>Broommaker</entry>
+			<entry>Bureaucrat</entry>
+			<entry>Butcher</entry>
+			<entry>Card Cheat</entry>
+			<entry>Carpenter</entry>
+			<entry>Cartwright</entry>
+			<entry>Chandler</entry>
+			<entry>Charcoal Burner</entry>
+			<entry>Charioteer</entry>
+			<entry>Cheesemaker</entry>
+			<entry>Chirurgeon</entry>
+			<entry>Clerk</entry>
+			<entry>Clockmaker</entry>
+			<entry>Clone Catcher</entry>
+			<entry>Cobbler</entry>
+			<entry>Cook</entry>
+			<entry>Con Artist</entry>
+			<entry>Cutpurse</entry>
+			<entry>Drunkard</entry>
+			<entry>Dyer</entry>
+			<entry>Embroiderer</entry>
+			<entry>Engineer</entry>
+			<entry>Exorcist</entry>
+			<entry>Falconer</entry>
+			<entry>Farrier</entry>
+			<entry>Felt-maker</entry>
+			<entry>Gambler</entry>
+			<entry>Gladiator</entry>
+			<entry>Glassblower</entry>
+			<entry>Goatherd</entry>
+			<entry>Goldsmith</entry>
+			<entry>Gravedigger</entry>
+			<entry>Hangman</entry>
+			<entry>Herbalist</entry>
+			<entry>Hunter</entry>
+			<entry>Illustrator</entry>
+			<entry>Inquisitor</entry>
+			<entry>Jailer</entry>
+			<entry>Jeweller</entry>
+			<entry>Leadworker</entry>
+			<entry>Leatherworker</entry>
+			<entry>Locksmith</entry>
+			<entry>Maskmaker</entry>
+			<entry>Mason</entry>
+			<entry>Mercenary</entry>
+			<entry>Midwife</entry>
+			<entry>Miner</entry>
+			<entry>Minstrel</entry>
+			<entry>Miracle Healer</entry>
+			<entry>Monk (Temple)</entry>
+			<entry>Monk (Beggar)</entry>
+			<entry>Needlemaker</entry>
+			<entry>Pack Handler</entry>
+			<entry>Painter</entry>
+			<entry>Parchment-maker</entry>
+			<entry>Preacher</entry>
+			<entry>Plasterer</entry>
+			<entry>Poet</entry>
+			<entry>Porter</entry>
+			<entry>Potter</entry>
+			<entry>Prostitute</entry>
+			<entry>Rag Gatherer</entry>
+			<entry>Ropemaker</entry>
+			<entry>Scullion</entry>
+			<entry>Sculptor</entry>
+			<entry>Slave (Domestic)</entry>
+			<entry>Slave (Military)</entry>
+			<entry>Shepherd</entry>
+			<entry>Sin Eater</entry>
+			<entry>Stonecutter</entry>
+			<entry>Storyteller</entry>
+			<entry>Swineherd</entry>
+			<entry>Tailor</entry>
+			<entry>Tanner</entry>
+			<entry>Tax Collector</entry>
+			<entry>Thatcher</entry>
+			<entry>Thug</entry>
+			<entry>Trumpeter</entry>
+			<entry>Watermonger</entry>
+			<entry>Wet Nurse</entry>
+			<entry>Woodcarver</entry>
+			<entry>Woolwinder</entry>
+		</career>
+		<mercenary>
+			<table name="Name">
+				<entry>Bellino Fester</entry>
+				<entry>Vigenoa Callant</entry>
+				<entry>Demeter Blue</entry>
+				<entry>Alermo White</entry>
+				<entry>Marsalessa</entry>
+				<entry>Mooncalf</entry>
+				<entry>Catanza</entry>
+				<entry>Pescand Junta</entry>
+				<entry>'Shoulder'</entry>
+				<entry>Anders Blackfruit</entry>
+				<entry>'Clever' Claure</entry>
+				<entry>Mariel</entry>
+				<entry>Freide</entry>
+				<entry>Pretty Sophe</entry>
+				<entry>Lydier Onetooth</entry>
+				<entry>Almondseed</entry>
+				<entry>Arles Morrow</entry>
+				<entry>'Lucky' Patrine</entry>
+				<entry>Reina Lurk</entry>
+				<entry>Parvash Redhand</entry>
+			</table>
+			<table name="Description">
+				<entry>Bloated True-kin</entry>
+				<entry>Scaly Cacogen</entry>
+				<entry>Muscular New-Peacock</entry>
+				<entry>Burly New-Swan</entry>
+				<entry>One-Armed Cacogen</entry>
+				<entry>Synth, Luminous Head</entry>
+				<entry>Energetic New-Hound</entry>
+				<entry>Sharp-toothed Cacogen</entry>
+				<entry>Towering True-kin</entry>
+				<entry>Talkative New-Gibbon</entry>
+				<entry>Round Green Synth</entry>
+				<entry>Squat Purple Mycomorph</entry>
+				<entry>Red-haired True-kin</entry>
+				<entry>Dead-eyed New-Shark</entry>
+				<entry>Ancient Cacogen</entry>
+				<entry>Two-headed Cacogen</entry>
+				<entry>Bombastic Mycomorph</entry>
+				<entry>Nervous New-Locust</entry>
+				<entry>Beautiful 'True-kin'</entry>
+				<entry>Clever, Reliable New-Fox</entry>
+			</table>
+			<table name="Flavour">
+				<entry>No Indoor Voice</entry>
+				<entry>Gluttonous and Stupid</entry>
+				<entry>Hates Alermo White</entry>
+				<entry>Loves Demeter Blue</entry>
+				<entry>Hard of Hearing</entry>
+				<entry>Suicidally Brave</entry>
+				<entry>Tuneless Singing</entry>
+				<entry>Always Spitting</entry>
+				<entry>Lots of Boils</entry>
+				<entry>Hidden Infection</entry>
+				<entry>Annoying Pedant</entry>
+				<entry>Lecherous Maniac</entry>
+				<entry>Spy for the Consul</entry>
+				<entry>Incredibly Vain</entry>
+				<entry>Terrible Shot</entry>
+				<entry>Very Gullible</entry>
+				<entry>Opium Addict</entry>
+				<entry>Huge Gambling Debt</entry>
+				<entry>Amnesiac Android</entry>
+				<entry>Secretly Worships Azathoth</entry>
+			</table>
+		</mercenary>
+		<venkarthim>
+			<table name="Venkarthim, The Doom Of Ants">
+				<entry>Following an acidic smell into an alleyway leads you to a small shrine to Venkarthim, an anteater god from the distant Mooncradle Mountains. On a plate in the statue anteater's lap is a pile of offered ant corpses.
+
+"The Urth quakes as He proceeds, blue dust rising in a regal plume that shades His passage. Holy holy holy! Holy is Venkarthim, Doom of Ants, sacred beast of the eastern mountains! Holy holy holy! Holy is Venkarthim, the raider of the deepest nests, whose divine tongue is two-score cubits in length!"</entry>
+			</table>
+		</venkarthim>
+	</gnomon>
+	<srdlinks>
+		<srdlink word="Vaults of Vaarn">https://vaultsofvaarn.com/</srdlink>
+		<srdlink word="Ruin">https://vaarn.github.io/#/regions/the-interior.md?id=ruin</srdlink>
+		<srdlink word="Settlement">https://vaarn.github.io/#/regions/the-interior.md?id=settlement</srdlink>
+		<srdlink word="Oasis">https://vaarn.github.io/#/regions/the-interior.md?id=oasis</srdlink>
+		<srdlink word="Holy Place">https://vaarn.github.io/#/regions/the-interior.md?id=holy-place</srdlink>
+		<srdlink word="Wreck">https://vaarn.github.io/#/regions/the-interior.md?id=wreck</srdlink>
+		<srdlink word="Vault">https://vaarn.github.io/#/regions/the-interior.md?id=vault</srdlink>
+		<srdlink word="Landmark">https://vaarn.github.io/#/regions/the-interior.md?id=landmark</srdlink>
+		<srdlink word="Bandit Camp">https://vaarn.github.io/#/regions/the-interior.md?id=bandit-camp</srdlink>
+		<srdlink word="Bounty Hunter's Camp">https://vaarn.github.io/#/regions/the-interior.md?id=bounty-hunter39s-camp</srdlink>
+		<srdlink word="Lair">https://vaarn.github.io/#/regions/the-interior.md?id=lair</srdlink>
+		<srdlink word="Archive">https://vaarn.github.io/#/regions/the-interior.md?id=archive</srdlink>
+		<srdlink word="Arcology">https://vaarn.github.io/#/regions/the-interior.md?id=arcology</srdlink>
+		<srdlink word="Grave">https://vaarn.github.io/#/regions/the-interior.md?id=grave</srdlink>
+		<srdlink word="Science-Mystic's Abode">https://vaarn.github.io/#/regions/the-interior.md?id=science-mystic39s-abode</srdlink>
+		<srdlink word="Science-Mystic">https://vaarn.github.io/#/regions/the-interior.md?id=science-mystic39s-abode</srdlink>
+		<srdlink word="Mystic">https://vaarn.github.io/#/regions/the-interior.md?id=science-mystic39s-abode</srdlink>
+		<srdlink word="Trade Post">https://vaarn.github.io/#/regions/the-interior.md?id=trade-post</srdlink>
+		<srdlink word="Hegemony Camp">https://vaarn.github.io/#/regions/the-interior.md?id=hegemony-camp</srdlink>
+		<srdlink word="Faa Nomad Camp">https://vaarn.github.io/#/regions/the-interior.md?id=faa-nomad-camp</srdlink>
+		<srdlink word="Cacklemaw Den">https://vaarn.github.io/#/regions/the-interior.md?id=cacklemaw-den</srdlink>
+		<srdlink word="Anomaly">https://vaarn.github.io/#/regions/the-interior.md?id=anomaly</srdlink>
+		<srdlink word="True-Kin">https://vaarn.github.io/#/ancestries?id=true-kin</srdlink>
+		<srdlink word="Cacogen">https://vaarn.github.io/#/ancestries?id=cacogen</srdlink>
+		<srdlink word="Mutation">https://vaarn.github.io/#/ancestries?id=mutations</srdlink>
+		<srdlink word="Synth">https://vaarn.github.io/#/ancestries?id=synth</srdlink>
+		<srdlink word="Newbeast">https://vaarn.github.io/#/ancestries?id=newbeast</srdlink>
+		<srdlink word="Mycomorph">https://vaarn.github.io/#/ancestries?id=mycomorph</srdlink>
+		<srdlink word="Lithling">https://vaarn.github.io/#/ancestries?id=lithling</srdlink>
+		<srdlink word="Planeyfolk">https://vaarn.github.io/#/ancestries?id=planeyfolk</srdlink>
+		<srdlink word="Weapon">https://vaarn.github.io/#/equipment?id=weaponry</srdlink>
+		<srdlink word="Weaponry">https://vaarn.github.io/#/equipment?id=weaponry</srdlink>
+		<srdlink word="Armour">https://vaarn.github.io/#/equipment?id=armour</srdlink>
+		<srdlink word="Exotica">https://vaarn.github.io/#/exotica?id=exotica</srdlink>
+		<srdlink word="Mystic Gift">https://vaarn.github.io/#/mystic-gifts?id=mystic-gifts</srdlink>
+		<srdlink word="Cybernetic">https://vaarn.github.io/#/cybernetics?id=cybernetics</srdlink>
+		<srdlink word="Book">https://vaarn.github.io/#/content-generators?id=books-of-vaarn</srdlink>
+		<srdlink word="Drug">https://vaarn.github.io/#/content-generators?id=drugs-of-vaarn</srdlink>
+		<srdlink word="God">https://vaarn.github.io/#/content-generators?id=petty-gods-of-vaarn</srdlink>
+		<srdlink word="Trade Caravan">https://vaarn.github.io/#/content-generators?id=trade-caravans</srdlink>
+		<srdlink word="Trading Caravan">https://vaarn.github.io/#/content-generators?id=trade-caravans</srdlink>
+		<srdlink word="Auto-Chariot">https://vaarn.github.io/#/vehicles?id=auto-chariot</srdlink>
+		<srdlink word="Dune Skuggy">https://vaarn.github.io/#/vehicles?id=dune-skuggy</srdlink>
+		<srdlink word="Iron Mule">https://vaarn.github.io/#/vehicles?id=iron-mule</srdlink>
+		<srdlink word="Morile Home">https://vaarn.github.io/#/vehicles?id=motile-home</srdlink>
+		<srdlink word="Ornithopter">https://vaarn.github.io/#/vehicles?id=ornithopter</srdlink>
+		<srdlink word="Skiff">https://vaarn.github.io/#/vehicles?id=skiff</srdlink>
+		<srdlink word="Stilt Strutter">https://vaarn.github.io/#/vehicles?id=stilt-strutter</srdlink>
+		<srdlink word="War Camel">https://vaarn.github.io/#/vehicles?id=war-camel</srdlink>
+		<srdlink word="Weeping Lizard">https://vaarn.github.io/#/vehicles?id=weeping-lizard</srdlink>
+		<srdlink word="Wind-Barge">https://vaarn.github.io/#/vehicles?id=wind-barge</srdlink>
+		<srdlink word="Zeppelin">https://vaarn.github.io/#/vehicles?id=zeppelin</srdlink>
+		<srdlink word="Albino Ape">https://vaarn.github.io/#/bestiary?id=albino-ape</srdlink>
+		<srdlink word="Alzabo">https://vaarn.github.io/#/bestiary?id=alzabo</srdlink>
+		<srdlink word="Amaranthine Death-Worm">https://vaarn.github.io/#/bestiary?id=amaranthine-death-worm</srdlink>
+		<srdlink word="Argent Shepherd">https://vaarn.github.io/#/bestiary.md?id=argent-shepherd</srdlink>
+		<srdlink word="Bandit">https://vaarn.github.io/#/bestiary?id=bandit</srdlink>
+		<srdlink word="Battle Boar">https://vaarn.github.io/#/bestiary?id=battle-boar</srdlink>
+		<srdlink word="Blightstone Knight">https://vaarn.github.io/#/bestiary?id=blightstone-knight</srdlink>
+		<srdlink word="Blue Baboon">https://vaarn.github.io/#/bestiary?id=blue-baboon</srdlink>
+		<srdlink word="Behemoth Toad">https://vaarn.github.io/#/bestiary?id=behemoth-toad</srdlink>
+		<srdlink word="Cacklemaw">https://vaarn.github.io/#/bestiary?id=cacklemaw</srdlink>
+		<srdlink word="Cacklemaw War Mama">https://vaarn.github.io/#/bestiary?id=cacklemaw-war-mama</srdlink>
+		<srdlink word="Cacogen Pseudo-Giant">https://vaarn.github.io/#/bestiary?id=cacogen-psuedo-giant</srdlink>
+		<srdlink word="Chrome-Feathered Sailback">https://vaarn.github.io/#/bestiary?id=chrome-feathered-sailback</srdlink>
+		<srdlink word="Chromavore">https://vaarn.github.io/#/bestiary?id=chromavore</srdlink>
+		<srdlink word="Cliff Ghul">https://vaarn.github.io/#/bestiary?id=cliff-ghul</srdlink>
+		<srdlink word="Daggertrunk">https://vaarn.github.io/#/bestiary?id=daggertrunk</srdlink>
+		<srdlink word="Doppelgeller">https://vaarn.github.io/#/bestiary?id=doppelgeller</srdlink>
+		<srdlink word="Eyeless Dog">https://vaarn.github.io/#/bestiary?id=eyeless-dog</srdlink>
+		<srdlink word="Faa Nomad">https://vaarn.github.io/#/bestiary?id=faa-nomad</srdlink>
+		<srdlink word="Faa">https://vaarn.github.io/#/bestiary?id=faa-nomad</srdlink>
+		<srdlink word="Flashhound">https://vaarn.github.io/#/bestiary?id=flashhound</srdlink>
+		<srdlink word="Fractalisk">https://vaarn.github.io/#/bestiary?id=fractalisk</srdlink>
+		<srdlink word="Gamma Ray">https://vaarn.github.io/#/bestiary?id=gamma-ray</srdlink>
+		<srdlink word="Gene Thief">https://vaarn.github.io/#/bestiary?id=gene-thief</srdlink>
+		<srdlink word="Giant Azure Scorpion">https://vaarn.github.io/#/bestiary?id=giant-azure-scorpion</srdlink>
+		<srdlink word="Glass Tiger">https://vaarn.github.io/#/bestiary?id=glass-tiger</srdlink>
+		<srdlink word="Glider Spider">https://vaarn.github.io/#/bestiary?id=glider-spider</srdlink>
+		<srdlink word="Greenguard">https://vaarn.github.io/#/bestiary?id=greenguard</srdlink>
+		<srdlink word="Greenwaif">https://vaarn.github.io/#/bestiary?id=greenwaif</srdlink>
+		<srdlink word="Grey Cricket">https://vaarn.github.io/#/bestiary?id=grey-cricket</srdlink>
+		<srdlink word="Harlequin Serpent">https://vaarn.github.io/#/bestiary?id=harlequin-serpent</srdlink>
+		<srdlink word="Hiveyman">https://vaarn.github.io/#/bestiary?id=hiveyman</srdlink>
+		<srdlink word="Hivey-men">https://vaarn.github.io/#/bestiary?id=hiveyman</srdlink>
+		<srdlink word="Hollow Maiden">https://vaarn.github.io/#/bestiary?id=hollow-maiden</srdlink>
+		<srdlink word="Indigo Servitor">https://vaarn.github.io/#/bestiary?id=indigo-servitor</srdlink>
+		<srdlink word="Juggernaut">https://vaarn.github.io/#/bestiary?id=juggernaut</srdlink>
+		<srdlink word="Lambent Lynx">https://vaarn.github.io/#/bestiary?id=lambent-lynx</srdlink>
+		<srdlink word="Lamigator">https://vaarn.github.io/#/bestiary?id=lamigator</srdlink>
+		<srdlink word="Leopard Worm">https://vaarn.github.io/#/bestiary?id=leopard-worm</srdlink>
+		<srdlink word="Lithling Scholar">https://vaarn.github.io/#/bestiary?id=lithling-scholar</srdlink>
+		<srdlink word="Lizard Lion">https://vaarn.github.io/#/bestiary?id=lizard-lion</srdlink>
+		<srdlink word="Memory Eater">https://vaarn.github.io/#/bestiary?id=memory-eater</srdlink>
+		<srdlink word="Mournfrog">https://vaarn.github.io/#/bestiary?id=mournfrog</srdlink>
+		<srdlink word="Nerve Crawler">https://vaarn.github.io/#/bestiary?id=nerve-crawler</srdlink>
+		<srdlink word="Phthalo-Jackal">https://vaarn.github.io/#/bestiary?id=phthalo-jackal</srdlink>
+		<srdlink word="Pontiff Scorpion">https://vaarn.github.io/#/bestiary?id=pontiff-scorpion</srdlink>
+		<srdlink word="Quicksilver Exterminator">https://vaarn.github.io/#/bestiary?id=quicksilver-exterminator</srdlink>
+		<srdlink word="Quill-Spider">https://vaarn.github.io/#/bestiary?id=quill-spider</srdlink>
+		<srdlink word="Regenerator">https://vaarn.github.io/#/bestiary?id=regenerator</srdlink>
+		<srdlink word="Sandworm">https://vaarn.github.io/#/bestiary?id=sandworm-adult</srdlink>
+		<srdlink word="Stumbling Drone">https://vaarn.github.io/#/bestiary?id=stumbling-drone</srdlink>
+		<srdlink word="Subtle Stalker">https://vaarn.github.io/#/bestiary?id=subtle-stalker</srdlink>
+		<srdlink word="Thermasaur">https://vaarn.github.io/#/bestiary?id=thermasaur</srdlink>
+		<srdlink word="Thunderstrike Bird">https://vaarn.github.io/#/bestiary?id=thunderstrike-bird</srdlink>
+		<srdlink word="Tiger Fly">https://vaarn.github.io/#/bestiary?id=tiger-fly</srdlink>
+		<srdlink word="Troika">https://vaarn.github.io/#/bestiary?id=troika</srdlink>
+		<srdlink word="Tumblesnare">https://vaarn.github.io/#/bestiary?id=tumblesnare</srdlink>
+		<srdlink word="Walking Womb">https://vaarn.github.io/#/bestiary?id=walking-womb</srdlink>
+		<srdlink word="Xanthous Mycomorph">https://vaarn.github.io/#/bestiary?id=xanthous-mycomorph</srdlink>
+		<srdlink word="Yuckhog">https://vaarn.github.io/#/bestiary?id=yuckhog</srdlink>
+		<srdlink word="Yurling">https://vaarn.github.io/#/bestiary?id=yurling</srdlink>
+		<srdlink word="Titan">https://vaarn.github.io/#/titans?id=titans-of-a-faded-age</srdlink>
+		<srdlink word="KRONOS">https://vaarn.github.io/#/titans?id=titans-of-a-faded-age</srdlink>
+		<srdlink word="Mnemosym">https://vaarn.github.io/#/titans?id=titans-of-a-faded-age</srdlink>
+		<srdlink word="Metis">https://vaarn.github.io/#/titans?id=titans-of-a-faded-age</srdlink>
+		<srdlink word="Gaea">https://vaarn.github.io/#/titans?id=titans-of-a-faded-age</srdlink>
+		<srdlink word="Coeus">https://vaarn.github.io/#/titans?id=titans-of-a-faded-age</srdlink>
+		<srdlink word="Themis">https://vaarn.github.io/#/titans?id=titans-of-a-faded-age</srdlink>
+		<srdlink word="Hyperion">https://vaarn.github.io/#/titans?id=titans-of-a-faded-age</srdlink>
+		<srdlink word="Autarch">https://vaarn.github.io/#/what-is-vaarn?id=what-is-vaarn</srdlink>
+		<srdlink word="Hegemony">https://vaarn.github.io/#/what-is-vaarn?id=what-is-vaarn</srdlink>
+		<srdlink word="Gnomon">https://vaarn.github.io/#/regions/gnomon?id=gnomon</srdlink>
+		<srdlink word="Ikor Quag">https://vaultsofvaarn.com/2020/07/14/regions-of-vaarn/</srdlink>
+		<srdlink word="Badlands">https://vaultsofvaarn.com/2020/07/14/regions-of-vaarn/</srdlink>
+		<srdlink word="Sky Islands">https://vaultsofvaarn.com/2020/07/14/regions-of-vaarn/</srdlink>
+		<srdlink word="Mooncradle Mountains">https://vaultsofvaarn.com/2020/07/14/regions-of-vaarn/</srdlink>
+		<srdlink word="Lazul Mountains">https://vaultsofvaarn.com/2020/07/14/regions-of-vaarn/</srdlink>
+		<srdlink word="Gulf">https://vaultsofvaarn.com/2020/07/14/regions-of-vaarn/</srdlink>
+		<srdlink word="Golgotha">https://vaultsofvaarn.com/2020/07/14/regions-of-vaarn/</srdlink>
+		<srdlink word="The Wall">https://vaultsofvaarn.com/2022/02/07/the-wall/</srdlink>
+		<srdlink word="The Interior">https://vaarn.github.io/#/regions/the-interior?id=the-interior</srdlink>
+		<srdlink word="Water Debt">https://vaarn.github.io/#/regions/gnomon?id=water-debt</srdlink>
+		<srdlink word="Ancamulla">https://vaarn.github.io/#/regions/gnomon?id=ancamulla-the-water-baron</srdlink>
+		<srdlink word="Water Baron">https://vaarn.github.io/#/regions/gnomon?id=ancamulla-the-water-baron</srdlink>
+		<srdlink word="Militia">https://vaarn.github.io/#/regions/gnomon?id=the-baron39s-militia</srdlink>
+		<srdlink word="Larke Xan Lonrot">https://vaarn.github.io/#/regions/gnomon?id=hegemony-consul-larke-xan-lonrot</srdlink>
+		<srdlink word="House Lonrot">https://vaarn.github.io/#/regions/gnomon?id=house-lonrot</srdlink>
+		<srdlink word="Lonrot">https://vaarn.github.io/#/regions/gnomon?id=hegemony-consul-larke-xan-lonrot</srdlink>
+		<srdlink word="Commander Loonflower">https://vaarn.github.io/#/regions/gnomon?id=commander-loonflower</srdlink>
+		<srdlink word="Fifth Hegemony">https://vaarn.github.io/#/regions/gnomon?id=the-fifth-hegemony-legion</srdlink>
+		<srdlink word="Centurion">https://vaarn.github.io/#/regions/gnomon?id=hegemony-centurion</srdlink>
+		<srdlink word="Abbess Faunia">https://vaarn.github.io/#/regions/gnomon?id=abbess-faunia</srdlink>
+		<srdlink word="Church Of The Promised Sun">https://vaarn.github.io/#/regions/gnomon?id=church-of-the-promised-sun</srdlink>
+		<srdlink word="Promised Sun">https://vaarn.github.io/#/regions/gnomon?id=church-of-the-promised-sun</srdlink>
+		<srdlink word="Prieval Prise">https://vaarn.github.io/#/regions/gnomon?id=prieval-prise</srdlink>
+		<srdlink word="Black Lotus Club">https://vaarn.github.io/#/regions/gnomon?id=prieval-prise</srdlink>
+		<srdlink word="Prieval's Crew">https://vaarn.github.io/#/regions/gnomon?id=prieval39s-crew</srdlink>
+		<srdlink word="Nyxia, The Wall Shadow">https://vaarn.github.io/#/regions/gnomon?id=nyxia-the-wall-shadow</srdlink>
+		<srdlink word="Nyxia">https://vaarn.github.io/#/regions/gnomon?id=nyxia-the-wall-shadow</srdlink>
+		<srdlink word="Crimson Court">https://vaarn.github.io/#/regions/gnomon?id=the-crimson-court</srdlink>
+		<srdlink word="Advocate">https://vaarn.github.io/#/regions/gnomon?id=advocate</srdlink>
+		<srdlink word="Longtooth Jak">https://vaarn.github.io/#/regions/gnomon?id=longtooth-jak</srdlink>
+		<srdlink word="Friends of Jak">https://vaarn.github.io/#/regions/gnomon?id=friends-of-jak</srdlink>
+		<srdlink word="Hushed Archives">https://vaarn.github.io/#/regions/gnomon?id=friends-of-jak</srdlink>
+		<srdlink word="Ghoul">https://vaarn.github.io/#/regions/gnomon?id=exalted-ghoul</srdlink>
+		<srdlink word="Seekers of Eyeless Wisdom">https://vaarn.github.io/#/regions/gnomon?id=seekers-of-eyeless-wisdom</srdlink>
+		<srdlink word="College of Indigo Tigers">https://vaarn.github.io/#/regions/gnomon?id=the-college-of-indigo-tigers</srdlink>
+		<srdlink word="Titan Cult">https://vaarn.github.io/#/regions/gnomon?id=titan-cults</srdlink>
+		<srdlink word="Morningshade">https://vaarn.github.io/#/regions/gnomon?id=morningshade</srdlink>
+		<srdlink word="Great Souk">https://vaarn.github.io/#/regions/gnomon?id=morningshade</srdlink>
+		<srdlink word="Eveningshade">https://vaarn.github.io/#/regions/gnomon?id=eveningshade</srdlink>
+		<srdlink word="Night Souk">https://vaarn.github.io/#/regions/gnomon?id=eveningshade</srdlink>
+		<srdlink word="Lantern District">https://vaarn.github.io/#/regions/gnomon?id=lantern-district</srdlink>
+		<srdlink word="Red Quarter">https://vaarn.github.io/#/regions/gnomon?id=red-quarter</srdlink>
+		<srdlink word="Apex">https://vaarn.github.io/#/regions/gnomon?id=the-apex</srdlink>
+		<srdlink word="Consul's Manse">https://vaarn.github.io/#/regions/gnomon?id=the-apex</srdlink>
+		<srdlink word="Tomblands">https://vaarn.github.io/#/regions/gnomon?id=tomblands</srdlink>
+		<srdlink word="Noonfort">https://vaarn.github.io/#/regions/gnomon?id=other-landmarks</srdlink>
+		<srdlink word="Docks">https://vaarn.github.io/#/regions/gnomon?id=other-landmarks</srdlink>
+		<srdlink word="Nomad Camp">https://vaarn.github.io/#/regions/gnomon?id=other-landmarks</srdlink>
+		<srdlink word="Water Baron's Aquifer">https://vaarn.github.io/#/regions/gnomon?id=other-landmarks</srdlink>
+		<srdlink word="Street Hassle">https://vaarn.github.io/#/regions/gnomon?id=street-hassle</srdlink>
+		<srdlink word="Building">https://vaarn.github.io/#/regions/gnomon?id=buildings</srdlink>
+		<srdlink word="Merchant">https://vaarn.github.io/#/regions/gnomon?id=merchants</srdlink>
+		<srdlink word="Mercenaries">https://vaarn.github.io/#/regions/gnomon?id=mercenaries</srdlink>
+		<srdlink word="Noble House">https://vaarn.github.io/#/regions/gnomon?id=noble-house</srdlink>
+		<srdlink word="Trade Cartel">https://vaarn.github.io/#/regions/gnomon?id=trade-cartel</srdlink>
+		<srdlink word="Urban Shrine">https://vaarn.github.io/#/regions/gnomon?id=urban-shrine</srdlink>
+		<srdlink word="Fighting Pit">https://vaarn.github.io/#/regions/gnomon?id=pit-fighters</srdlink>
+		<srdlink word="Gladiator">https://vaarn.github.io/#/regions/gnomon?id=pit-fighters</srdlink>
+		<srdlink word="Pit Fighter">https://vaarn.github.io/#/regions/gnomon?id=pit-fighters</srdlink>
+		<srdlink word="Philosopher's Guild">https://vaarn.github.io/#/regions/gnomon?id=philosopher39s-guild</srdlink>
+		<srdlink word="Gang">https://vaarn.github.io/#/regions/gnomon?id=gang-of-criminals</srdlink>
+		<srdlink word="Tavern">https://vaarn.github.io/#/regions/gnomon?id=tavern</srdlink>
+		<srdlink word="Xeric Triffid">https://vaarn.github.io/#/bestiary?id=xeric-triffid</srdlink>
+	</srdlinks>
+</vaarn>
