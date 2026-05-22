@@ -1,0 +1,60 @@
+// Unity 2022.3.62f3 – VaarnAtlas
+// Full build environment with WebGL support.
+// Base image is Ubuntu 22.04 (glibc 2.35) — no glibc workaround needed.
+//
+// FIRST-TIME SETUP (one-time, ~5 min):
+//   1. Start the container without UNITY_LICENSE set — it will skip activation.
+//   2. Inside the container terminal, run:
+//        bash .devcontainer/get-license.sh
+//      This generates a Unity_v2022.x.alf file in the workspace root.
+//   3. In your browser go to https://license.unity3d.com/manual,
+//      upload the .alf, and download the .ulf that comes back.
+//   4. Store the full text contents of the .ulf as a secret named UNITY_LICENSE:
+//      - Codespaces: repo Settings → Secrets → Codespaces → New secret
+//      - Local Docker: add  UNITY_LICENSE=<contents>  to a .env file next to the
+//        workspace folder (do NOT commit this file)
+//   5. Rebuild the container — setup.sh will activate the license and generate
+//      the .csproj/.sln files that power C# IntelliSense.
+//
+// NOTE: If the image tag below fails to pull, check available tags at:
+//   https://hub.docker.com/r/unityci/editor/tags?name=2022.3
+{
+  "name": "VaarnAtlas (Unity 2022.3 WebGL)",
+  "image": "unityci/editor:ubuntu-2022.3.62f3-webgl-3",
+
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {},
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dotnettools.csharp",
+        "ms-dotnettools.csdevkit",
+        "visualstudiotoolsforunity.vstuc"
+      ],
+      "settings": {
+        "omnisharp.useModernNet": false,
+        "editor.formatOnSave": true,
+        "files.exclude": {
+          "**/[Ll]ibrary/": true,
+          "**/[Tt]emp/": true,
+          "**/[Oo]bj/": true,
+          "**/[Bb]uild/": true,
+          "**/[Bb]uilds/": true
+        }
+      }
+    }
+  },
+
+  // Codespaces: prompts for this secret on container creation.
+  // Local Docker: set UNITY_LICENSE in a .env file (never commit it).
+  "secrets": {
+    "UNITY_LICENSE": {
+      "description": "Full text contents of your Unity .ulf license file. Run .devcontainer/get-license.sh inside the container to generate the activation request."
+    }
+  },
+
+  "postCreateCommand": "bash .devcontainer/setup.sh"
+}

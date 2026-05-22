@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System.Collections.Generic;
 using System.IO;
 using System.Runtime.InteropServices;
 using System.Xml;
@@ -123,7 +124,7 @@ public class GenerateMap : MonoBehaviour
     private static extern string GetURLFromPage();
 
     // Start is called before the first frame update
-    void Start()
+    IEnumerator Start()
     {
         kronosgen = GetComponent<GenerateKronos>();
         gnomongen = GetComponent<GenerateGnomon>();
@@ -159,6 +160,9 @@ public class GenerateMap : MonoBehaviour
         link_url = new List<string>();
         routedetails = new List<string>();
         map_chars = null;
+
+        // Wait one frame so the camera aspect ratio reflects the final Game window size.
+        yield return null;
 
         if (!Application.isEditor && GetURLFromPage().Contains("v="))
         {
@@ -472,8 +476,9 @@ public class GenerateMap : MonoBehaviour
             int safety = 1000;
             do
             {
-                //cell = new Vector2Int(Random.Range(0, width / cellsize), Random.Range(0, available_height / cellsize));
-                cell = new Vector2Int(Mathf.RoundToInt(cell_x), Random.Range(0, available_height / cellsize));
+                cell = new Vector2Int(
+                    Mathf.Clamp(Mathf.RoundToInt(cell_x), 0, (width / cellsize) - 1),
+                    Random.Range(0, available_height / cellsize));
                 safety--;
             } while (chosencells[cell.x, cell.y] && safety > 0);
             chosencells[cell.x, cell.y] = true;
