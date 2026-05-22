@@ -3239,27 +3239,27 @@
 	</gnomon>
 	<srdlinks>
 		<srdlink word="Vaults of Vaarn">https://vaultsofvaarn.com/</srdlink>
-		<srdlink word="Ruin">https://vaarn.github.io/#/regions/the-interior.md?id=ruin</srdlink>
-		<srdlink word="Settlement">https://vaarn.github.io/#/regions/the-interior.md?id=settlement</srdlink>
-		<srdlink word="Oasis">https://vaarn.github.io/#/regions/the-interior.md?id=oasis</srdlink>
-		<srdlink word="Holy Place">https://vaarn.github.io/#/regions/the-interior.md?id=holy-place</srdlink>
-		<srdlink word="Wreck">https://vaarn.github.io/#/regions/the-interior.md?id=wreck</srdlink>
-		<srdlink word="Vault">https://vaarn.github.io/#/regions/the-interior.md?id=vault</srdlink>
-		<srdlink word="Landmark">https://vaarn.github.io/#/regions/the-interior.md?id=landmark</srdlink>
-		<srdlink word="Bandit Camp">https://vaarn.github.io/#/regions/the-interior.md?id=bandit-camp</srdlink>
-		<srdlink word="Bounty Hunter's Camp">https://vaarn.github.io/#/regions/the-interior.md?id=bounty-hunter39s-camp</srdlink>
-		<srdlink word="Lair">https://vaarn.github.io/#/regions/the-interior.md?id=lair</srdlink>
-		<srdlink word="Archive">https://vaarn.github.io/#/regions/the-interior.md?id=archive</srdlink>
-		<srdlink word="Arcology">https://vaarn.github.io/#/regions/the-interior.md?id=arcology</srdlink>
-		<srdlink word="Grave">https://vaarn.github.io/#/regions/the-interior.md?id=grave</srdlink>
-		<srdlink word="Science-Mystic's Abode">https://vaarn.github.io/#/regions/the-interior.md?id=science-mystic39s-abode</srdlink>
-		<srdlink word="Science-Mystic">https://vaarn.github.io/#/regions/the-interior.md?id=science-mystic39s-abode</srdlink>
-		<srdlink word="Mystic">https://vaarn.github.io/#/regions/the-interior.md?id=science-mystic39s-abode</srdlink>
-		<srdlink word="Trade Post">https://vaarn.github.io/#/regions/the-interior.md?id=trade-post</srdlink>
-		<srdlink word="Hegemony Camp">https://vaarn.github.io/#/regions/the-interior.md?id=hegemony-camp</srdlink>
-		<srdlink word="Faa Nomad Camp">https://vaarn.github.io/#/regions/the-interior.md?id=faa-nomad-camp</srdlink>
-		<srdlink word="Cacklemaw Den">https://vaarn.github.io/#/regions/the-interior.md?id=cacklemaw-den</srdlink>
-		<srdlink word="Anomaly">https://vaarn.github.io/#/regions/the-interior.md?id=anomaly</srdlink>
+		<srdlink word="Ruin">https://vaarn.github.io/#/creating-regions?id=ruin</srdlink>
+		<srdlink word="Settlement">https://vaarn.github.io/#/creating-regions?id=settlement</srdlink>
+		<srdlink word="Oasis">https://vaarn.github.io/#/creating-regions?id=oasis</srdlink>
+		<srdlink word="Holy Place">https://vaarn.github.io/#/creating-regions?id=holy-place</srdlink>
+		<srdlink word="Wreck">https://vaarn.github.io/#/creating-regions?id=wreck</srdlink>
+		<srdlink word="Vault">https://vaarn.github.io/#/creating-regions?id=vault</srdlink>
+		<srdlink word="Landmark">https://vaarn.github.io/#/creating-regions?id=landmark</srdlink>
+		<srdlink word="Bandit Camp">https://vaarn.github.io/#/creating-regions?id=bandit-camp</srdlink>
+		<srdlink word="Bounty Hunter's Camp">https://vaarn.github.io/#/creating-regions?id=bounty-hunter39s-camp</srdlink>
+		<srdlink word="Lair">https://vaarn.github.io/#/creating-regions?id=lair</srdlink>
+		<srdlink word="Archive">https://vaarn.github.io/#/creating-regions?id=archive</srdlink>
+		<srdlink word="Arcology">https://vaarn.github.io/#/creating-regions?id=arcology</srdlink>
+		<srdlink word="Grave">https://vaarn.github.io/#/creating-regions?id=grave</srdlink>
+		<srdlink word="Science-Mystic's Abode">https://vaarn.github.io/#/creating-regions?id=science-mystic39s-abode</srdlink>
+		<srdlink word="Science-Mystic">https://vaarn.github.io/#/creating-regions?id=science-mystic39s-abode</srdlink>
+		<srdlink word="Mystic">https://vaarn.github.io/#/creating-regions?id=science-mystic39s-abode</srdlink>
+		<srdlink word="Trade Post">https://vaarn.github.io/#/creating-regions?id=trade-post</srdlink>
+		<srdlink word="Hegemony Camp">https://vaarn.github.io/#/creating-regions?id=hegemony-camp</srdlink>
+		<srdlink word="Faa Nomad Camp">https://vaarn.github.io/#/creating-regions?id=faa-nomad-camp</srdlink>
+		<srdlink word="Cacklemaw Den">https://vaarn.github.io/#/creating-regions?id=cacklemaw-den</srdlink>
+		<srdlink word="Anomaly">https://vaarn.github.io/#/creating-regions?id=anomaly</srdlink>
 		<srdlink word="True-Kin">https://vaarn.github.io/#/ancestries?id=true-kin</srdlink>
 		<srdlink word="Cacogen">https://vaarn.github.io/#/ancestries?id=cacogen</srdlink>
 		<srdlink word="Mutation">https://vaarn.github.io/#/ancestries?id=mutations</srdlink>
@@ -3274,22 +3274,22 @@
 		<srdlink word="Exotica">https://vaarn.github.io/#/exotica?id=exotica</srdlink>
 		<srdlink word="Mystic Gift">https://vaarn.github.io/#/mystic-gifts?id=mystic-gifts</srdlink>
 		<srdlink word="Cybernetic">https://vaarn.github.io/#/cybernetics?id=cybernetics</srdlink>
-		<srdlink word="Book">https://vaarn.github.io/#/content-generators?id=books-of-vaarn</srdlink>
-		<srdlink word="Drug">https://vaarn.github.io/#/content-generators?id=drugs-of-vaarn</srdlink>
-		<srdlink word="God">https://vaarn.github.io/#/content-generators?id=petty-gods-of-vaarn</srdlink>
-		<srdlink word="Trade Caravan">https://vaarn.github.io/#/content-generators?id=trade-caravans</srdlink>
-		<srdlink word="Trading Caravan">https://vaarn.github.io/#/content-generators?id=trade-caravans</srdlink>
-		<srdlink word="Auto-Chariot">https://vaarn.github.io/#/vehicles?id=auto-chariot</srdlink>
-		<srdlink word="Dune Skuggy">https://vaarn.github.io/#/vehicles?id=dune-skuggy</srdlink>
-		<srdlink word="Iron Mule">https://vaarn.github.io/#/vehicles?id=iron-mule</srdlink>
-		<srdlink word="Morile Home">https://vaarn.github.io/#/vehicles?id=motile-home</srdlink>
-		<srdlink word="Ornithopter">https://vaarn.github.io/#/vehicles?id=ornithopter</srdlink>
-		<srdlink word="Skiff">https://vaarn.github.io/#/vehicles?id=skiff</srdlink>
-		<srdlink word="Stilt Strutter">https://vaarn.github.io/#/vehicles?id=stilt-strutter</srdlink>
-		<srdlink word="War Camel">https://vaarn.github.io/#/vehicles?id=war-camel</srdlink>
-		<srdlink word="Weeping Lizard">https://vaarn.github.io/#/vehicles?id=weeping-lizard</srdlink>
-		<srdlink word="Wind-Barge">https://vaarn.github.io/#/vehicles?id=wind-barge</srdlink>
-		<srdlink word="Zeppelin">https://vaarn.github.io/#/vehicles?id=zeppelin</srdlink>
+		<srdlink word="Book">https://vaarn.github.io/#/stuff-in-vaarn?id=books-of-vaarn</srdlink>
+		<srdlink word="Drug">https://vaarn.github.io/#/stuff-in-vaarn?id=drugs-of-vaarn</srdlink>
+		<srdlink word="God">https://vaarn.github.io/#/petty-gods-of-vaarn</srdlink>
+		<srdlink word="Trade Caravan">https://vaarn.github.io/#/stuff-in-vaarn?id=trade-caravans</srdlink>
+		<srdlink word="Trading Caravan">https://vaarn.github.io/#/stuff-in-vaarn?id=trade-caravans</srdlink>
+		<srdlink word="Auto-Chariot">https://vaarn.github.io/#/transport?id=auto-chariot</srdlink>
+		<srdlink word="Dune Skuggy">https://vaarn.github.io/#/transport?id=dune-skuggy</srdlink>
+		<srdlink word="Iron Mule">https://vaarn.github.io/#/transport?id=iron-mule</srdlink>
+		<srdlink word="Morile Home">https://vaarn.github.io/#/transport?id=motile-home</srdlink>
+		<srdlink word="Ornithopter">https://vaarn.github.io/#/transport?id=ornithopter</srdlink>
+		<srdlink word="Skiff">https://vaarn.github.io/#/transport?id=skiff</srdlink>
+		<srdlink word="Stilt Strutter">https://vaarn.github.io/#/transport?id=stilt-strutter</srdlink>
+		<srdlink word="War Camel">https://vaarn.github.io/#/transport?id=war-camel</srdlink>
+		<srdlink word="Weeping Lizard">https://vaarn.github.io/#/transport?id=weeping-lizard</srdlink>
+		<srdlink word="Wind-Barge">https://vaarn.github.io/#/transport?id=wind-barge</srdlink>
+		<srdlink word="Zeppelin">https://vaarn.github.io/#/transport?id=zeppelin</srdlink>
 		<srdlink word="Albino Ape">https://vaarn.github.io/#/bestiary?id=albino-ape</srdlink>
 		<srdlink word="Alzabo">https://vaarn.github.io/#/bestiary?id=alzabo</srdlink>
 		<srdlink word="Amaranthine Death-Worm">https://vaarn.github.io/#/bestiary?id=amaranthine-death-worm</srdlink>
@@ -3310,7 +3310,7 @@
 		<srdlink word="Eyeless Dog">https://vaarn.github.io/#/bestiary?id=eyeless-dog</srdlink>
 		<srdlink word="Faa Nomad">https://vaarn.github.io/#/bestiary?id=faa-nomad</srdlink>
 		<srdlink word="Faa">https://vaarn.github.io/#/bestiary?id=faa-nomad</srdlink>
-		<srdlink word="Flashhound">https://vaarn.github.io/#/bestiary?id=flashhound</srdlink>
+		<srdlink word="Flashund">https://vaarn.github.io/#/bestiary?id=flashund</srdlink>
 		<srdlink word="Fractalisk">https://vaarn.github.io/#/bestiary?id=fractalisk</srdlink>
 		<srdlink word="Gamma Ray">https://vaarn.github.io/#/bestiary?id=gamma-ray</srdlink>
 		<srdlink word="Gene Thief">https://vaarn.github.io/#/bestiary?id=gene-thief</srdlink>
@@ -3349,6 +3349,7 @@
 		<srdlink word="Tumblesnare">https://vaarn.github.io/#/bestiary?id=tumblesnare</srdlink>
 		<srdlink word="Walking Womb">https://vaarn.github.io/#/bestiary?id=walking-womb</srdlink>
 		<srdlink word="Xanthous Mycomorph">https://vaarn.github.io/#/bestiary?id=xanthous-mycomorph</srdlink>
+		<srdlink word="Xeric Triffid">https://vaarn.github.io/#/bestiary?id=xeric-triffid</srdlink>
 		<srdlink word="Yuckhog">https://vaarn.github.io/#/bestiary?id=yuckhog</srdlink>
 		<srdlink word="Yurling">https://vaarn.github.io/#/bestiary?id=yurling</srdlink>
 		<srdlink word="Titan">https://vaarn.github.io/#/titans?id=titans-of-a-faded-age</srdlink>
@@ -3359,9 +3360,9 @@
 		<srdlink word="Coeus">https://vaarn.github.io/#/titans?id=titans-of-a-faded-age</srdlink>
 		<srdlink word="Themis">https://vaarn.github.io/#/titans?id=titans-of-a-faded-age</srdlink>
 		<srdlink word="Hyperion">https://vaarn.github.io/#/titans?id=titans-of-a-faded-age</srdlink>
-		<srdlink word="Autarch">https://vaarn.github.io/#/what-is-vaarn?id=what-is-vaarn</srdlink>
-		<srdlink word="Hegemony">https://vaarn.github.io/#/what-is-vaarn?id=what-is-vaarn</srdlink>
-		<srdlink word="Gnomon">https://vaarn.github.io/#/regions/gnomon?id=gnomon</srdlink>
+		<srdlink word="Autarch">https://vaarn.github.io/#/?id=what-is-vaarn</srdlink>
+		<srdlink word="Hegemony">https://vaarn.github.io/#/?id=what-is-vaarn</srdlink>
+		<srdlink word="Gnomon">https://vaarn.github.io/#/gnomon</srdlink>
 		<srdlink word="Ikor Quag">https://vaultsofvaarn.com/2020/07/14/regions-of-vaarn/</srdlink>
 		<srdlink word="Badlands">https://vaultsofvaarn.com/2020/07/14/regions-of-vaarn/</srdlink>
 		<srdlink word="Sky Islands">https://vaultsofvaarn.com/2020/07/14/regions-of-vaarn/</srdlink>
@@ -3369,61 +3370,60 @@
 		<srdlink word="Lazul Mountains">https://vaultsofvaarn.com/2020/07/14/regions-of-vaarn/</srdlink>
 		<srdlink word="Gulf">https://vaultsofvaarn.com/2020/07/14/regions-of-vaarn/</srdlink>
 		<srdlink word="Golgotha">https://vaultsofvaarn.com/2020/07/14/regions-of-vaarn/</srdlink>
-		<srdlink word="The Wall">https://vaultsofvaarn.com/2022/02/07/the-wall/</srdlink>
-		<srdlink word="The Interior">https://vaarn.github.io/#/regions/the-interior?id=the-interior</srdlink>
-		<srdlink word="Water Debt">https://vaarn.github.io/#/regions/gnomon?id=water-debt</srdlink>
-		<srdlink word="Ancamulla">https://vaarn.github.io/#/regions/gnomon?id=ancamulla-the-water-baron</srdlink>
-		<srdlink word="Water Baron">https://vaarn.github.io/#/regions/gnomon?id=ancamulla-the-water-baron</srdlink>
-		<srdlink word="Militia">https://vaarn.github.io/#/regions/gnomon?id=the-baron39s-militia</srdlink>
-		<srdlink word="Larke Xan Lonrot">https://vaarn.github.io/#/regions/gnomon?id=hegemony-consul-larke-xan-lonrot</srdlink>
-		<srdlink word="House Lonrot">https://vaarn.github.io/#/regions/gnomon?id=house-lonrot</srdlink>
-		<srdlink word="Lonrot">https://vaarn.github.io/#/regions/gnomon?id=hegemony-consul-larke-xan-lonrot</srdlink>
-		<srdlink word="Commander Loonflower">https://vaarn.github.io/#/regions/gnomon?id=commander-loonflower</srdlink>
-		<srdlink word="Fifth Hegemony">https://vaarn.github.io/#/regions/gnomon?id=the-fifth-hegemony-legion</srdlink>
-		<srdlink word="Centurion">https://vaarn.github.io/#/regions/gnomon?id=hegemony-centurion</srdlink>
-		<srdlink word="Abbess Faunia">https://vaarn.github.io/#/regions/gnomon?id=abbess-faunia</srdlink>
-		<srdlink word="Church Of The Promised Sun">https://vaarn.github.io/#/regions/gnomon?id=church-of-the-promised-sun</srdlink>
-		<srdlink word="Promised Sun">https://vaarn.github.io/#/regions/gnomon?id=church-of-the-promised-sun</srdlink>
-		<srdlink word="Prieval Prise">https://vaarn.github.io/#/regions/gnomon?id=prieval-prise</srdlink>
-		<srdlink word="Black Lotus Club">https://vaarn.github.io/#/regions/gnomon?id=prieval-prise</srdlink>
-		<srdlink word="Prieval's Crew">https://vaarn.github.io/#/regions/gnomon?id=prieval39s-crew</srdlink>
-		<srdlink word="Nyxia, The Wall Shadow">https://vaarn.github.io/#/regions/gnomon?id=nyxia-the-wall-shadow</srdlink>
-		<srdlink word="Nyxia">https://vaarn.github.io/#/regions/gnomon?id=nyxia-the-wall-shadow</srdlink>
-		<srdlink word="Crimson Court">https://vaarn.github.io/#/regions/gnomon?id=the-crimson-court</srdlink>
-		<srdlink word="Advocate">https://vaarn.github.io/#/regions/gnomon?id=advocate</srdlink>
-		<srdlink word="Longtooth Jak">https://vaarn.github.io/#/regions/gnomon?id=longtooth-jak</srdlink>
-		<srdlink word="Friends of Jak">https://vaarn.github.io/#/regions/gnomon?id=friends-of-jak</srdlink>
-		<srdlink word="Hushed Archives">https://vaarn.github.io/#/regions/gnomon?id=friends-of-jak</srdlink>
-		<srdlink word="Ghoul">https://vaarn.github.io/#/regions/gnomon?id=exalted-ghoul</srdlink>
-		<srdlink word="Seekers of Eyeless Wisdom">https://vaarn.github.io/#/regions/gnomon?id=seekers-of-eyeless-wisdom</srdlink>
-		<srdlink word="College of Indigo Tigers">https://vaarn.github.io/#/regions/gnomon?id=the-college-of-indigo-tigers</srdlink>
-		<srdlink word="Titan Cult">https://vaarn.github.io/#/regions/gnomon?id=titan-cults</srdlink>
-		<srdlink word="Morningshade">https://vaarn.github.io/#/regions/gnomon?id=morningshade</srdlink>
-		<srdlink word="Great Souk">https://vaarn.github.io/#/regions/gnomon?id=morningshade</srdlink>
-		<srdlink word="Eveningshade">https://vaarn.github.io/#/regions/gnomon?id=eveningshade</srdlink>
-		<srdlink word="Night Souk">https://vaarn.github.io/#/regions/gnomon?id=eveningshade</srdlink>
-		<srdlink word="Lantern District">https://vaarn.github.io/#/regions/gnomon?id=lantern-district</srdlink>
-		<srdlink word="Red Quarter">https://vaarn.github.io/#/regions/gnomon?id=red-quarter</srdlink>
-		<srdlink word="Apex">https://vaarn.github.io/#/regions/gnomon?id=the-apex</srdlink>
-		<srdlink word="Consul's Manse">https://vaarn.github.io/#/regions/gnomon?id=the-apex</srdlink>
-		<srdlink word="Tomblands">https://vaarn.github.io/#/regions/gnomon?id=tomblands</srdlink>
-		<srdlink word="Noonfort">https://vaarn.github.io/#/regions/gnomon?id=other-landmarks</srdlink>
-		<srdlink word="Docks">https://vaarn.github.io/#/regions/gnomon?id=other-landmarks</srdlink>
-		<srdlink word="Nomad Camp">https://vaarn.github.io/#/regions/gnomon?id=other-landmarks</srdlink>
-		<srdlink word="Water Baron's Aquifer">https://vaarn.github.io/#/regions/gnomon?id=other-landmarks</srdlink>
-		<srdlink word="Street Hassle">https://vaarn.github.io/#/regions/gnomon?id=street-hassle</srdlink>
-		<srdlink word="Building">https://vaarn.github.io/#/regions/gnomon?id=buildings</srdlink>
-		<srdlink word="Merchant">https://vaarn.github.io/#/regions/gnomon?id=merchants</srdlink>
-		<srdlink word="Mercenaries">https://vaarn.github.io/#/regions/gnomon?id=mercenaries</srdlink>
-		<srdlink word="Noble House">https://vaarn.github.io/#/regions/gnomon?id=noble-house</srdlink>
-		<srdlink word="Trade Cartel">https://vaarn.github.io/#/regions/gnomon?id=trade-cartel</srdlink>
-		<srdlink word="Urban Shrine">https://vaarn.github.io/#/regions/gnomon?id=urban-shrine</srdlink>
-		<srdlink word="Fighting Pit">https://vaarn.github.io/#/regions/gnomon?id=pit-fighters</srdlink>
-		<srdlink word="Gladiator">https://vaarn.github.io/#/regions/gnomon?id=pit-fighters</srdlink>
-		<srdlink word="Pit Fighter">https://vaarn.github.io/#/regions/gnomon?id=pit-fighters</srdlink>
-		<srdlink word="Philosopher's Guild">https://vaarn.github.io/#/regions/gnomon?id=philosopher39s-guild</srdlink>
-		<srdlink word="Gang">https://vaarn.github.io/#/regions/gnomon?id=gang-of-criminals</srdlink>
-		<srdlink word="Tavern">https://vaarn.github.io/#/regions/gnomon?id=tavern</srdlink>
-		<srdlink word="Xeric Triffid">https://vaarn.github.io/#/bestiary?id=xeric-triffid</srdlink>
+		<srdlink word="The Wall">https://vaarn.github.io/#/the-wall</srdlink>
+		<srdlink word="The Interior">https://vaarn.github.io/#/the-interior</srdlink>
+		<srdlink word="Water Debt">https://vaarn.github.io/#/gnomon?id=water-debt</srdlink>
+		<srdlink word="Ancamulla">https://vaarn.github.io/#/gnomon-factions?id=ancamulla-the-water-baron</srdlink>
+		<srdlink word="Water Baron">https://vaarn.github.io/#/gnomon-factions?id=ancamulla-the-water-baron</srdlink>
+		<srdlink word="Militia">https://vaarn.github.io/#/gnomon-factions?id=the-baron39s-militia</srdlink>
+		<srdlink word="Larke Xan Lonrot">https://vaarn.github.io/#/gnomon-factions?id=hegemony-consul-larke-xan-lonrot</srdlink>
+		<srdlink word="House Lonrot">https://vaarn.github.io/#/gnomon-factions?id=house-lonrot</srdlink>
+		<srdlink word="Lonrot">https://vaarn.github.io/#/gnomon-factions?id=hegemony-consul-larke-xan-lonrot</srdlink>
+		<srdlink word="Commander Loonflower">https://vaarn.github.io/#/gnomon-factions?id=commander-loonflower</srdlink>
+		<srdlink word="Fifth Hegemony">https://vaarn.github.io/#/gnomon-factions?id=the-fifth-hegemony-legion</srdlink>
+		<srdlink word="Centurion">https://vaarn.github.io/#/gnomon-factions?id=hegemony-centurion</srdlink>
+		<srdlink word="Abbess Faunia">https://vaarn.github.io/#/gnomon-factions?id=abbess-faunia</srdlink>
+		<srdlink word="Church Of The Promised Sun">https://vaarn.github.io/#/gnomon-factions?id=church-of-the-promised-sun</srdlink>
+		<srdlink word="Promised Sun">https://vaarn.github.io/#/gnomon-factions?id=church-of-the-promised-sun</srdlink>
+		<srdlink word="Prieval Prise">https://vaarn.github.io/#/gnomon-factions?id=prieval-prise</srdlink>
+		<srdlink word="Black Lotus Club">https://vaarn.github.io/#/gnomon-factions?id=prieval-prise</srdlink>
+		<srdlink word="Prieval's Crew">https://vaarn.github.io/#/gnomon-factions?id=prieval39s-crew</srdlink>
+		<srdlink word="Nyxia, The Wall Shadow">https://vaarn.github.io/#/gnomon-factions?id=nyxia-the-wall-shadow</srdlink>
+		<srdlink word="Nyxia">https://vaarn.github.io/#/gnomon-factions?id=nyxia-the-wall-shadow</srdlink>
+		<srdlink word="Crimson Court">https://vaarn.github.io/#/gnomon-factions?id=the-crimson-court</srdlink>
+		<srdlink word="Advocate">https://vaarn.github.io/#/gnomon-factions?id=advocate</srdlink>
+		<srdlink word="Longtooth Jak">https://vaarn.github.io/#/gnomon-factions?id=longtooth-jak</srdlink>
+		<srdlink word="Friends of Jak">https://vaarn.github.io/#/gnomon-factions?id=friends-of-jak</srdlink>
+		<srdlink word="Hushed Archives">https://vaarn.github.io/#/gnomon-factions?id=friends-of-jak</srdlink>
+		<srdlink word="Ghoul">https://vaarn.github.io/#/gnomon-factions?id=exalted-ghoul</srdlink>
+		<srdlink word="Seekers of Eyeless Wisdom">https://vaarn.github.io/#/gnomon-factions?id=seekers-of-eyeless-wisdom</srdlink>
+		<srdlink word="College of Indigo Tigers">https://vaarn.github.io/#/gnomon-factions?id=the-college-of-indigo-tigers</srdlink>
+		<srdlink word="Titan Cult">https://vaarn.github.io/#/gnomon-factions?id=titan-cults</srdlink>
+		<srdlink word="Morningshade">https://vaarn.github.io/#/gnomon?id=morningshade</srdlink>
+		<srdlink word="Great Souk">https://vaarn.github.io/#/gnomon?id=morningshade</srdlink>
+		<srdlink word="Eveningshade">https://vaarn.github.io/#/gnomon?id=eveningshade</srdlink>
+		<srdlink word="Night Souk">https://vaarn.github.io/#/gnomon?id=eveningshade</srdlink>
+		<srdlink word="Lantern District">https://vaarn.github.io/#/gnomon?id=lantern-district</srdlink>
+		<srdlink word="Red Quarter">https://vaarn.github.io/#/gnomon?id=red-quarter</srdlink>
+		<srdlink word="Apex">https://vaarn.github.io/#/gnomon?id=the-apex</srdlink>
+		<srdlink word="Consul's Manse">https://vaarn.github.io/#/gnomon?id=the-apex</srdlink>
+		<srdlink word="Tomblands">https://vaarn.github.io/#/gnomon?id=tomblands</srdlink>
+		<srdlink word="Noonfort">https://vaarn.github.io/#/gnomon?id=other-landmarks</srdlink>
+		<srdlink word="Docks">https://vaarn.github.io/#/gnomon?id=other-landmarks</srdlink>
+		<srdlink word="Nomad Camp">https://vaarn.github.io/#/gnomon?id=other-landmarks</srdlink>
+		<srdlink word="Water Baron's Aquifer">https://vaarn.github.io/#/gnomon?id=other-landmarks</srdlink>
+		<srdlink word="Street Hassle">https://vaarn.github.io/#/gnomon-generators?id=street-hassle</srdlink>
+		<srdlink word="Building">https://vaarn.github.io/#/gnomon-generators?id=buildings</srdlink>
+		<srdlink word="Merchant">https://vaarn.github.io/#/gnomon-generators?id=merchants</srdlink>
+		<srdlink word="Mercenaries">https://vaarn.github.io/#/gnomon-generators?id=mercenaries</srdlink>
+		<srdlink word="Noble House">https://vaarn.github.io/#/gnomon-generators?id=noble-house</srdlink>
+		<srdlink word="Trade Cartel">https://vaarn.github.io/#/gnomon-generators?id=trade-cartel</srdlink>
+		<srdlink word="Urban Shrine">https://vaarn.github.io/#/gnomon-generators?id=urban-shrine</srdlink>
+		<srdlink word="Fighting Pit">https://vaarn.github.io/#/gnomon-generators?id=pit-fighters</srdlink>
+		<srdlink word="Gladiator">https://vaarn.github.io/#/gnomon-generators?id=pit-fighters</srdlink>
+		<srdlink word="Pit Fighter">https://vaarn.github.io/#/gnomon-generators?id=pit-fighters</srdlink>
+		<srdlink word="Philosopher's Guild">https://vaarn.github.io/#/gnomon-generators?id=philosopher39s-guild</srdlink>
+		<srdlink word="Gang">https://vaarn.github.io/#/gnomon-generators?id=gang-of-criminals</srdlink>
+		<srdlink word="Tavern">https://vaarn.github.io/#/gnomon-generators?id=tavern</srdlink>
 	</srdlinks>
 </vaarn>
