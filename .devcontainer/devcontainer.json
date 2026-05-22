@@ -1,6 +1,6 @@
 // Unity 2022.3.62f3 – VaarnAtlas
 // Full build environment with WebGL support.
-// Base image is Ubuntu 22.04 (glibc 2.35) — no glibc workaround needed.
+// Base image is Ubuntu 22.04 (glibc 2.35)
 //
 // FIRST-TIME SETUP (one-time, ~5 min):
 //   1. Start the container without UNITY_LICENSE set — it will skip activation.
