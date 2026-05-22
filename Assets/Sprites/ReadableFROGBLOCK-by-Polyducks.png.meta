@@ -771,7 +771,7 @@ TextureImporter:
       213: 4706352849039261490
     second: ReadableFROGBLOCK-by-Polyducks_255
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -788,10 +788,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -830,6 +832,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -841,6 +845,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -853,6 +858,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -865,6 +871,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -6256,9 +6263,265 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      ReadableFROGBLOCK-by-Polyducks_0: -5248083753807599107
+      ReadableFROGBLOCK-by-Polyducks_1: 8803833463535702732
+      ReadableFROGBLOCK-by-Polyducks_10: -6224477771565057783
+      ReadableFROGBLOCK-by-Polyducks_100: -4736590695613222931
+      ReadableFROGBLOCK-by-Polyducks_101: 4344815608902035053
+      ReadableFROGBLOCK-by-Polyducks_102: -5228609616547607770
+      ReadableFROGBLOCK-by-Polyducks_103: -5959993922517969781
+      ReadableFROGBLOCK-by-Polyducks_104: -4252092498205969808
+      ReadableFROGBLOCK-by-Polyducks_105: -8210360372853218887
+      ReadableFROGBLOCK-by-Polyducks_106: -6403416878891963281
+      ReadableFROGBLOCK-by-Polyducks_107: 894475005208682622
+      ReadableFROGBLOCK-by-Polyducks_108: -5512125423276935805
+      ReadableFROGBLOCK-by-Polyducks_109: 7424808467644066635
+      ReadableFROGBLOCK-by-Polyducks_11: -1010347429183755550
+      ReadableFROGBLOCK-by-Polyducks_110: 8874193005861802926
+      ReadableFROGBLOCK-by-Polyducks_111: -2450785185252833059
+      ReadableFROGBLOCK-by-Polyducks_112: -286515317984336000
+      ReadableFROGBLOCK-by-Polyducks_113: -1318825459077639877
+      ReadableFROGBLOCK-by-Polyducks_114: 1814778562678938127
+      ReadableFROGBLOCK-by-Polyducks_115: -8045034396979530711
+      ReadableFROGBLOCK-by-Polyducks_116: -2123806827983403651
+      ReadableFROGBLOCK-by-Polyducks_117: -5717669137200646149
+      ReadableFROGBLOCK-by-Polyducks_118: 5682925637486570313
+      ReadableFROGBLOCK-by-Polyducks_119: 282317297077664727
+      ReadableFROGBLOCK-by-Polyducks_12: 7137593364097082992
+      ReadableFROGBLOCK-by-Polyducks_120: -3890892207211490907
+      ReadableFROGBLOCK-by-Polyducks_121: 3668239546810189933
+      ReadableFROGBLOCK-by-Polyducks_122: 7176964114040574607
+      ReadableFROGBLOCK-by-Polyducks_123: -8842814574798233844
+      ReadableFROGBLOCK-by-Polyducks_124: 4301692836528260205
+      ReadableFROGBLOCK-by-Polyducks_125: 2367472636562780243
+      ReadableFROGBLOCK-by-Polyducks_126: 7582588426920674114
+      ReadableFROGBLOCK-by-Polyducks_127: 345687226871085546
+      ReadableFROGBLOCK-by-Polyducks_128: -2989474805972826945
+      ReadableFROGBLOCK-by-Polyducks_129: 3505441614163516944
+      ReadableFROGBLOCK-by-Polyducks_13: 7976667624820986724
+      ReadableFROGBLOCK-by-Polyducks_130: 2583742434108906028
+      ReadableFROGBLOCK-by-Polyducks_131: -8944550474491963516
+      ReadableFROGBLOCK-by-Polyducks_132: 31352467304226185
+      ReadableFROGBLOCK-by-Polyducks_133: 3308213030107459914
+      ReadableFROGBLOCK-by-Polyducks_134: -6879702596058556497
+      ReadableFROGBLOCK-by-Polyducks_135: 631022766476753643
+      ReadableFROGBLOCK-by-Polyducks_136: -5624302843816740396
+      ReadableFROGBLOCK-by-Polyducks_137: 8504754723720752760
+      ReadableFROGBLOCK-by-Polyducks_138: -5339689315727922994
+      ReadableFROGBLOCK-by-Polyducks_139: 3191448588567643345
+      ReadableFROGBLOCK-by-Polyducks_14: -1206052286389645988
+      ReadableFROGBLOCK-by-Polyducks_140: -3586208756462186632
+      ReadableFROGBLOCK-by-Polyducks_141: 3166345591229477608
+      ReadableFROGBLOCK-by-Polyducks_142: -9199140454595163090
+      ReadableFROGBLOCK-by-Polyducks_143: -3907843000366389849
+      ReadableFROGBLOCK-by-Polyducks_144: -6759121117662888885
+      ReadableFROGBLOCK-by-Polyducks_145: 5362176316667078306
+      ReadableFROGBLOCK-by-Polyducks_146: -9062815532917917977
+      ReadableFROGBLOCK-by-Polyducks_147: -1344119766231956237
+      ReadableFROGBLOCK-by-Polyducks_148: 765771711383335691
+      ReadableFROGBLOCK-by-Polyducks_149: 449145881952030908
+      ReadableFROGBLOCK-by-Polyducks_15: -2022708959821367540
+      ReadableFROGBLOCK-by-Polyducks_150: -8763759841549573041
+      ReadableFROGBLOCK-by-Polyducks_151: 3925829049820750652
+      ReadableFROGBLOCK-by-Polyducks_152: 152024884025368288
+      ReadableFROGBLOCK-by-Polyducks_153: 1754447630570606628
+      ReadableFROGBLOCK-by-Polyducks_154: -1805679414597898261
+      ReadableFROGBLOCK-by-Polyducks_155: -6577582782061594515
+      ReadableFROGBLOCK-by-Polyducks_156: 4930065822307367901
+      ReadableFROGBLOCK-by-Polyducks_157: -1014296536334115964
+      ReadableFROGBLOCK-by-Polyducks_158: -4427579005771714864
+      ReadableFROGBLOCK-by-Polyducks_159: 5527279280441650204
+      ReadableFROGBLOCK-by-Polyducks_16: 3404518512127437694
+      ReadableFROGBLOCK-by-Polyducks_160: -3519658676309689116
+      ReadableFROGBLOCK-by-Polyducks_161: -3729745811220284963
+      ReadableFROGBLOCK-by-Polyducks_162: 7188103244401372300
+      ReadableFROGBLOCK-by-Polyducks_163: -2572813698931292411
+      ReadableFROGBLOCK-by-Polyducks_164: -8528516478118446330
+      ReadableFROGBLOCK-by-Polyducks_165: 504510584591678433
+      ReadableFROGBLOCK-by-Polyducks_166: 3967928591344272299
+      ReadableFROGBLOCK-by-Polyducks_167: -6129447082934453309
+      ReadableFROGBLOCK-by-Polyducks_168: -687813741639858094
+      ReadableFROGBLOCK-by-Polyducks_169: 4574414023834156516
+      ReadableFROGBLOCK-by-Polyducks_17: -9206427405633690545
+      ReadableFROGBLOCK-by-Polyducks_170: 7879024353590251062
+      ReadableFROGBLOCK-by-Polyducks_171: -1100519836524651521
+      ReadableFROGBLOCK-by-Polyducks_172: 1101479601290749606
+      ReadableFROGBLOCK-by-Polyducks_173: -7439017187601330807
+      ReadableFROGBLOCK-by-Polyducks_174: 919511063688738546
+      ReadableFROGBLOCK-by-Polyducks_175: 3094010341891140179
+      ReadableFROGBLOCK-by-Polyducks_176: 3844951695339148560
+      ReadableFROGBLOCK-by-Polyducks_177: 1985654160270660969
+      ReadableFROGBLOCK-by-Polyducks_178: 7508458103565654056
+      ReadableFROGBLOCK-by-Polyducks_179: -8797421223913725184
+      ReadableFROGBLOCK-by-Polyducks_18: 3928710482490679983
+      ReadableFROGBLOCK-by-Polyducks_180: 8897987091860166566
+      ReadableFROGBLOCK-by-Polyducks_181: -6116829460249500914
+      ReadableFROGBLOCK-by-Polyducks_182: 7672095146358965003
+      ReadableFROGBLOCK-by-Polyducks_183: 7587811583685289472
+      ReadableFROGBLOCK-by-Polyducks_184: -7295161890012011210
+      ReadableFROGBLOCK-by-Polyducks_185: -5235792733719840750
+      ReadableFROGBLOCK-by-Polyducks_186: 5963251925213333818
+      ReadableFROGBLOCK-by-Polyducks_187: -1726907441427275402
+      ReadableFROGBLOCK-by-Polyducks_188: -7225607178602069044
+      ReadableFROGBLOCK-by-Polyducks_189: -2732781075512168423
+      ReadableFROGBLOCK-by-Polyducks_19: -5371768152492774955
+      ReadableFROGBLOCK-by-Polyducks_190: -2243333361939403193
+      ReadableFROGBLOCK-by-Polyducks_191: -2769498049621469105
+      ReadableFROGBLOCK-by-Polyducks_192: 3994690985885239570
+      ReadableFROGBLOCK-by-Polyducks_193: -567016959869415549
+      ReadableFROGBLOCK-by-Polyducks_194: 6284867388677518908
+      ReadableFROGBLOCK-by-Polyducks_195: -5468452193165469987
+      ReadableFROGBLOCK-by-Polyducks_196: -3153066771025252126
+      ReadableFROGBLOCK-by-Polyducks_197: 1864239878192632929
+      ReadableFROGBLOCK-by-Polyducks_198: 8697821295037634112
+      ReadableFROGBLOCK-by-Polyducks_199: 8054436991520058337
+      ReadableFROGBLOCK-by-Polyducks_2: -2819753160540913351
+      ReadableFROGBLOCK-by-Polyducks_20: -2650114246634909592
+      ReadableFROGBLOCK-by-Polyducks_200: -4977264980463348539
+      ReadableFROGBLOCK-by-Polyducks_201: -7818056971411644285
+      ReadableFROGBLOCK-by-Polyducks_202: 6894820966326506594
+      ReadableFROGBLOCK-by-Polyducks_203: 4754701817501285743
+      ReadableFROGBLOCK-by-Polyducks_204: -309460719367301750
+      ReadableFROGBLOCK-by-Polyducks_205: 839292470661243972
+      ReadableFROGBLOCK-by-Polyducks_206: -3746513060941043934
+      ReadableFROGBLOCK-by-Polyducks_207: -2391249720962237835
+      ReadableFROGBLOCK-by-Polyducks_208: 8501152054995929495
+      ReadableFROGBLOCK-by-Polyducks_209: -4640525166251079597
+      ReadableFROGBLOCK-by-Polyducks_21: -8297930322450944339
+      ReadableFROGBLOCK-by-Polyducks_210: 4363245278473438987
+      ReadableFROGBLOCK-by-Polyducks_211: 7916966987446712895
+      ReadableFROGBLOCK-by-Polyducks_212: 6879736975228842014
+      ReadableFROGBLOCK-by-Polyducks_213: 6349427022428145710
+      ReadableFROGBLOCK-by-Polyducks_214: 3543369786281206623
+      ReadableFROGBLOCK-by-Polyducks_215: 7732300711744478143
+      ReadableFROGBLOCK-by-Polyducks_216: 5381401700448973292
+      ReadableFROGBLOCK-by-Polyducks_217: -5955023643583252006
+      ReadableFROGBLOCK-by-Polyducks_218: 9108236263012058956
+      ReadableFROGBLOCK-by-Polyducks_219: 3308586622427124772
+      ReadableFROGBLOCK-by-Polyducks_22: 1377754817422593502
+      ReadableFROGBLOCK-by-Polyducks_220: 3153050958372480708
+      ReadableFROGBLOCK-by-Polyducks_221: 9077781597966631833
+      ReadableFROGBLOCK-by-Polyducks_222: -8177059706979207112
+      ReadableFROGBLOCK-by-Polyducks_223: 7025588418549923112
+      ReadableFROGBLOCK-by-Polyducks_224: 5994082496529373772
+      ReadableFROGBLOCK-by-Polyducks_225: -2277769047076048633
+      ReadableFROGBLOCK-by-Polyducks_226: -8599867800986272440
+      ReadableFROGBLOCK-by-Polyducks_227: 7613615567455095984
+      ReadableFROGBLOCK-by-Polyducks_228: -6879761324852331609
+      ReadableFROGBLOCK-by-Polyducks_229: -7591343161335876378
+      ReadableFROGBLOCK-by-Polyducks_23: -6474796874540649934
+      ReadableFROGBLOCK-by-Polyducks_230: 5341180405957755455
+      ReadableFROGBLOCK-by-Polyducks_231: -1559685166822980592
+      ReadableFROGBLOCK-by-Polyducks_232: 5455434444187665224
+      ReadableFROGBLOCK-by-Polyducks_233: 3273774270693800780
+      ReadableFROGBLOCK-by-Polyducks_234: 7635923976115116307
+      ReadableFROGBLOCK-by-Polyducks_235: -2908275863304547953
+      ReadableFROGBLOCK-by-Polyducks_236: -7745636629629983903
+      ReadableFROGBLOCK-by-Polyducks_237: 8431704632402881200
+      ReadableFROGBLOCK-by-Polyducks_238: 8899207891199726403
+      ReadableFROGBLOCK-by-Polyducks_239: -2235749574521455820
+      ReadableFROGBLOCK-by-Polyducks_24: 6750028224431924554
+      ReadableFROGBLOCK-by-Polyducks_240: -2023692767376178367
+      ReadableFROGBLOCK-by-Polyducks_241: -5898598290709806096
+      ReadableFROGBLOCK-by-Polyducks_242: 8396493509599876465
+      ReadableFROGBLOCK-by-Polyducks_243: -5842580894878482088
+      ReadableFROGBLOCK-by-Polyducks_244: 8121833262627508369
+      ReadableFROGBLOCK-by-Polyducks_245: 8778798612304173072
+      ReadableFROGBLOCK-by-Polyducks_246: -344042281350963575
+      ReadableFROGBLOCK-by-Polyducks_247: -847542288789184233
+      ReadableFROGBLOCK-by-Polyducks_248: 2588800590435364976
+      ReadableFROGBLOCK-by-Polyducks_249: 9045582930413628257
+      ReadableFROGBLOCK-by-Polyducks_25: -1254452264213278227
+      ReadableFROGBLOCK-by-Polyducks_250: -6372308955575196273
+      ReadableFROGBLOCK-by-Polyducks_251: 682453222397454246
+      ReadableFROGBLOCK-by-Polyducks_252: -6490886582149998210
+      ReadableFROGBLOCK-by-Polyducks_253: 2769365541967435534
+      ReadableFROGBLOCK-by-Polyducks_254: -6718866538502346756
+      ReadableFROGBLOCK-by-Polyducks_255: 4706352849039261490
+      ReadableFROGBLOCK-by-Polyducks_26: 1268438517895819147
+      ReadableFROGBLOCK-by-Polyducks_27: -5102332491141086280
+      ReadableFROGBLOCK-by-Polyducks_28: -7005141611779808092
+      ReadableFROGBLOCK-by-Polyducks_29: -7241361974789015241
+      ReadableFROGBLOCK-by-Polyducks_3: 4235119869386601215
+      ReadableFROGBLOCK-by-Polyducks_30: 2203027303055541509
+      ReadableFROGBLOCK-by-Polyducks_31: -8179581462978890452
+      ReadableFROGBLOCK-by-Polyducks_32: -1973556966220576815
+      ReadableFROGBLOCK-by-Polyducks_33: -1423301345168257616
+      ReadableFROGBLOCK-by-Polyducks_34: 5658698564787218600
+      ReadableFROGBLOCK-by-Polyducks_35: 4832904681383630182
+      ReadableFROGBLOCK-by-Polyducks_36: 8284977506137822348
+      ReadableFROGBLOCK-by-Polyducks_37: -7316142755441448258
+      ReadableFROGBLOCK-by-Polyducks_38: 4850223137625283481
+      ReadableFROGBLOCK-by-Polyducks_39: 4911068116621498388
+      ReadableFROGBLOCK-by-Polyducks_4: -7528333855483443091
+      ReadableFROGBLOCK-by-Polyducks_40: -2678671688975777652
+      ReadableFROGBLOCK-by-Polyducks_41: 8440472290416913827
+      ReadableFROGBLOCK-by-Polyducks_42: -8922859414834673952
+      ReadableFROGBLOCK-by-Polyducks_43: 5326351612023392961
+      ReadableFROGBLOCK-by-Polyducks_44: 1172750134487243064
+      ReadableFROGBLOCK-by-Polyducks_45: -5711726036737283811
+      ReadableFROGBLOCK-by-Polyducks_46: 2921281802145331609
+      ReadableFROGBLOCK-by-Polyducks_47: 5589028353182842102
+      ReadableFROGBLOCK-by-Polyducks_48: 6707288517700009905
+      ReadableFROGBLOCK-by-Polyducks_49: 6408529073452394335
+      ReadableFROGBLOCK-by-Polyducks_5: 3201933194797088292
+      ReadableFROGBLOCK-by-Polyducks_50: -5603346855598113343
+      ReadableFROGBLOCK-by-Polyducks_51: -4575487451326334144
+      ReadableFROGBLOCK-by-Polyducks_52: -257810829228978923
+      ReadableFROGBLOCK-by-Polyducks_53: 1524694007628493076
+      ReadableFROGBLOCK-by-Polyducks_54: 243575481224012252
+      ReadableFROGBLOCK-by-Polyducks_55: -4812914112968444814
+      ReadableFROGBLOCK-by-Polyducks_56: -5159330616550591368
+      ReadableFROGBLOCK-by-Polyducks_57: 4025606248640170906
+      ReadableFROGBLOCK-by-Polyducks_58: -3416923105913766756
+      ReadableFROGBLOCK-by-Polyducks_59: 7915513305004733038
+      ReadableFROGBLOCK-by-Polyducks_6: 1484836302234227998
+      ReadableFROGBLOCK-by-Polyducks_60: 9191334756601658811
+      ReadableFROGBLOCK-by-Polyducks_61: 2170383257434539044
+      ReadableFROGBLOCK-by-Polyducks_62: 2168979672824113688
+      ReadableFROGBLOCK-by-Polyducks_63: -6357956407360554837
+      ReadableFROGBLOCK-by-Polyducks_64: 6892355353397922497
+      ReadableFROGBLOCK-by-Polyducks_65: 3121142837803306824
+      ReadableFROGBLOCK-by-Polyducks_66: 8538905275829307450
+      ReadableFROGBLOCK-by-Polyducks_67: 8180824136306899306
+      ReadableFROGBLOCK-by-Polyducks_68: -2291480256078504140
+      ReadableFROGBLOCK-by-Polyducks_69: -7890281914714504963
+      ReadableFROGBLOCK-by-Polyducks_7: 3179560448594124496
+      ReadableFROGBLOCK-by-Polyducks_70: 4055734643598478687
+      ReadableFROGBLOCK-by-Polyducks_71: -6715261700620083219
+      ReadableFROGBLOCK-by-Polyducks_72: 4776450506050885892
+      ReadableFROGBLOCK-by-Polyducks_73: -4857231931156607777
+      ReadableFROGBLOCK-by-Polyducks_74: 8190178107367697901
+      ReadableFROGBLOCK-by-Polyducks_75: -7736071694780293935
+      ReadableFROGBLOCK-by-Polyducks_76: -3769807040565166722
+      ReadableFROGBLOCK-by-Polyducks_77: 1740338147175713016
+      ReadableFROGBLOCK-by-Polyducks_78: -3417372868734513258
+      ReadableFROGBLOCK-by-Polyducks_79: -5111167016838889976
+      ReadableFROGBLOCK-by-Polyducks_8: -1758937610050870122
+      ReadableFROGBLOCK-by-Polyducks_80: 2434051337603382720
+      ReadableFROGBLOCK-by-Polyducks_81: 3091100843228460037
+      ReadableFROGBLOCK-by-Polyducks_82: -7328584133688857716
+      ReadableFROGBLOCK-by-Polyducks_83: -8042369243802537850
+      ReadableFROGBLOCK-by-Polyducks_84: -1289372036178590875
+      ReadableFROGBLOCK-by-Polyducks_85: 5935745383385619737
+      ReadableFROGBLOCK-by-Polyducks_86: -2906951036795114487
+      ReadableFROGBLOCK-by-Polyducks_87: -4117733514960026455
+      ReadableFROGBLOCK-by-Polyducks_88: -4122649562588165002
+      ReadableFROGBLOCK-by-Polyducks_89: -4824540765478524
+      ReadableFROGBLOCK-by-Polyducks_9: 6463563406045740774
+      ReadableFROGBLOCK-by-Polyducks_90: 7356516212870293950
+      ReadableFROGBLOCK-by-Polyducks_91: -5139330075406444226
+      ReadableFROGBLOCK-by-Polyducks_92: -705383604260334174
+      ReadableFROGBLOCK-by-Polyducks_93: -2574344481334147637
+      ReadableFROGBLOCK-by-Polyducks_94: 414584624618586112
+      ReadableFROGBLOCK-by-Polyducks_95: -8605757967245075044
+      ReadableFROGBLOCK-by-Polyducks_96: -8343925627817253483
+      ReadableFROGBLOCK-by-Polyducks_97: 8143986706011148739
+      ReadableFROGBLOCK-by-Polyducks_98: 4563119007680399151
+      ReadableFROGBLOCK-by-Polyducks_99: -7166787906475804442
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
